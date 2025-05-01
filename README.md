@@ -1,3 +1,5 @@
+<!-- GAIA Platforms Root Index • See below for AIRs, SPACEs, GREENTECH and Foundations -->
+
 # GAIA Organization
 
 ## 📘 Introducción
@@ -93,5 +95,7 @@ COAFI Footer: © 2025 GAIA Organization. Todos los derechos reservados.
 > Para más información, consulta la documentación vinculada en cada sección o contacta al equipo de coordinación de GAIA Platforms.
 
 \- Amedeo PELLICCIA
+
+
 
 
