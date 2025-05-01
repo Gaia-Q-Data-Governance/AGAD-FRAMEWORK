@@ -1,4 +1,3 @@
-# .github
 # GAIA Organization
 
 ## 📘 Introducción
@@ -26,9 +25,9 @@ GAIA Organization está diseñada bajo una arquitectura modular y federada que f
 ```mermaid
 graph LR
     subgraph GAIA Organization (Root)
-        GOV[Governance (Federated)]
-        ARCH[Architecture (Modular)]
-        KM[Knowledge Mgmt (COAFI)]
+        GOV[Federated]
+        ARCH[Modular]
+        KM[COAFI Standard System]
     end
 
     subgraph Primary Divisions
@@ -94,4 +93,5 @@ COAFI Footer: © 2025 GAIA Organization. Todos los derechos reservados.
 > Para más información, consulta la documentación vinculada en cada sección o contacta al equipo de coordinación de GAIA Platforms.
 
 \- Amedeo PELLICCIA
+
 
