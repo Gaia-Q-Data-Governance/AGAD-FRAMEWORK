@@ -26,7 +26,7 @@ GAIA Organization está diseñada bajo una arquitectura modular y federada que f
 
 ```mermaid
 graph LR
-    subgraph GAIA Organization (Root)
+    subgraph GAIA Organization as Main Root
         GOV[Federated]
         ARCH[Modular]
         KM[COAFI Standard System]
@@ -39,8 +39,8 @@ graph LR
     end
 
     subgraph Support Layers
-       SHARED[SharedServices]
-       FD[GP-FD (Foundations)]
+       SHARED[SharedServices, SharedValues, SharedGoals; CommonDataBase; CodeAsInspirationalSource COM-AI-SOURCE]
+       FD[GP-FD Foundations]
     end
 
     GOV & ARCH & KM --> AIRs & SPACEs & GREEN & SHARED & FD
@@ -95,7 +95,6 @@ COAFI Footer: © 2025 GAIA Organization. Todos los derechos reservados.
 > Para más información, consulta la documentación vinculada en cada sección o contacta al equipo de coordinación de GAIA Platforms.
 
 \- Amedeo PELLICCIA
-
 
 
 
