@@ -7,8 +7,8 @@
 
 ## 🌐 GAIA-QAO Domains
 
-- **GAIA‑AIR** — Intelligent flight systems, IMA/CMS, and quantum-optimized routing  
-- **GAIA‑SPACE** — Orbital systems, spacecraft AI agents, and secure vector shuttle networks  
+- **GAIA‑AIR** — Intelligent flight objects and transport systems, IMA/CMS, and quantum-optimized routing  
+- **GAIA‑SPACE** — Orbital systems, spacecraft, MultiDim MultiMod AI agents, vector shuttles, and global cybersecurity networks  
 - **GAIA‑GreenTech** — Sustainable aerospace, energy efficiency, and CO₂ mitigation  
 - **GAIA‑HPC** — Quantum computing, simulation backends, and digital twin orchestration  
 - **GAIA‑SCIENCE‑RESEARCH** — Advanced theoretical models (inspired by cosmos, driven by physics), materials, systems theory, and ontology-driven AI foundations  
@@ -26,3 +26,11 @@
 > Building the next generation of intelligent, trusted, and interoperable aerospace platforms.
 
 📫 [Contact](mailto:ame.pell@outlook.com) • 🔗 [ORCID iD](https://orcid.org/0009-0008-1743-0409)
+
+---
+
+**Status:** `Published`  
+**Filename:** `README.md`  
+**Version:** `1.1`  
+**InfoCode:** `GAIA-QAO-ORG-README`  
+
