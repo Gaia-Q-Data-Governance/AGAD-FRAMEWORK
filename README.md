@@ -1,7 +1,7 @@
 # Introduction to the AGAD-ID System and its Lifecycle Framework
 
 ---
-*Status: Draft | Filename: INTRO_AGAD-ID_System.md | Version: 0.1 | InfoCode: GAIA-AGADID-SYSTEM-INTRO-001*
+*Status: Published | Filename: INTRO_AGAD-ID_System.md | Version: 0.1 | InfoCode: GAIA-AGADID-SYSTEM-INTRO-001*
 ---
 
 ## 🎯 Purpose and Vision
@@ -73,4 +73,4 @@ The AGAD-ID system is an integral component of Gaia-Q-Aerospace:
 This system represents a fundamental step towards the Gaia-Q-Aerospace vision of intelligent, sustainable, and autonomous aerospace engineering.
 
 ---
-*Status: Draft | Filename: INTRO_AGAD-ID_System.md | Version: 0.1 | InfoCode: GAIA-AGADID-SYSTEM-INTRO-001*
+*Status: Published | Filename: INTRO_AGAD-ID_System.md | Version: 0.1 | InfoCode: GAIA-AGADID-SYSTEM-INTRO-001*
