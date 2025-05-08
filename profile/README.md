@@ -14,10 +14,10 @@
   <p><strong>Quantum Aerospace Organization (GAIA‑QAO)</strong> model is composed of five main modules (or virtual teams), working in synergy across domains:</p>
 
   <ul>
-    <li><strong>GAIA‑AIR</strong>: Quantum-enhanced intelligent flight systems, avionics, and mission optimization.</li>
-    <li><strong>GAIA‑SPACE</strong>: Orbital and vector systems, mechanics, satellite AI agents, and quantum-secure communication frameworks.</li>
-    <li><strong>GAIA‑GreenTech</strong>: Sustainable aerospace materials, energy efficiency models, and CO₂-reduction strategies.</li>
-    <li><strong>GAIA‑HPC</strong>: High-performance computing infrastructure for quantum simulation, digital twins, and agentic orchestration.</li>
+    <li><strong>GAIA-Q‑AIR</strong>: Quantum-enhanced intelligent flight systems, avionics, and mission optimization.</li>
+    <li><strong>GAIA‑Q-SPACE</strong>: Orbital and vector systems, mechanics, satellite AI agents, and quantum-secure communication frameworks.</li>
+    <li><strong>GAIA-Q-GreenTech</strong>: Sustainable aerospace materials, energy efficiency models, and CO₂-reduction strategies.</li>
+    <li><strong>GAIA‑Q-HPC</strong>: High-performance computing infrastructure for quantum simulation, digital twins, and agentic orchestration.</li>
     <li><strong>GAIA‑SCIREF</strong>: Scientific research team focusing on emerging technologies, ontology, ethics, and experimental models.</li>
   </ul>
 
@@ -34,4 +34,5 @@
 
 </body>
 </html>
+
 
