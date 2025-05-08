@@ -25,10 +25,10 @@
 
   <h3>Quick Access Footer Links</h3>
   <ul>
-    <li><a href="https://github.com/enterprises/gaia-qao/gaia-air">Gaia‑Air</a></li>
-    <li><a href="https://github.com/enterprises/gaia-qao/gaia-space">Gaia‑Space</a></li>
-    <li><a href="https://github.com/enterprises/gaia-qao/gaia-greentech">Gaia‑GreenTech</a></li>
-    <li><a href="https://github.com/enterprises/gaia-qao/gaia-hpc">Gaia‑High‑Performance‑Computing</a></li>
+    <li><a href="https://github.com/enterprises/gaia-qao/gaia-air">Gaia‑Q-Air</a></li>
+    <li><a href="https://github.com/enterprises/gaia-qao/gaia-space">Gaia‑Q-Space</a></li>
+    <li><a href="https://github.com/enterprises/gaia-qao/gaia-greentech">Gaia‑Q-GreenTech</a></li>
+    <li><a href="https://github.com/enterprises/gaia-qao/gaia-hpc">Gaia‑Q-High‑Performance‑Computing</a></li>
     <li><a href="https://github.com/enterprises/gaia-qao/gaia-sciref">Gaia‑Science-Research</a></li>
   </ul>
 
