@@ -1,4 +1,4 @@
-# Introduction to the AGAD-ID System and its Lifecycle Frameworkç
+# Introduction to the AGAD-ID System and its Lifecycle Framework
 
 # AGAD Framework (Aircraft Generative Algorithm Development)
 
