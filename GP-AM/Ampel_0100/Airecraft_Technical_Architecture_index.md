@@ -33,6 +33,7 @@
     <li><a href="https://github.com/enterprises/gaia-qao/gaia-greentech">Gaia‑Q-GreenTech</a></li>
     <li><a href="https://github.com/enterprises/gaia-qao/gaia-hpc">Gaia‑Q-High‑Performance‑Computing</a></li>
     <li><a href="https://github.com/enterprises/gaia-qao/gaia-sciref">Gaia‑Science-Research</a></li>
+    <li><a href="gaia-qao/gaia-shttps://github.com/enterprises/ciref">Gaia‑Science-Research</a></li>
   </ul>
 
 ---
