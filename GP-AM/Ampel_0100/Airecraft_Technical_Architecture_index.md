@@ -14,7 +14,7 @@
   <hr>
 
   <h2>Quantum Aerospace Organization Structure</h2>
-  <p><strong>Quantum Aerospace Organization (GAIA‑QAO)</strong> model is composed of six main modules (or virtual teams), working in synergy across domains. Additional modules are listed below:</p>
+  <p><strong>Quantum Aerospace Organization (GAIA‑QAO)</strong> model is composed of six main modules (or virtual teams), working in synergy across domains. There are 5 more modules (listed below) in addition to Gaia-Q-Data-Governance:</p>
 
   <ul>
     <li><strong>GAIA-Q‑AIR</strong>: Quantum-enhanced intelligent flight systems, avionics, and mission optimization.</li>
