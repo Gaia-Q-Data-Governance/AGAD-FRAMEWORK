@@ -13,6 +13,11 @@
   <p><strong>Author:</strong> Amedeo Pelliccia</p>
   <hr>
 
+  <a href="https://github.com/Robbbo-T/"> <!-- Optional: Link logo to the user/org profile -->
+    <img src="https://github.com/Robbbo-T/assets/raw/main/QAO-LOGO.png" alt="GAIA-QAO Logo" width="150"/>
+  </a>
+</p>
+
   <h2>Quantum Aerospace Organization Structure</h2>
   <p><strong>Quantum Aerospace Organization (GAIA‑QAO)</strong> model is composed of six main modules (or virtual teams), working in synergy across domains. There are 5 more modules (listed below) in addition to Gaia-Q-Data-Governance:</p>
 
@@ -33,7 +38,7 @@
     <li><a href="https://github.com/enterprises/gaia-qao/gaia-greentech">Gaia‑Q-GreenTech</a></li>
     <li><a href="https://github.com/enterprises/gaia-qao/gaia-hpc">Gaia‑Q-High‑Performance‑Computing</a></li>
     <li><a href="https://github.com/enterprises/gaia-qao/gaia-sciref">Gaia‑Science-Research</a></li>
-    <li><a href="gaia-qao/gaia-shttps://github.com/enterprises/ciref">Gaia‑Science-Research</a></li>
+    <li><a href="https://github.com/enterprises/ciref">Gaia-Q-Data-Governance</a></li>
   </ul>
 
 ---
@@ -58,6 +63,9 @@
 <p align="center">
   <em>Master Table of Contents (AToC) for the AMPEL BWB Q100 and related Advanced Aircraft Platforms.</em>
 </p>
+
+
+![image](https://github.com/user-attachments/assets/3a7ea2a8-a49c-45e1-ac98-5a5d76fdfe8c)
 
 ## Table of Contents
 
