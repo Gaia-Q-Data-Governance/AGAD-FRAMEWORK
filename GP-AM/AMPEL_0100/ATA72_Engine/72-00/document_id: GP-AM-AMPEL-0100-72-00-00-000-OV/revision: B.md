@@ -1,6 +1,6 @@
 ---
 title: Propulsion System Overview - ATA 72
-document_id: GP-AM-AMPEL-0100-72-00-00-000-OV-B
+document_id: GP-AM-AMPEL-0100-72-00-00-000-OV
 revision: B
 version: 1.0.0
 date: 2025-05-24
