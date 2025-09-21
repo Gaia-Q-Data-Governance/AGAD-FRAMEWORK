@@ -1,6 +1,6 @@
 ---
 title: AMPEL BWB Q100 - General Information Overview
-document_id: GP-AM-AMPEL-0100-00-00-00-000-OV-D
+document_id: GP-AM-AMPEL-0100-00-00-00-000-OV
 revision: D
 version: 1.0.0
 date: 2025-05-20
