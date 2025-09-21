@@ -611,54 +611,62 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 *Directory: `./GP-AM/AMPEL_0100/ATA00_General/`*
 
+Of course. I will correct the systematic filename error in the provided AToC snippet.
+
+The primary error is that the ATA chapter code in every filename is incorrectly set to `53` (Fuselage) instead of the correct chapter for its section. I will replace this with the proper ATA chapter number based on the heading under which each file is listed.
+
+Here is the corrected Markdown block:
+
+---
+
 -   **00-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-00/`*
-    -   [`00-00-00-000`](./GP-AM/AMPEL_0100/ATA00_General/00-00/GP-AM-AMPEL-0100-53-00-00-000-OV-A.md): General Information - *(OV)*
-    -   [`00-00-00-001`](./GP-AM/AMPEL_0100/ATA00_General/00-00/GP-AM-AMPEL-0100-53-00-00-001-SPEC-A.md): Aircraft Specifications - *(SPEC)*
-    -   [`00-00-00-002`](./GP-AM/AMPEL_0100/ATA00_General/00-00/GP-AM-AMPEL-0100-53-00-00-002-GLO-A.md): Glossary and Abbreviations - *(GLO)*
+    -   [`00-00-00-000`](./GP-AM/AMPEL_0100/ATA00_General/00-00/GP-AM-AMPEL-0100-00-00-00-000-OV-A.md): General Information - *(OV)*
+    -   [`00-00-00-001`](./GP-AM/AMPEL_0100/ATA00_General/00-00/GP-AM-AMPEL-0100-00-00-00-001-SPEC-A.md): Aircraft Specifications - *(SPEC)*
+    -   [`00-00-00-002`](./GP-AM/AMPEL_0100/ATA00_General/00-00/GP-AM-AMPEL-0100-00-00-00-002-GLO-A.md): Glossary and Abbreviations - *(GLO)*
 -   <a name="ata-00-10-requirements-management--design-traceability"></a> **00-10: Requirements Management & Design Traceability**
     *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/`*
     *   *Focus: Processes, frameworks, and tools for managing requirements and ensuring design traceability.*
     -   <a name="ata-00-10-00"></a> **00-10-00: Requirements Management General**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-00/`*
-        -   [`00-10-00-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-00/GP-AM-AMPEL-0100-53-00-10-00-000-OV-A.md): Requirements Management System Overview - *(OV)*
-        -   [`00-10-00-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-00/GP-AM-AMPEL-0100-53-00-10-00-001-PLAN-A.md): Requirements Management Plan - *(PLAN)*
+        -   [`00-10-00-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-00/GP-AM-AMPEL-0100-00-10-00-000-OV-A.md): Requirements Management System Overview - *(OV)*
+        -   [`00-10-00-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-00/GP-AM-AMPEL-0100-00-10-00-001-PLAN-A.md): Requirements Management Plan - *(PLAN)*
     -   <a name="ata-00-10-01"></a> **00-10-01: Requirements Identification and Control**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-10/`*
-        -   [`00-10-01-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-10/GP-AM-AMPEL-0100-53-00-10-10-000-SPEC-A.md): Requirements ID System Specification - *(SPEC)*
-        -   [`00-10-01-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-10/GP-AM-AMPEL-0100-53-00-10-10-001-PROC-A.md): Requirement Change Control Procedure - *(PROC)*
+        -   [`00-10-01-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-10/GP-AM-AMPEL-0100-00-10-10-000-SPEC-A.md): Requirements ID System Specification - *(SPEC)*
+        -   [`00-10-01-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-10/GP-AM-AMPEL-0100-00-10-10-001-PROC-A.md): Requirement Change Control Procedure - *(PROC)*
     -   <a name="ata-00-10-02"></a> **00-10-02: Bidirectional Traceability Framework**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-20/`*
-        -   [`00-10-02-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-20/GP-AM-AMPEL-0100-53-00-10-20-000-SPEC-A.md): Traceability Database Schema Specification - *(SPEC, JSON)*
-        -   [`00-10-02-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-20/GP-AM-AMPEL-0100-53-00-10-20-001-SDD-A.md): Traceability Tool System Description - *(SDD)*
+        -   [`00-10-02-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-20/GP-AM-AMPEL-0100-00-10-20-000-SPEC-A.md): Traceability Database Schema Specification - *(SPEC, JSON)*
+        -   [`00-10-02-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-20/GP-AM-AMPEL-0100-00-10-20-001-SDD-A.md): Traceability Tool System Description - *(SDD)*
     -   <a name="ata-00-10-03"></a> **00-10-03: Real-time Impact Analysis System**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-30/`*
-        -   [`00-10-03-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-30/GP-AM-AMPEL-0100-53-00-10-30-000-SPEC-A.md): Impact Analysis Model Specification - *(SPEC, JSON)*
-        -   [`00-10-03-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-30/GP-AM-AMPEL-0100-53-00-10-30-001-SDD-A.md): Impact Analysis Engine Description - *(SDD)*
+        -   [`00-10-03-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-30/GP-AM-AMPEL-0100-00-10-30-000-SPEC-A.md): Impact Analysis Model Specification - *(SPEC, JSON)*
+        -   [`00-10-03-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-30/GP-AM-AMPEL-0100-00-10-30-001-SDD-A.md): Impact Analysis Engine Description - *(SDD)*
     -   <a name="ata-00-10-04"></a> **00-10-04: AS9100 Alignment Documentation**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-40/`*
-        -   [`00-10-04-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-40/GP-AM-AMPEL-0100-53-00-10-40-000-RPT-A.md): AS9100 Compliance Report (Requirements Mgmt) - *(RPT, CERT)*
-        -   [`00-10-04-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-40/GP-AM-AMPEL-0100-53-00-10-40-001-MD-A.md): AS9100 Clause 8.3 Implementation Description - *(MD)*
+        -   [`00-10-04-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-40/GP-AM-AMPEL-0100-00-10-40-000-RPT-A.md): AS9100 Compliance Report (Requirements Mgmt) - *(RPT, CERT)*
+        -   [`00-10-04-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-40/GP-AM-AMPEL-0100-00-10-40-001-MD-A.md): AS9100 Clause 8.3 Implementation Description - *(MD)*
     -   <a name="ata-00-10-05"></a> **00-10-05: Environmental Integration (ISO 14001)**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-50/`*
-        -   [`00-10-05-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-50/GP-AM-AMPEL-0100-53-00-10-50-000-RPT-A.md): Environmental Impacts Identification Report (Req Phase) - *(RPT, ANA)*
-        -   [`00-10-05-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-50/GP-AM-AMPEL-0100-53-00-10-50-001-MD-A.md): ISO 14001 Alignment for Requirements Mgmt - *(MD)*
+        -   [`00-10-05-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-50/GP-AM-AMPEL-0100-00-10-50-000-RPT-A.md): Environmental Impacts Identification Report (Req Phase) - *(RPT, ANA)*
+        -   [`00-10-05-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-50/GP-AM-AMPEL-0100-00-10-50-001-MD-A.md): ISO 14001 Alignment for Requirements Mgmt - *(MD)*
     -   <a name="ata-00-10-06"></a> **00-10-06: EASA CS-25 Compliance Mapping**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-60/`*
-        -   [`00-10-06-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-60/GP-AM-AMPEL-0100-53-00-10-60-000-XML-A.xml): CS-25 Requirements Trace Matrix - *(XML, REQ, IDX)*
-        -   [`00-10-06-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-60/GP-AM-AMPEL-0100-53-00-10-60-001-MD-A.md): CS-25 Compliance Strategy Description - *(MD, PLAN)*
+        -   [`00-10-06-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-60/GP-AM-AMPEL-0100-00-10-60-000-XML-A.xml): CS-25 Requirements Trace Matrix - *(XML, REQ, IDX)*
+        -   [`00-10-06-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-60/GP-AM-AMPEL-0100-00-10-60-001-MD-A.md): CS-25 Compliance Strategy Description - *(MD, PLAN)*
     -   <a name="ata-00-10-07"></a> **00-10-07: S1000D BREX File Generation**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-70/`*
-        -   [`00-10-07-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-70/GP-AM-AMPEL-0100-53-00-10-70-000-XML-A.xml): Project BREX File (S1000D) - *(XML, SPEC)*
-        -   [`00-10-07-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-70/GP-AM-AMPEL-0100-53-00-10-70-001-SDD-A.md): BREX Generation Tool Description - *(SDD)*
+        -   [`00-10-07-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-70/GP-AM-AMPEL-0100-00-10-70-000-XML-A.xml): Project BREX File (S1000D) - *(XML, SPEC)*
+        -   [`00-10-07-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-70/GP-AM-AMPEL-0100-00-10-70-001-SDD-A.md): BREX Generation Tool Description - *(SDD)*
     -   <a name="ata-00-10-08"></a> **00-10-08: Controlled Glossary Integration**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-80/`*
-        -   [`00-10-08-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-80/GP-AM-AMPEL-0100-53-00-10-80-000-REF-A.md): Reference to Master Controlled Glossary (APP-A) - *(REF, GLO)*
-        -   [`00-10-08-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-80/GP-AM-AMPEL-0100-53-00-10-80-001-PROC-A.md): Glossary Term Contribution Procedure - *(PROC)*
+        -   [`00-10-08-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-80/GP-AM-AMPEL-0100-00-10-80-000-REF-A.md): Reference to Master Controlled Glossary (APP-A) - *(REF, GLO)*
+        -   [`00-10-08-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-80/GP-AM-AMPEL-0100-00-10-80-001-PROC-A.md): Glossary Term Contribution Procedure - *(PROC)*
     -   <a name="ata-00-10-09"></a> **00-10-09: Reporting and Auditability System**
         *Directory: `./GP-AM/AMPEL_0100/ATA00_General/00-10/00-90/`*
-        -   [`00-10-09-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-90/GP-AM-AMPEL-0100-53-00-10-90-000-SDD-A.md): Reporting and Auditability System Description - *(SDD)*
-        -   [`00-10-09-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-90/GP-AM-AMPEL-0100-53-00-10-90-001-RPT-A.md): Example Audit Trail Report - *(RPT)* (Ref GP-COM-BITT)
+        -   [`00-10-09-000`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-90/GP-AM-AMPEL-0100-00-10-90-000-SDD-A.md): Reporting and Auditability System Description - *(SDD)*
+        -   [`00-10-09-001`](./GP-AM/AMPEL_0100/ATA00_General/00-10/00-90/GP-AM-AMPEL-0100-00-10-90-001-RPT-A.md): Example Audit Trail Report - *(RPT)* (Ref GP-COM-BITT)
 -   <a name="dt-roi-digital-twin-return-on-investment-framework"></a> **DT-ROI: Digital Twin Return on Investment Framework**
     *Directory: *(Likely separate, e.g., `GP-PM/DigitalTwin_ROI/`)*
     -   <a name="ata-00-dt-roi-10"></a> **DT-ROI-10: Fundamental Concepts and Principles**
@@ -751,29 +759,29 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-05-00"></a> **05-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-00/`*
-    -   [`05-00-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-00/GP-AM-AMPEL-0100-53-005-00-00-000-OV-A.md): Time Limits Overview - *(OV)*
-    -   [`05-00-00-001`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-00/GP-AM-AMPEL-0100-53-005-00-00-001-SPEC-A.md): Maintenance Program Specifications - *(SPEC)*
+    -   [`05-00-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-00/GP-AM-AMPEL-0100-05-00-00-000-OV-A.md): Time Limits Overview - *(OV)*
+    -   [`05-00-00-001`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-00/GP-AM-AMPEL-0100-05-00-00-001-SPEC-A.md): Maintenance Program Specifications - *(SPEC)*
 -   <a name="ata-05-10"></a> **05-10: Time Limits**
     *Directory: `./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-10/`*
-    -   [`05-10-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-10/GP-AM-AMPEL-0100-53-005-10-00-000-LIST-A.md): Component Time Limits - *(LIST)*
-    -   [`05-10-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-10/GP-AM-AMPEL-0100-53-005-10-10-000-LIST-A.md): Life-Limited Parts - *(LIST)*
+    -   [`05-10-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-10/GP-AM-AMPEL-0100-05-10-00-000-LIST-A.md): Component Time Limits - *(LIST)*
+    -   [`05-10-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-10/GP-AM-AMPEL-0100-05-10-10-000-LIST-A.md): Life-Limited Parts - *(LIST)*
 -   <a name="ata-05-20"></a> **05-20: Scheduled Maintenance Checks**
     *Directory: `./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-20/`*
-    -   [`05-20-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-20/GP-AM-AMPEL-0100-53-005-20-00-000-MPD-A.md): Maintenance Planning Document - *(MPD)*
-    -   [`05-20-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-20/GP-AM-AMPEL-0100-53-005-20-10-000-PROC-A.md): A-Check Procedures - *(PROC)*
-    -   [`05-20-20-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-20/GP-AM-AMPEL-0100-53-005-20-20-000-PROC-A.md): C-Check Procedures - *(PROC)*
+    -   [`05-20-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-20/GP-AM-AMPEL-0100-05-20-00-000-MPD-A.md): Maintenance Planning Document - *(MPD)*
+    -   [`05-20-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-20/GP-AM-AMPEL-0100-05-20-10-000-PROC-A.md): A-Check Procedures - *(PROC)*
+    -   [`05-20-20-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-20/GP-AM-AMPEL-0100-05-20-20-000-PROC-A.md): C-Check Procedures - *(PROC)*
 -   <a name="ata-05-30"></a> **05-30: Unscheduled Maintenance Checks**
     *Directory: `./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-30/`*
-    -   [`05-30-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-30/GP-AM-AMPEL-0100-53-005-30-00-000-PROC-A.md): Special Inspection Procedures - *(PROC)*
-    -   [`05-30-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-30/GP-AM-AMPEL-0100-53-005-30-10-000-PROC-A.md): Hard Landing Inspection - *(PROC)*
+    -   [`05-30-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-30/GP-AM-AMPEL-0100-05-30-00-000-PROC-A.md): Special Inspection Procedures - *(PROC)*
+    -   [`05-30-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-30/GP-AM-AMPEL-0100-05-30-10-000-PROC-A.md): Hard Landing Inspection - *(PROC)*
 -   <a name="ata-05-40"></a> **05-40: BITT-Enhanced Maintenance**
     *Directory: `./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-40/`*
-    -   [`05-40-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-40/GP-AM-AMPEL-0100-53-005-40-00-000-SDD-A.md): Blockchain-Based Maintenance Tracking - *(SDD)*
-    -   [`05-40-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-40/GP-AM-AMPEL-0100-53-005-40-10-000-ICD-A.md): BITT Maintenance Interface - *(ICD)* (Ref GP-COM-BITT)
+    -   [`05-40-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-40/GP-AM-AMPEL-0100-05-40-00-000-SDD-A.md): Blockchain-Based Maintenance Tracking - *(SDD)*
+    -   [`05-40-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-40/GP-AM-AMPEL-0100-05-40-10-000-ICD-A.md): BITT Maintenance Interface - *(ICD)* (Ref GP-COM-BITT)
 -   <a name="ata-05-50"></a> **05-50: Predictive Maintenance**
     *Directory: `./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-50/`*
-    -   [`05-50-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-50/GP-AM-AMPEL-0100-53-005-50-00-000-SDD-A.md): AI-Driven Predictive Maintenance - *(SDD)*
-    -   [`05-50-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-50/GP-AM-AMPEL-0100-53-005-50-10-000-ICD-A.md): i-Aher0 Maintenance Interface - *(ICD)* (Ref GP-COM-AI)
+    -   [`05-50-00-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-50/GP-AM-AMPEL-0100-05-50-00-000-SDD-A.md): AI-Driven Predictive Maintenance - *(SDD)*
+    -   [`05-50-10-000`](./GP-AM/AMPEL_0100/ATA05_TimeLimits/05-50/GP-AM-AMPEL-0100-05-50-10-000-ICD-A.md): i-Aher0 Maintenance Interface - *(ICD)* (Ref GP-COM-AI)
 </details>
 
 <details>
@@ -784,24 +792,24 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-06-00"></a> **06-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA06_Dimensions/06-00/`*
-    -   [`06-00-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-00/GP-AM-AMPEL-0100-53-006-00-00-000-OV-A.md): Dimensions Overview - *(OV)*
-    -   [`06-00-00-001`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-00/GP-AM-AMPEL-0100-53-006-00-00-001-DWG-A.md): Principal Dimensions - *(DWG)*
+    -   [`06-00-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-00/GP-AM-AMPEL-0100-06-00-00-000-OV-A.md): Dimensions Overview - *(OV)*
+    -   [`06-00-00-001`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-00/GP-AM-AMPEL-0100-06-00-00-001-DWG-A.md): Principal Dimensions - *(DWG)*
 -   <a name="ata-06-10"></a> **06-10: Aircraft Zones and Stations**
     *Directory: `./GP-AM/AMPEL_0100/ATA06_Dimensions/06-10/`*
-    -   [`06-10-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-10/GP-AM-AMPEL-0100-53-006-10-00-000-DWG-A.md): Zone Diagram - *(DWG)*
-    -   [`06-10-10-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-10/GP-AM-AMPEL-0100-53-006-10-10-000-LIST-A.md): Station Numbering System - *(LIST)*
+    -   [`06-10-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-10/GP-AM-AMPEL-0100-06-10-00-000-DWG-A.md): Zone Diagram - *(DWG)*
+    -   [`06-10-10-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-10/GP-AM-AMPEL-0100-06-10-10-000-LIST-A.md): Station Numbering System - *(LIST)*
 -   <a name="ata-06-20"></a> **06-20: Access Doors and Panels**
     *Directory: `./GP-AM/AMPEL_0100/ATA06_Dimensions/06-20/`*
-    -   [`06-20-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-20/GP-AM-AMPEL-0100-53-006-20-00-000-DWG-A.md): Access Door Locations - *(DWG)*
-    -   [`06-20-10-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-20/GP-AM-AMPEL-0100-53-006-20-10-000-LIST-A.md): Access Panel Index - *(LIST)*
+    -   [`06-20-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-20/GP-AM-AMPEL-0100-06-20-00-000-DWG-A.md): Access Door Locations - *(DWG)*
+    -   [`06-20-10-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-20/GP-AM-AMPEL-0100-06-20-10-000-LIST-A.md): Access Panel Index - *(LIST)*
 -   <a name="ata-06-30"></a> **06-30: Zonal Inspection Requirements**
     *Directory: `./GP-AM/AMPEL_0100/ATA06_Dimensions/06-30/`*
-    -   [`06-30-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-30/GP-AM-AMPEL-0100-53-006-30-00-000-PROC-A.md): Zonal Inspection Procedures - *(PROC)*
-    -   [`06-30-10-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-30/GP-AM-AMPEL-0100-53-006-30-10-000-LIST-A.md): Zonal Inspection Requirements - *(LIST)*
+    -   [`06-30-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-30/GP-AM-AMPEL-0100-06-30-00-000-PROC-A.md): Zonal Inspection Procedures - *(PROC)*
+    -   [`06-30-10-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-30/GP-AM-AMPEL-0100-06-30-10-000-LIST-A.md): Zonal Inspection Requirements - *(LIST)*
 -   <a name="ata-06-40"></a> **06-40: Digital Twin Integration**
     *Directory: `./GP-AM/AMPEL_0100/ATA06_Dimensions/06-40/`*
-    -   [`06-40-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-40/GP-AM-AMPEL-0100-53-006-40-00-000-ICD-A.md): Digital Twin Interface - *(ICD)*
-    -   [`06-40-10-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-40/GP-AM-AMPEL-0100-53-006-40-10-000-SDD-A.md): 3D Model Integration - *(SDD)* (Ref GP-COM-DTO)
+    -   [`06-40-00-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-40/GP-AM-AMPEL-0100-06-40-00-000-ICD-A.md): Digital Twin Interface - *(ICD)*
+    -   [`06-40-10-000`](./GP-AM/AMPEL_0100/ATA06_Dimensions/06-40/GP-AM-AMPEL-0100-06-40-10-000-SDD-A.md): 3D Model Integration - *(SDD)* (Ref GP-COM-DTO)
 </details>
 
 <details>
@@ -812,24 +820,24 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-07-00"></a> **07-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA07_Lifting/07-00/`*
-    -   [`07-00-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-00/GP-AM-AMPEL-0100-53-007-00-00-000-OV-A.md): Lifting and Shoring Overview - *(OV)*
-    -   [`07-00-00-001`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-00/GP-AM-AMPEL-0100-53-007-00-00-001-SPEC-A.md): Lifting Equipment Specifications - *(SPEC)*
+    -   [`07-00-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-00/GP-AM-AMPEL-0100-07-00-00-000-OV-A.md): Lifting and Shoring Overview - *(OV)*
+    -   [`07-00-00-001`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-00/GP-AM-AMPEL-0100-07-00-00-001-SPEC-A.md): Lifting Equipment Specifications - *(SPEC)*
 -   <a name="ata-07-10"></a> **07-10: Jacking**
     *Directory: `./GP-AM/AMPEL_0100/ATA07_Lifting/07-10/`*
-    -   [`07-10-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-10/GP-AM-AMPEL-0100-53-007-10-00-000-PROC-A.md): Jacking Procedures - *(PROC)*
-    -   [`07-10-10-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-10/GP-AM-AMPEL-0100-53-007-10-10-000-DWG-A.md): Jacking Points - *(DWG)*
+    -   [`07-10-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-10/GP-AM-AMPEL-0100-07-10-00-000-PROC-A.md): Jacking Procedures - *(PROC)*
+    -   [`07-10-10-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-10/GP-AM-AMPEL-0100-07-10-10-000-DWG-A.md): Jacking Points - *(DWG)*
 -   <a name="ata-07-20"></a> **07-20: Shoring**
     *Directory: `./GP-AM/AMPEL_0100/ATA07_Lifting/07-20/`*
-    -   [`07-20-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-20/GP-AM-AMPEL-0100-53-007-20-00-000-PROC-A.md): Shoring Procedures - *(PROC)*
-    -   [`07-20-10-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-20/GP-AM-AMPEL-0100-53-007-20-10-000-DWG-A.md): Shoring Points - *(DWG)*
+    -   [`07-20-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-20/GP-AM-AMPEL-0100-07-20-00-000-PROC-A.md): Shoring Procedures - *(PROC)*
+    -   [`07-20-10-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-20/GP-AM-AMPEL-0100-07-20-10-000-DWG-A.md): Shoring Points - *(DWG)*
 -   <a name="ata-07-30"></a> **07-30: Hoisting**
     *Directory: `./GP-AM/AMPEL_0100/ATA07_Lifting/07-30/`*
-    -   [`07-30-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-30/GP-AM-AMPEL-0100-53-007-30-00-000-PROC-A.md): Hoisting Procedures - *(PROC)*
-    -   [`07-30-10-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-30/GP-AM-AMPEL-0100-53-007-30-10-000-DWG-A.md): Hoisting Points - *(DWG)*
+    -   [`07-30-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-30/GP-AM-AMPEL-0100-07-30-00-000-PROC-A.md): Hoisting Procedures - *(PROC)*
+    -   [`07-30-10-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-30/GP-AM-AMPEL-0100-07-30-10-000-DWG-A.md): Hoisting Points - *(DWG)*
 -   <a name="ata-07-40"></a> **07-40: Robotic Lifting Integration**
     *Directory: `./GP-AM/AMPEL_0100/ATA07_Lifting/07-40/`*
-    -   [`07-40-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-40/GP-AM-AMPEL-0100-53-007-40-00-000-ICD-A.md): Robotic Lifting Interface - *(ICD)* (Ref GP-RAME)
-    -   [`07-40-10-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-40/GP-AM-AMPEL-0100-53-007-40-10-000-PROC-A.md): Automated Lifting Procedures - *(PROC)*
+    -   [`07-40-00-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-40/GP-AM-AMPEL-0100-07-40-00-000-ICD-A.md): Robotic Lifting Interface - *(ICD)* (Ref GP-RAME)
+    -   [`07-40-10-000`](./GP-AM/AMPEL_0100/ATA07_Lifting/07-40/GP-AM-AMPEL-0100-07-40-10-000-PROC-A.md): Automated Lifting Procedures - *(PROC)*
 </details>
 
 <details>
@@ -840,24 +848,24 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-08-00"></a> **08-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA08_Leveling/08-00/`*
-    -   [`08-00-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-00/GP-AM-AMPEL-0100-53-008-00-00-000-OV-A.md): Leveling and Weighing Overview - *(OV)*
-    -   [`08-00-00-001`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-00/GP-AM-AMPEL-0100-53-008-00-00-001-SPEC-A.md): Equipment Specifications - *(SPEC)*
+    -   [`08-00-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-00/GP-AM-AMPEL-0100-08-00-00-000-OV-A.md): Leveling and Weighing Overview - *(OV)*
+    -   [`08-00-00-001`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-00/GP-AM-AMPEL-0100-08-00-00-001-SPEC-A.md): Equipment Specifications - *(SPEC)*
 -   <a name="ata-08-10"></a> **08-10: Leveling**
     *Directory: `./GP-AM/AMPEL_0100/ATA08_Leveling/08-10/`*
-    -   [`08-10-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-10/GP-AM-AMPEL-0100-53-008-10-00-000-PROC-A.md): Leveling Procedures - *(PROC)*
-    -   [`08-10-10-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-10/GP-AM-AMPEL-0100-53-008-10-10-000-DWG-A.md): Leveling Points - *(DWG)*
+    -   [`08-10-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-10/GP-AM-AMPEL-0100-08-10-00-000-PROC-A.md): Leveling Procedures - *(PROC)*
+    -   [`08-10-10-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-10/GP-AM-AMPEL-0100-08-10-10-000-DWG-A.md): Leveling Points - *(DWG)*
 -   <a name="ata-08-20"></a> **08-20: Weighing**
     *Directory: `./GP-AM/AMPEL_0100/ATA08_Leveling/08-20/`*
-    -   [`08-20-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-20/GP-AM-AMPEL-0100-53-008-20-00-000-PROC-A.md): Weighing Procedures - *(PROC)*
-    -   [`08-20-10-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-20/GP-AM-AMPEL-0100-53-008-20-10-000-CAL-A.md): Weight Calculations - *(CAL)*
+    -   [`08-20-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-20/GP-AM-AMPEL-0100-08-20-00-000-PROC-A.md): Weighing Procedures - *(PROC)*
+    -   [`08-20-10-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-20/GP-AM-AMPEL-0100-08-20-10-000-CAL-A.md): Weight Calculations - *(CAL)*
 -   <a name="ata-08-30"></a> **08-30: Weight and Balance**
     *Directory: `./GP-AM/AMPEL_0100/ATA08_Leveling/08-30/`*
-    -   [`08-30-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-30/GP-AM-AMPEL-0100-53-008-30-00-000-CAL-A.md): Center of Gravity Calculations - *(CAL)*
-    -   [`08-30-10-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-30/GP-AM-AMPEL-0100-53-008-30-10-000-PROC-A.md): Weight and Balance Control - *(PROC)*
+    -   [`08-30-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-30/GP-AM-AMPEL-0100-08-30-00-000-CAL-A.md): Center of Gravity Calculations - *(CAL)*
+    -   [`08-30-10-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-30/GP-AM-AMPEL-0100-08-30-10-000-PROC-A.md): Weight and Balance Control - *(PROC)*
 -   <a name="ata-08-40"></a> **08-40: Digital Weight Management**
     *Directory: `./GP-AM/AMPEL_0100/ATA08_Leveling/08-40/`*
-    -   [`08-40-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-40/GP-AM-AMPEL-0100-53-008-40-00-000-SDD-A.md): Digital Weight and Balance System - *(SDD)*
-    -   [`08-40-10-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-40/GP-AM-AMPEL-0100-53-008-40-10-000-ICD-A.md): Weight Data Interface - *(ICD)* (Ref GP-COM-BITT)
+    -   [`08-40-00-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-40/GP-AM-AMPEL-0100-08-40-00-000-SDD-A.md): Digital Weight and Balance System - *(SDD)*
+    -   [`08-40-10-000`](./GP-AM/AMPEL_0100/ATA08_Leveling/08-40/GP-AM-AMPEL-0100-08-40-10-000-ICD-A.md): Weight Data Interface - *(ICD)* (Ref GP-COM-BITT)
 </details>
 
 <details>
@@ -868,24 +876,24 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-09-00"></a> **09-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA09_Towing/09-00/`*
-    -   [`09-00-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-00/GP-AM-AMPEL-0100-53-009-00-00-000-OV-A.md): Towing and Taxiing Overview - *(OV)*
-    -   [`09-00-00-001`](./GP-AM/AMPEL_0100/ATA09_Towing/09-00/GP-AM-AMPEL-0100-53-009-00-00-001-SPEC-A.md): Equipment Specifications - *(SPEC)*
+    -   [`09-00-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-00/GP-AM-AMPEL-0100-09-00-00-000-OV-A.md): Towing and Taxiing Overview - *(OV)*
+    -   [`09-00-00-001`](./GP-AM/AMPEL_0100/ATA09_Towing/09-00/GP-AM-AMPEL-0100-09-00-00-001-SPEC-A.md): Equipment Specifications - *(SPEC)*
 -   <a name="ata-09-10"></a> **09-10: Towing**
     *Directory: `./GP-AM/AMPEL_0100/ATA09_Towing/09-10/`*
-    -   [`09-10-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-10/GP-AM-AMPEL-0100-53-009-10-00-000-PROC-A.md): Towing Procedures - *(PROC)*
-    -   [`09-10-10-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-10/GP-AM-AMPEL-0100-53-009-10-10-000-DWG-A.md): Towing Attachment Points - *(DWG)*
+    -   [`09-10-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-10/GP-AM-AMPEL-0100-09-10-00-000-PROC-A.md): Towing Procedures - *(PROC)*
+    -   [`09-10-10-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-10/GP-AM-AMPEL-0100-09-10-10-000-DWG-A.md): Towing Attachment Points - *(DWG)*
 -   <a name="ata-09-20"></a> **09-20: Taxiing**
     *Directory: `./GP-AM/AMPEL_0100/ATA09_Towing/09-20/`*
-    -   [`09-20-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-20/GP-AM-AMPEL-0100-53-009-20-00-000-PROC-A.md): Taxiing Procedures - *(PROC)*
-    -   [`09-20-10-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-20/GP-AM-AMPEL-0100-53-009-20-10-000-PROC-A.md): Emergency Taxiing - *(PROC)*
+    -   [`09-20-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-20/GP-AM-AMPEL-0100-09-20-00-000-PROC-A.md): Taxiing Procedures - *(PROC)*
+    -   [`09-20-10-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-20/GP-AM-AMPEL-0100-09-20-10-000-PROC-A.md): Emergency Taxiing - *(PROC)*
 -   <a name="ata-09-30"></a> **09-30: Autonomous Ground Movement**
     *Directory: `./GP-AM/AMPEL_0100/ATA09_Towing/09-30/`*
-    -   [`09-30-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-30/GP-AM-AMPEL-0100-53-009-30-00-000-SDD-A.md): Autonomous Taxiing System - *(SDD)*
-    -   [`09-30-10-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-30/GP-AM-AMPEL-0100-53-009-30-10-000-ICD-A.md): Ground Movement AI Interface - *(ICD)* (Ref GP-COM-AI)
+    -   [`09-30-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-30/GP-AM-AMPEL-0100-09-30-00-000-SDD-A.md): Autonomous Taxiing System - *(SDD)*
+    -   [`09-30-10-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-30/GP-AM-AMPEL-0100-09-30-10-000-ICD-A.md): Ground Movement AI Interface - *(ICD)* (Ref GP-COM-AI)
 -   <a name="ata-09-40"></a> **09-40: Ground Traffic Management**
     *Directory: `./GP-AM/AMPEL_0100/ATA09_Towing/09-40/`*
-    -   [`09-40-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-40/GP-AM-AMPEL-0100-53-009-40-00-000-ICD-A.md): Ground Traffic Management Interface - *(ICD)* (Ref GP-GRO)
-    -   [`09-40-10-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-40/GP-AM-AMPEL-0100-53-009-40-10-000-PROC-A.md): Coordinated Movement Procedures - *(PROC)*
+    -   [`09-40-00-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-40/GP-AM-AMPEL-0100-09-40-00-000-ICD-A.md): Ground Traffic Management Interface - *(ICD)* (Ref GP-GRO)
+    -   [`09-40-10-000`](./GP-AM/AMPEL_0100/ATA09_Towing/09-40/GP-AM-AMPEL-0100-09-40-10-000-PROC-A.md): Coordinated Movement Procedures - *(PROC)*
 </details>
 
 <details>
@@ -896,24 +904,24 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-10-00"></a> **10-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA10_Parking/10-00/`*
-    -   [`10-00-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-00/GP-AM-AMPEL-0100-53-010-00-00-000-OV-A.md): Parking and Storage Overview - *(OV)*
-    -   [`10-00-00-001`](./GP-AM/AMPEL_0100/ATA10_Parking/10-00/GP-AM-AMPEL-0100-53-010-00-00-001-SPEC-A.md): Equipment Specifications - *(SPEC)*
+    -   [`10-00-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-00/GP-AM-AMPEL-0100-10-00-00-000-OV-A.md): Parking and Storage Overview - *(OV)*
+    -   [`10-00-00-001`](./GP-AM/AMPEL_0100/ATA10_Parking/10-00/GP-AM-AMPEL-0100-10-00-00-001-SPEC-A.md): Equipment Specifications - *(SPEC)*
 -   <a name="ata-10-10"></a> **10-10: Parking and Mooring**
     *Directory: `./GP-AM/AMPEL_0100/ATA10_Parking/10-10/`*
-    -   [`10-10-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-10/GP-AM-AMPEL-0100-53-010-10-00-000-PROC-A.md): Parking Procedures - *(PROC)*
-    -   [`10-10-10-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-10/GP-AM-AMPEL-0100-53-010-10-10-000-PROC-A.md): Mooring Procedures - *(PROC)*
+    -   [`10-10-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-10/GP-AM-AMPEL-0100-10-10-00-000-PROC-A.md): Parking Procedures - *(PROC)*
+    -   [`10-10-10-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-10/GP-AM-AMPEL-0100-10-10-10-000-PROC-A.md): Mooring Procedures - *(PROC)*
 -   <a name="ata-10-20"></a> **10-20: Storage**
     *Directory: `./GP-AM/AMPEL_0100/ATA10_Parking/10-20/`*
-    -   [`10-20-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-20/GP-AM-AMPEL-0100-53-010-20-00-000-PROC-A.md): Short-Term Storage - *(PROC)*
-    -   [`10-20-10-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-20/GP-AM-AMPEL-0100-53-010-20-10-000-PROC-A.md): Long-Term Storage - *(PROC)*
+    -   [`10-20-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-20/GP-AM-AMPEL-0100-10-20-00-000-PROC-A.md): Short-Term Storage - *(PROC)*
+    -   [`10-20-10-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-20/GP-AM-AMPEL-0100-10-20-10-000-PROC-A.md): Long-Term Storage - *(PROC)*
 -   <a name="ata-10-30"></a> **10-30: Return to Service**
     *Directory: `./GP-AM/AMPEL_0100/ATA10_Parking/10-30/`*
-    -   [`10-30-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-30/GP-AM-AMPEL-0100-53-010-30-00-000-PROC-A.md): Reactivation Procedures - *(PROC)*
-    -   [`10-30-10-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-30/GP-AM-AMPEL-0100-53-010-30-10-000-TEST-A.md): Return to Service Testing - *(TEST)*
+    -   [`10-30-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-30/GP-AM-AMPEL-0100-10-30-00-000-PROC-A.md): Reactivation Procedures - *(PROC)*
+    -   [`10-30-10-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-30/GP-AM-AMPEL-0100-10-30-10-000-TEST-A.md): Return to Service Testing - *(TEST)*
 -   <a name="ata-10-40"></a> **10-40: Digital Storage Management**
     *Directory: `./GP-AM/AMPEL_0100/ATA10_Parking/10-40/`*
-    -   [`10-40-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-40/GP-AM-AMPEL-0100-53-010-40-00-000-SDD-A.md): Digital Storage Monitoring - *(SDD)*
-    -   [`10-40-10-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-40/GP-AM-AMPEL-0100-53-010-40-10-000-ICD-A.md): Storage Data Interface - *(ICD)* (Ref GP-COM-BITT)
+    -   [`10-40-00-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-40/GP-AM-AMPEL-0100-10-40-00-000-SDD-A.md): Digital Storage Monitoring - *(SDD)*
+    -   [`10-40-10-000`](./GP-AM/AMPEL_0100/ATA10_Parking/10-40/GP-AM-AMPEL-0100-10-40-10-000-ICD-A.md): Storage Data Interface - *(ICD)* (Ref GP-COM-BITT)
 </details>
 
 <details>
@@ -924,22 +932,22 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-11-00"></a> **11-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA11_Placards/11-00/`*
-    -   [`11-00-00-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-00/GP-AM-AMPEL-0100-53-011-00-00-000-OV-A.md): Placards and Markings Overview - *(OV)*
-    -   [`11-00-00-001`](./GP-AM/AMPEL_0100/ATA11_Placards/11-00/GP-AM-AMPEL-0100-53-011-00-00-001-SPEC-A.md): Marking Standards and Specifications - *(SPEC)*
+    -   [`11-00-00-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-00/GP-AM-AMPEL-0100-11-00-00-000-OV-A.md): Placards and Markings Overview - *(OV)*
+    -   [`11-00-00-001`](./GP-AM/AMPEL_0100/ATA11_Placards/11-00/GP-AM-AMPEL-0100-11-00-00-001-SPEC-A.md): Marking Standards and Specifications - *(SPEC)*
 -   <a name="ata-11-10"></a> **11-10: Exterior Markings**
     *Directory: `./GP-AM/AMPEL_0100/ATA11_Placards/11-10/`*
-    -   [`11-10-00-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-10/GP-AM-AMPEL-0100-53-011-10-00-000-IDX-A.md): Exterior Markings Index - *(IDX)*
-    -   [`11-10-10-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-10/GP-AM-AMPEL-0100-53-011-10-10-000-DWG-A.md): Registration and Livery Drawings - *(DWG)*
-    -   [`11-10-20-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-10/GP-AM-AMPEL-0100-53-011-10-20-000-SPEC-A.md): Exterior Warning Markings Specification - *(SPEC)*
+    -   [`11-10-00-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-10/GP-AM-AMPEL-0100-11-10-00-000-IDX-A.md): Exterior Markings Index - *(IDX)*
+    -   [`11-10-10-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-10/GP-AM-AMPEL-0100-11-10-10-000-DWG-A.md): Registration and Livery Drawings - *(DWG)*
+    -   [`11-10-20-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-10/GP-AM-AMPEL-0100-11-10-20-000-SPEC-A.md): Exterior Warning Markings Specification - *(SPEC)*
 -   <a name="ata-11-20"></a> **11-20: Interior Placards**
     *Directory: `./GP-AM/AMPEL_0100/ATA11_Placards/11-20/`*
-    -   [`11-20-00-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-20/GP-AM-AMPEL-0100-53-011-20-00-000-IDX-A.md): Interior Placards Index - *(IDX)*
-    -   [`11-20-10-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-20/GP-AM-AMPEL-0100-53-011-20-10-000-DWG-A.md): Cockpit Placard Locations - *(DWG)*
-    -   [`11-20-20-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-20/GP-AM-AMPEL-0100-53-011-20-20-000-LIST-A.md): Cabin Placard List - *(LIST)*
+    -   [`11-20-00-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-20/GP-AM-AMPEL-0100-11-20-00-000-IDX-A.md): Interior Placards Index - *(IDX)*
+    -   [`11-20-10-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-20/GP-AM-AMPEL-0100-11-20-10-000-DWG-A.md): Cockpit Placard Locations - *(DWG)*
+    -   [`11-20-20-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-20/GP-AM-AMPEL-0100-11-20-20-000-LIST-A.md): Cabin Placard List - *(LIST)*
 -   <a name="ata-11-30"></a> **11-30: Special Markings**
     *Directory: `./GP-AM/AMPEL_0100/ATA11_Placards/11-30/`*
-    -   [`11-30-00-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-30/GP-AM-AMPEL-0100-53-011-30-00-000-SPEC-A.md): High-Voltage System Markings - *(SPEC)* (Ref ATA 24)
-    -   [`11-30-10-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-30/GP-AM-AMPEL-0100-53-011-30-10-000-SPEC-A.md): Quantum System Markings - *(SPEC)* (Ref ATA 72-Q01)
+    -   [`11-30-00-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-30/GP-AM-AMPEL-0100-11-30-00-000-SPEC-A.md): High-Voltage System Markings - *(SPEC)* (Ref ATA 24)
+    -   [`11-30-10-000`](./GP-AM/AMPEL_0100/ATA11_Placards/11-30/GP-AM-AMPEL-0100-11-30-10-000-SPEC-A.md): Quantum System Markings - *(SPEC)* (Ref ATA 72-Q01)
 </details>
 
 <details>
@@ -950,33 +958,33 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-12-00"></a> **12-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA12_Servicing/12-00/`*
-    -   [`12-00-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-00/GP-AM-AMPEL-0100-53-012-00-00-000-OV-A.md): Servicing Overview - *(OV)*
-    -   [`12-00-00-001`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-00/GP-AM-AMPEL-0100-53-012-00-00-001-SPEC-A.md): Consumables Specification - *(SPEC, LIST)*
+    -   [`12-00-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-00/GP-AM-AMPEL-0100-12-00-00-000-OV-A.md): Servicing Overview - *(OV)*
+    -   [`12-00-00-001`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-00/GP-AM-AMPEL-0100-12-00-00-001-SPEC-A.md): Consumables Specification - *(SPEC, LIST)*
 -   <a name="ata-12-10"></a> **12-10: Fuel Servicing**
     *Directory: `./GP-AM/AMPEL_0100/ATA12_Servicing/12-10/`*
-    -   [`12-10-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-10/GP-AM-AMPEL-0100-53-012-10-00-000-PROC-A.md): Fueling Procedure (H2/SAF) - *(PROC)* (Ref ATA 28)
-    -   [`12-10-10-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-10/GP-AM-AMPEL-0100-53-012-10-10-000-PROC-A.md): Defueling Procedure (H2/SAF) - *(PROC)*
+    -   [`12-10-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-10/GP-AM-AMPEL-0100-12-10-00-000-PROC-A.md): Fueling Procedure (H2/SAF) - *(PROC)* (Ref ATA 28)
+    -   [`12-10-10-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-10/GP-AM-AMPEL-0100-12-10-10-000-PROC-A.md): Defueling Procedure (H2/SAF) - *(PROC)*
 -   <a name="ata-12-20"></a> **12-20: Oil Servicing**
     *Directory: `./GP-AM/AMPEL_0100/ATA12_Servicing/12-20/`*
-    -   [`12-20-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-20/GP-AM-AMPEL-0100-53-012-20-00-000-PROC-A.md): Engine Oil Servicing - *(PROC)* (Ref ATA 79)
+    -   [`12-20-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-20/GP-AM-AMPEL-0100-12-20-00-000-PROC-A.md): Engine Oil Servicing - *(PROC)* (Ref ATA 79)
 -   <a name="ata-12-30"></a> **12-30: Hydraulic Fluid Servicing**
     *Directory: `./GP-AM/AMPEL_0100/ATA12_Servicing/12-30/`*
-    -   [`12-30-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-30/GP-AM-AMPEL-0100-53-012-30-00-000-PROC-A.md): EHA Fluid Servicing - *(PROC)* (Ref ATA 13/29)
+    -   [`12-30-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-30/GP-AM-AMPEL-0100-12-30-00-000-PROC-A.md): EHA Fluid Servicing - *(PROC)* (Ref ATA 13/29)
 -   <a name="ata-12-40"></a> **12-40: Pneumatic and Oxygen Servicing**
     *Directory: `./GP-AM/AMPEL_0100/ATA12_Servicing/12-40/`*
-    -   [`12-40-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-40/GP-AM-AMPEL-0100-53-012-40-00-000-PROC-A.md): Oxygen System Servicing - *(PROC)* (Ref ATA 35)
+    -   [`12-40-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-40/GP-AM-AMPEL-0100-12-40-00-000-PROC-A.md): Oxygen System Servicing - *(PROC)* (Ref ATA 35)
 -   <a name="ata-12-50"></a> **12-50: Other Fluid Servicing**
     *Directory: `./GP-AM/AMPEL_0100/ATA12_Servicing/12-50/`*
-    -   [`12-50-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-50/GP-AM-AMPEL-0100-53-012-50-00-000-PROC-A.md): Water/Waste Servicing - *(PROC)* (Ref ATA 38)
-    -   [`12-50-10-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-50/GP-AM-AMPEL-0100-53-012-50-10-000-PROC-A.md): Quantum System Coolant Servicing - *(PROC)* (Ref ATA 72-Q01)
+    -   [`12-50-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-50/GP-AM-AMPEL-0100-12-50-00-000-PROC-A.md): Water/Waste Servicing - *(PROC)* (Ref ATA 38)
+    -   [`12-50-10-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-50/GP-AM-AMPEL-0100-12-50-10-000-PROC-A.md): Quantum System Coolant Servicing - *(PROC)* (Ref ATA 72-Q01)
 -   <a name="ata-12-60"></a> **12-60: Cleaning**
     *Directory: `./GP-AM/AMPEL_0100/ATA12_Servicing/12-60/`*
-    -   [`12-60-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-60/GP-AM-AMPEL-0100-53-012-60-00-000-PROC-A.md): Exterior Cleaning - *(PROC)*
-    -   [`12-60-10-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-60/GP-AM-AMPEL-0100-53-012-60-10-000-PROC-A.md): Interior Cleaning - *(PROC)*
+    -   [`12-60-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-60/GP-AM-AMPEL-0100-12-60-00-000-PROC-A.md): Exterior Cleaning - *(PROC)*
+    -   [`12-60-10-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-60/GP-AM-AMPEL-0100-12-60-10-000-PROC-A.md): Interior Cleaning - *(PROC)*
 -   <a name="ata-12-70"></a> **12-70: Automated Servicing Integration**
     *Directory: `./GP-AM/AMPEL_0100/ATA12_Servicing/12-70/`*
-    -   [`12-70-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-70/GP-AM-AMPEL-0100-53-012-70-00-000-SDD-A.md): Robotic Servicing Interface Description - *(SDD)* (Ref GP-RAME)
-    -   [`12-70-10-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-70/GP-AM-AMPEL-0100-53-012-70-10-000-ICD-A.md): Automated Servicing Port Interface - *(ICD)*
+    -   [`12-70-00-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-70/GP-AM-AMPEL-0100-12-70-00-000-SDD-A.md): Robotic Servicing Interface Description - *(SDD)* (Ref GP-RAME)
+    -   [`12-70-10-000`](./GP-AM/AMPEL_0100/ATA12_Servicing/12-70/GP-AM-AMPEL-0100-12-70-10-000-ICD-A.md): Automated Servicing Port Interface - *(ICD)*
 </details>
 
 <details>
@@ -987,21 +995,21 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-13-00"></a> **13-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-00/`*
-    -   [`13-00-00-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-00/GP-AM-AMPEL-0100-53-013-00-00-000-OV-A.md): Hydraulic System Overview (Minimal/EHA) - *(OV, SDD)*
-    -   [`13-00-00-001`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-00/GP-AM-AMPEL-0100-53-013-00-00-001-SPEC-A.md): System Specification - *(SPEC)*
+    -   [`13-00-00-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-00/GP-AM-AMPEL-0100-13-00-00-000-OV-A.md): Hydraulic System Overview (Minimal/EHA) - *(OV, SDD)*
+    -   [`13-00-00-001`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-00/GP-AM-AMPEL-0100-13-00-00-001-SPEC-A.md): System Specification - *(SPEC)*
 -   <a name="ata-13-10"></a> **13-10: Electro-Hydrostatic Actuation (EHA)**
     *Directory: `./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-10/`*
-    -   [`13-10-00-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-10/GP-AM-AMPEL-0100-53-013-10-00-000-DD-A.md): EHA Unit Design - *(DD, DWG)*
-    -   [`13-10-10-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-10/GP-AM-AMPEL-0100-53-013-10-10-000-SPEC-A.md): EHA Performance Specification - *(SPEC)*
-    -   [`13-10-20-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-10/GP-AM-AMPEL-0100-53-013-10-20-000-MAN-A.md): EHA Maintenance Manual - *(MAN)*
+    -   [`13-10-00-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-10/GP-AM-AMPEL-0100-13-10-00-000-DD-A.md): EHA Unit Design - *(DD, DWG)*
+    -   [`13-10-10-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-10/GP-AM-AMPEL-0100-13-10-10-000-SPEC-A.md): EHA Performance Specification - *(SPEC)*
+    -   [`13-10-20-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-10/GP-AM-AMPEL-0100-13-10-20-000-MAN-A.md): EHA Maintenance Manual - *(MAN)*
 -   <a name="ata-13-20"></a> **13-20: Hydraulic Lines and Fittings**
     *Directory: `./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-20/`*
-    -   [`13-20-00-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-20/GP-AM-AMPEL-0100-53-013-20-00-000-DWG-A.md): Hydraulic Line Routing (Redundancy Only) - *(DWG)*
-    -   [`13-20-10-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-20/GP-AM-AMPEL-0100-53-013-20-10-000-SPEC-A.md): Fitting Specifications - *(SPEC)*
+    -   [`13-20-00-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-20/GP-AM-AMPEL-0100-13-20-00-000-DWG-A.md): Hydraulic Line Routing (Redundancy Only) - *(DWG)*
+    -   [`13-20-10-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-20/GP-AM-AMPEL-0100-13-20-10-000-SPEC-A.md): Fitting Specifications - *(SPEC)*
 -   <a name="ata-13-30"></a> **13-30: System Monitoring**
     *Directory: `./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-30/`*
-    -   [`13-30-00-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-30/GP-AM-AMPEL-0100-53-013-30-00-000-SDD-A.md): Monitoring System Description - *(SDD)*
-    -   [`13-30-10-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-30/GP-AM-AMPEL-0100-53-013-30-10-000-SPEC-A.md): Sensor Specifications - *(SPEC)*
+    -   [`13-30-00-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-30/GP-AM-AMPEL-0100-13-30-00-000-SDD-A.md): Monitoring System Description - *(SDD)*
+    -   [`13-30-10-000`](./GP-AM/AMPEL_0100/ATA13_Hydraulic/13-30/GP-AM-AMPEL-0100-13-30-10-000-SPEC-A.md): Sensor Specifications - *(SPEC)*
 </details>
 
 <details>
@@ -1012,20 +1020,20 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-14-00"></a> **14-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-00/`*
-    -   [`14-00-00-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-00/GP-AM-AMPEL-0100-53-014-00-00-000-OV-A.md): Pneumatic System Overview (Minimal) - *(OV, SDD)*
-    -   [`14-00-00-001`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-00/GP-AM-AMPEL-0100-53-014-00-00-001-SPEC-A.md): System Specification - *(SPEC)*
+    -   [`14-00-00-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-00/GP-AM-AMPEL-0100-14-00-00-000-OV-A.md): Pneumatic System Overview (Minimal) - *(OV, SDD)*
+    -   [`14-00-00-001`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-00/GP-AM-AMPEL-0100-14-00-00-001-SPEC-A.md): System Specification - *(SPEC)*
 -   <a name="ata-14-10"></a> **14-10: Bleed Air System**
     *Directory: `./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-10/`*
-    -   [`14-10-00-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-10/GP-AM-AMPEL-0100-53-014-10-00-000-SDD-A.md): Bleed Air Distribution Description - *(SDD)* (Ref ATA 36)
-    -   [`14-10-10-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-10/GP-AM-AMPEL-0100-53-014-10-10-000-DWG-A.md): Bleed Air Ducting Drawing - *(DWG)*
+    -   [`14-10-00-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-10/GP-AM-AMPEL-0100-14-10-00-000-SDD-A.md): Bleed Air Distribution Description - *(SDD)* (Ref ATA 36)
+    -   [`14-10-10-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-10/GP-AM-AMPEL-0100-14-10-10-000-DWG-A.md): Bleed Air Ducting Drawing - *(DWG)*
 -   <a name="ata-14-20"></a> **14-20: Auxiliary Pneumatic Sources**
     *Directory: `./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-20/`*
-    -   [`14-20-00-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-20/GP-AM-AMPEL-0100-53-014-20-00-000-DD-A.md): Electric Compressor Design - *(DD)*
-    -   [`14-20-10-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-20/GP-AM-AMPEL-0100-53-014-20-10-000-SPEC-A.md): Electric Compressor Specification - *(SPEC)* (Ref ATA 36)
+    -   [`14-20-00-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-20/GP-AM-AMPEL-0100-14-20-00-000-DD-A.md): Electric Compressor Design - *(DD)*
+    -   [`14-20-10-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-20/GP-AM-AMPEL-0100-14-20-10-000-SPEC-A.md): Electric Compressor Specification - *(SPEC)* (Ref ATA 36)
 -   <a name="ata-14-30"></a> **14-30: System Monitoring**
     *Directory: `./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-30/`*
-    -   [`14-30-00-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-30/GP-AM-AMPEL-0100-53-014-30-00-000-SDD-A.md): Monitoring System Description - *(SDD)*
-    -   [`14-30-10-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-30/GP-AM-AMPEL-0100-53-014-30-10-000-SPEC-A.md): Sensor Specifications - *(SPEC)*
+    -   [`14-30-00-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-30/GP-AM-AMPEL-0100-14-30-00-000-SDD-A.md): Monitoring System Description - *(SDD)*
+    -   [`14-30-10-000`](./GP-AM/AMPEL_0100/ATA14_Pneumatic/14-30/GP-AM-AMPEL-0100-14-30-10-000-SPEC-A.md): Sensor Specifications - *(SPEC)*
 </details>
 
 <details>
@@ -1033,7 +1041,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 *Directory: Covered by ATA 21 (`./GP-AM/AMPEL_0100/ATA21_ECS/`)*
 -   <a name="ata-15-00"></a> **15-00: General**
-    -   [`15-00-00-000`](./GP-AM/AMPEL_0100/ATA15_AirCond/15-00/GP-AM-AMPEL-0100-53-015-00-00-000-REF-A.md): Reference to ATA 21 - *(REF)*
+    -   [`15-00-00-000`](./GP-AM/AMPEL_0100/ATA15_AirCond/15-00/GP-AM-AMPEL-0100-15-00-00-000-REF-A.md): Reference to ATA 21 - *(REF)*
 </details>
 
 <details>
@@ -1041,7 +1049,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 *Directory: Covered by ATA 21 (`./GP-AM/AMPEL_0100/ATA21_ECS/`)*
 -   <a name="ata-16-00"></a> **16-00: General**
-    -   [`16-00-00-000`](./GP-AM/AMPEL_0100/ATA16_Pressuriz/16-00/GP-AM-AMPEL-0100-53-016-00-00-000-REF-A.md): Reference to ATA 21 - *(REF)*
+    -   [`16-00-00-000`](./GP-AM/AMPEL_0100/ATA16_Pressuriz/16-00/GP-AM-AMPEL-0100-16-00-00-000-REF-A.md): Reference to ATA 21 - *(REF)*
 </details>
 
 <details>
@@ -1049,7 +1057,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 *Directory: Covered by ATA 21 (`./GP-AM/AMPEL_0100/ATA21_ECS/`)*
 -   <a name="ata-17-00"></a> **17-00: General**
-    -   [`17-00-00-000`](./GP-AM/AMPEL_0100/ATA17_EnvCtrl/17-00/GP-AM-AMPEL-0100-53-017-00-00-000-REF-A.md): Reference to ATA 21 - *(REF)*
+    -   [`17-00-00-000`](./GP-AM/AMPEL_0100/ATA17_EnvCtrl/17-00/GP-AM-AMPEL-0100-17-00-00-000-REF-A.md): Reference to ATA 21 - *(REF)*
 </details>
 
 <details>
@@ -1060,18 +1068,18 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-18-00"></a> **18-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA18_Vibration/18-00/`*
-    -   [`18-00-00-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-00/GP-AM-AMPEL-0100-53-018-00-00-000-OV-A.md): Vibration and Noise Overview - *(OV)*
-    -   [`18-00-00-001`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-00/GP-AM-AMPEL-0100-53-018-00-00-001-SPEC-A.md): Limits and Requirements - *(SPEC, REQ)*
+    -   [`18-00-00-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-00/GP-AM-AMPEL-0100-18-00-00-000-OV-A.md): Vibration and Noise Overview - *(OV)*
+    -   [`18-00-00-001`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-00/GP-AM-AMPEL-0100-18-00-00-001-SPEC-A.md): Limits and Requirements - *(SPEC, REQ)*
 -   <a name="ata-18-10"></a> **18-10: Vibration Monitoring System**
     *Directory: `./GP-AM/AMPEL_0100/ATA18_Vibration/18-10/`*
-    -   [`18-10-00-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-10/GP-AM-AMPEL-0100-53-018-10-00-000-SDD-A.md): HUMS Description - *(SDD)*
-    -   [`18-10-10-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-10/GP-AM-AMPEL-0100-53-018-10-10-000-SPEC-A.md): Sensor Specifications - *(SPEC)*
-    -   [`18-10-20-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-10/GP-AM-AMPEL-0100-53-018-10-20-000-ALGO-A.md): AI Anomaly Detection Algorithm - *(ALGO, SDD)* (Ref GP-COM-AI)
+    -   [`18-10-00-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-10/GP-AM-AMPEL-0100-18-10-00-000-SDD-A.md): HUMS Description - *(SDD)*
+    -   [`18-10-10-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-10/GP-AM-AMPEL-0100-18-10-10-000-SPEC-A.md): Sensor Specifications - *(SPEC)*
+    -   [`18-10-20-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-10/GP-AM-AMPEL-0100-18-10-20-000-ALGO-A.md): AI Anomaly Detection Algorithm - *(ALGO, SDD)* (Ref GP-COM-AI)
 -   <a name="ata-18-20"></a> **18-20: Noise Control**
     *Directory: `./GP-AM/AMPEL_0100/ATA18_Vibration/18-20/`*
-    -   [`18-20-00-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-20/GP-AM-AMPEL-0100-53-018-20-00-000-SDD-A.md): Active Noise Cancellation System - *(SDD)*
-    -   [`18-20-10-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-20/GP-AM-AMPEL-0100-53-018-20-10-000-SPEC-A.md): Acoustic Liner Specifications - *(SPEC)*
-    -   [`18-20-20-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-20/GP-AM-AMPEL-0100-53-018-20-20-000-TEST-A.md): Noise Measurement Test Report - *(TEST, RPT)*
+    -   [`18-20-00-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-20/GP-AM-AMPEL-0100-18-20-00-000-SDD-A.md): Active Noise Cancellation System - *(SDD)*
+    -   [`18-20-10-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-20/GP-AM-AMPEL-0100-18-20-10-000-SPEC-A.md): Acoustic Liner Specifications - *(SPEC)*
+    -   [`18-20-20-000`](./GP-AM/AMPEL_0100/ATA18_Vibration/18-20/GP-AM-AMPEL-0100-18-20-20-000-TEST-A.md): Noise Measurement Test Report - *(TEST, RPT)*
 -   <a name="ata-18-30"></a> **18-30: Noise Reduction Technologies (NR)**
     *Directory: `./GP-AM/AMPEL_0100/ATA18_Vibration/NR/`* (Example path)
     -   <a name="ata-18-nr"></a> **NR: Noise Reduction Technologies** *(Mapped from Cross-System Sustainability Integration)*
@@ -1096,7 +1104,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-19-00"></a> **19-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA19_Reserved/19-00/`*
-    -   [`19-00-00-000`](./GP-AM/AMPEL_0100/ATA19_Reserved/19-00/GP-AM-AMPEL-0100-53-019-00-00-000-NOTE-A.md): Chapter Reserved - *(NOTE)*
+    -   [`19-00-00-000`](./GP-AM/AMPEL_0100/ATA19_Reserved/19-00/GP-AM-AMPEL-0100-19-00-00-000-NOTE-A.md): Chapter Reserved - *(NOTE)*
 </details>
 
 ---
@@ -1112,30 +1120,30 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-20-00"></a> **20-00: General Standard Practices**
     *Directory: `./GP-AM/AMPEL_0100/ATA20_StdPractices/20-00/`*
-    -   [`20-00-00-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-00/GP-AM-AMPEL-0100-53-020-00-00-000-OV-A.md): Standard Practices Overview - *(OV)*
-    -   [`20-00-00-001`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-00/GP-AM-AMPEL-0100-53-020-00-00-001-SPEC-A.md): General Standards - *(SPEC)*
+    -   [`20-00-00-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-00/GP-AM-AMPEL-0100-20-00-00-000-OV-A.md): Standard Practices Overview - *(OV)*
+    -   [`20-00-00-001`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-00/GP-AM-AMPEL-0100-20-00-00-001-SPEC-A.md): General Standards - *(SPEC)*
 -   <a name="ata-20-10"></a> **20-10: Sustainable Materials Standards**
     *Directory: `./GP-AM/AMPEL_0100/ATA20_StdPractices/20-10/`*
-    -   [`20-10-00-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-10/GP-AM-AMPEL-0100-53-020-10-00-000-SPEC-A.md): Sustainable Material Specifications - *(SPEC)* (Ref GP-SUPL)
-    -   [`20-10-10-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-10/GP-AM-AMPEL-0100-53-020-10-10-000-SPEC-A.md): Bio-based Composite Standards - *(SPEC)*
+    -   [`20-10-00-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-10/GP-AM-AMPEL-0100-20-10-00-000-SPEC-A.md): Sustainable Material Specifications - *(SPEC)* (Ref GP-SUPL)
+    -   [`20-10-10-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-10/GP-AM-AMPEL-0100-20-10-10-000-SPEC-A.md): Bio-based Composite Standards - *(SPEC)*
 -   <a name="ata-20-20"></a> **20-20: Green Manufacturing Processes**
     *Directory: `./GP-AM/AMPEL_0100/ATA20_StdPractices/20-20/`*
-    -   [`20-20-00-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-20/GP-AM-AMPEL-0100-53-020-20-00-000-PROC-A.md): Green Manufacturing Procedures - *(PROC)* (Ref GP-SUPL)
+    -   [`20-20-00-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-20/GP-AM-AMPEL-0100-20-20-00-000-PROC-A.md): Green Manufacturing Procedures - *(PROC)* (Ref GP-SUPL)
 -   <a name="ata-20-30"></a> **20-30: Sustainable Repair Procedures**
     *Directory: `./GP-AM/AMPEL_0100/ATA20_StdPractices/20-30/`*
-    -   [`20-30-00-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-30/GP-AM-AMPEL-0100-53-020-30-00-000-PROC-A.md): BNNT/Carbon-Lattice Repair Procedure - *(PROC)* (Ref ATA 51)
+    -   [`20-30-00-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/20-30/GP-AM-AMPEL-0100-20-30-00-000-PROC-A.md): BNNT/Carbon-Lattice Repair Procedure - *(PROC)* (Ref ATA 51)
 -   <a name="ata-20-am"></a> **AM: Advanced Manufacturing Technologies**
     *Directory: `./GP-AM/AMPEL_0100/ATA20_StdPractices/AM/`*
     -   <a name="ata-20-am-10"></a> **AM-10: Additive Manufacturing**
         *Directory: `./GP-AM/AMPEL_0100/ATA20_StdPractices/AM/AM-10/`*
-        -   [`AM-10-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/AM-10/GP-AM-AMPEL-0100-53-020-AM10-000-OV-A.md): Additive Manufacturing Overview - *(OV)*
-        -   [`AM-10-10-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/AM-10/GP-AM-AMPEL-0100-53-020-AM10-10-000-SPEC-A.md): Large-Scale Printing Specification - *(SPEC)*
+        -   [`AM-10-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/AM-10/GP-AM-AMPEL-0100-20-AM10-000-OV-A.md): Additive Manufacturing Overview - *(OV)*
+        -   [`AM-10-10-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/AM-10/GP-AM-AMPEL-0100-20-AM10-10-000-SPEC-A.md): Large-Scale Printing Specification - *(SPEC)*
     -   <a name="ata-20-am-20"></a> **AM-20: Automated Fiber Placement**
         *Directory: `./GP-AM/AMPEL_0100/ATA20_StdPractices/AM/AM-20/`*
-        -   [`AM-20-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/AM-20/GP-AM-AMPEL-0100-53-020-AM20-000-OV-A.md): Automated Fiber Placement Overview - *(OV)*
+        -   [`AM-20-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/AM-20/GP-AM-AMPEL-0100-20-AM20-000-OV-A.md): Automated Fiber Placement Overview - *(OV)*
     -   <a name="ata-20-am-30"></a> **AM-30: Out-of-Autoclave Processing**
         *Directory: `./GP-AM/AMPEL_0100/ATA20_StdPractices/AM/AM-30/`*
-        -   [`AM-30-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/AM-30/GP-AM-AMPEL-0100-53-020-AM30-000-OV-A.md): Out-of-Autoclave Processing Overview - *(OV)*
+        -   [`AM-30-000`](./GP-AM/AMPEL_0100/ATA20_StdPractices/AM-30/GP-AM-AMPEL-0100-20-AM30-000-OV-A.md): Out-of-Autoclave Processing Overview - *(OV)*
 </details>
 
 <details>
@@ -1146,26 +1154,26 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-21-00"></a> **21-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA21_ECS/21-00/`*
-    -   [`21-00-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-00/GP-AM-AMPEL-0100-53-021-00-00-000-OV-A.md): ECS Overview - *(OV, SDD)*
-    -   [`21-00-00-001`](./GP-AM/AMPEL_0100/ATA21_ECS/21-00/GP-AM-AMPEL-0100-53-021-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`21-00-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-00/GP-AM-AMPEL-0100-21-00-00-000-OV-A.md): ECS Overview - *(OV, SDD)*
+    -   [`21-00-00-001`](./GP-AM/AMPEL_0100/ATA21_ECS/21-00/GP-AM-AMPEL-0100-21-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-21-10"></a> **21-10: Air Supply**
     *Directory: `./GP-AM/AMPEL_0100/ATA21_ECS/21-10/`*
-    -   [`21-10-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-10/GP-AM-AMPEL-0100-53-021-10-00-000-SDD-A.md): Air Source Description (Bleed/Electric) - *(SDD)* (Ref ATA 36)
+    -   [`21-10-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-10/GP-AM-AMPEL-0100-21-10-00-000-SDD-A.md): Air Source Description (Bleed/Electric) - *(SDD)* (Ref ATA 36)
 -   <a name="ata-21-20"></a> **21-20: Air Distribution**
     *Directory: `./GP-AM/AMPEL_0100/ATA21_ECS/21-20/`*
-    -   [`21-20-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-20/GP-AM-AMPEL-0100-53-021-20-00-000-DWG-A.md): Cabin Air Distribution Diagram - *(DWG, FIG)*
-    -   [`21-20-10-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-20/GP-AM-AMPEL-0100-53-021-20-10-000-SPEC-A.md): Filtration System Specification - *(SPEC)*
+    -   [`21-20-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-20/GP-AM-AMPEL-0100-21-20-00-000-DWG-A.md): Cabin Air Distribution Diagram - *(DWG, FIG)*
+    -   [`21-20-10-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-20/GP-AM-AMPEL-0100-21-20-10-000-SPEC-A.md): Filtration System Specification - *(SPEC)*
 -   <a name="ata-21-30"></a> **21-30: Pressurization Control**
     *Directory: `./GP-AM/AMPEL_0100/ATA21_ECS/21-30/`*
-    -   [`21-30-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-30/GP-AM-AMPEL-0100-53-021-30-00-000-SDD-A.md): Pressurization Control System Description - *(SDD)*
-    -   [`21-30-10-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-30/GP-AM-AMPEL-0100-53-021-30-10-000-SPEC-A.md): Outflow Valve Specification - *(SPEC)*
+    -   [`21-30-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-30/GP-AM-AMPEL-0100-21-30-00-000-SDD-A.md): Pressurization Control System Description - *(SDD)*
+    -   [`21-30-10-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-30/GP-AM-AMPEL-0100-21-30-10-000-SPEC-A.md): Outflow Valve Specification - *(SPEC)*
 -   <a name="ata-21-50"></a> **21-50: Air Conditioning Packs**
     *Directory: `./GP-AM/AMPEL_0100/ATA21_ECS/21-50/`*
-    -   [`21-50-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-50/GP-AM-AMPEL-0100-53-021-50-00-000-SDD-A.md): Green ECS Technology - *(SDD)*
+    -   [`21-50-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-50/GP-AM-AMPEL-0100-21-50-00-000-SDD-A.md): Green ECS Technology - *(SDD)*
 -   <a name="ata-21-60"></a> **21-60: AI-Driven ECS**
     *Directory: `./GP-AM/AMPEL_0100/ATA21_ECS/21-60/`*
-    -   [`21-60-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-60/GP-AM-AMPEL-0100-53-021-60-00-000-SDD-A.md): AI Personalized Climate Zones - *(SDD)*
-    -   [`21-60-10-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-60/GP-AM-AMPEL-0100-53-021-60-10-000-ALGO-A.md): Optimization Algorithms - *(ALGO, SDD)* (Ref GP-COM-AI)
+    -   [`21-60-00-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-60/GP-AM-AMPEL-0100-21-60-00-000-SDD-A.md): AI Personalized Climate Zones - *(SDD)*
+    -   [`21-60-10-000`](./GP-AM/AMPEL_0100/ATA21_ECS/21-60/GP-AM-AMPEL-0100-21-60-10-000-ALGO-A.md): Optimization Algorithms - *(ALGO, SDD)* (Ref GP-COM-AI)
 </details>
 
 <details>
@@ -1176,22 +1184,22 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-22-00"></a> **22-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA22_Autoflight/22-00/`*
-    -   [`22-00-00-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-00/GP-AM-AMPEL-0100-53-022-00-00-000-OV-A.md): Auto Flight Overview - *(OV, SDD)*
-    -   [`22-00-00-001`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-00/GP-AM-AMPEL-0100-53-022-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`22-00-00-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-00/GP-AM-AMPEL-0100-22-00-00-000-OV-A.md): Auto Flight Overview - *(OV, SDD)*
+    -   [`22-00-00-001`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-00/GP-AM-AMPEL-0100-22-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-22-10"></a> **22-10: Autopilot**
     *Directory: `./GP-AM/AMPEL_0100/ATA22_Autoflight/22-10/`*
-    -   [`22-10-00-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-10/GP-AM-AMPEL-0100-53-022-10-00-000-SDD-A.md): Autopilot Architecture - *(SDD, FIG)*
-    -   [`22-10-10-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-10/GP-AM-AMPEL-0100-53-022-10-10-000-ALGO-A.md): AI Autopilot Algorithms - *(ALGO, SDD)* (Ref GP-COM-AI)
-    -   [`22-10-20-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-10/GP-AM-AMPEL-0100-53-022-10-20-000-ALGO-A.md): Quantum-Enhanced Control Logic - *(ALGO, SDD)* (Ref GP-COM-QAO)
+    -   [`22-10-00-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-10/GP-AM-AMPEL-0100-22-10-00-000-SDD-A.md): Autopilot Architecture - *(SDD, FIG)*
+    -   [`22-10-10-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-10/GP-AM-AMPEL-0100-22-10-10-000-ALGO-A.md): AI Autopilot Algorithms - *(ALGO, SDD)* (Ref GP-COM-AI)
+    -   [`22-10-20-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-10/GP-AM-AMPEL-0100-22-10-20-000-ALGO-A.md): Quantum-Enhanced Control Logic - *(ALGO, SDD)* (Ref GP-COM-QAO)
 -   <a name="ata-22-20"></a> **22-20: Flight Management System (FMS)**
     *Directory: `./GP-AM/AMPEL_0100/ATA22_Autoflight/22-20/`*
-    -   [`22-20-00-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-20/GP-AM-AMPEL-0100-53-022-20-00-000-SDD-A.md): FMS Description - *(SDD)*
-    -   [`22-20-10-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-20/GP-AM-AMPEL-0100-53-022-20-10-000-ALGO-A.md): AI Route Optimization Algorithms - *(ALGO, SDD)* (Ref GP-COM-AI)
-    -   [`22-20-20-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-20/GP-AM-AMPEL-0100-53-022-20-20-000-ICD-A.md): FMS to QAO Interface - *(ICD)* (Ref GP-COM-QAO)
+    -   [`22-20-00-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-20/GP-AM-AMPEL-0100-22-20-00-000-SDD-A.md): FMS Description - *(SDD)*
+    -   [`22-20-10-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-20/GP-AM-AMPEL-0100-22-20-10-000-ALGO-A.md): AI Route Optimization Algorithms - *(ALGO, SDD)* (Ref GP-COM-AI)
+    -   [`22-20-20-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-20/GP-AM-AMPEL-0100-22-20-20-000-ICD-A.md): FMS to QAO Interface - *(ICD)* (Ref GP-COM-QAO)
 -   <a name="ata-22-30"></a> **22-30: Auto Throttle**
     *Directory: `./GP-AM/AMPEL_0100/ATA22_Autoflight/22-30/`*
-    -   [`22-30-00-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-30/GP-AM-AMPEL-0100-53-022-30-00-000-SDD-A.md): Auto Throttle System Description - *(SDD)*
-    -   [`22-30-10-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-30/GP-AM-AMPEL-0100-53-022-30-10-000-ALGO-A.md): Fuel Efficiency Algorithms - *(ALGO)* (Ref ATA 73)
+    -   [`22-30-00-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-30/GP-AM-AMPEL-0100-22-30-00-000-SDD-A.md): Auto Throttle System Description - *(SDD)*
+    -   [`22-30-10-000`](./GP-AM/AMPEL_0100/ATA22_Autoflight/22-30/GP-AM-AMPEL-0100-22-30-10-000-ALGO-A.md): Fuel Efficiency Algorithms - *(ALGO)* (Ref ATA 73)
 </details>
 
 <details>
@@ -1202,27 +1210,27 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-23-00"></a> **23-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA23_Comms/23-00/`*
-    -   [`23-00-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-00/GP-AM-AMPEL-0100-53-023-00-00-000-OV-A.md): Communications Overview - *(OV, SDD)*
-    -   [`23-00-00-001`](./GP-AM/AMPEL_0100/ATA23_Comms/23-00/GP-AM-AMPEL-0100-53-023-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`23-00-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-00/GP-AM-AMPEL-0100-23-00-00-000-OV-A.md): Communications Overview - *(OV, SDD)*
+    -   [`23-00-00-001`](./GP-AM/AMPEL_0100/ATA23_Comms/23-00/GP-AM-AMPEL-0100-23-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-23-10"></a> **23-10: Speech Communication**
     *Directory: `./GP-AM/AMPEL_0100/ATA23_Comms/23-10/`*
-    -   [`23-10-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-10/GP-AM-AMPEL-0100-53-023-10-00-000-SDD-A.md): VHF/HF/SATCOM Description - *(SDD)*
-    -   [`23-10-10-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-10/GP-AM-AMPEL-0100-53-023-10-10-000-SPEC-A.md): Transceiver Specifications - *(SPEC)*
+    -   [`23-10-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-10/GP-AM-AMPEL-0100-23-10-00-000-SDD-A.md): VHF/HF/SATCOM Description - *(SDD)*
+    -   [`23-10-10-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-10/GP-AM-AMPEL-0100-23-10-10-000-SPEC-A.md): Transceiver Specifications - *(SPEC)*
 -   <a name="ata-23-20"></a> **23-20: Data Link Communication**
     *Directory: `./GP-AM/AMPEL_0100/ATA23_Comms/23-20/`*
-    -   [`23-20-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-20/GP-AM-AMPEL-0100-53-023-20-00-000-SDD-A.md): ACARS/ATC Data Link Description - *(SDD)*
-    -   [`23-20-10-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-20/GP-AM-AMPEL-0100-53-023-20-10-000-SPEC-A.md): Protocol Specifications - *(SPEC)*
+    -   [`23-20-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-20/GP-AM-AMPEL-0100-23-20-00-000-SDD-A.md): ACARS/ATC Data Link Description - *(SDD)*
+    -   [`23-20-10-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-20/GP-AM-AMPEL-0100-23-20-10-000-SPEC-A.md): Protocol Specifications - *(SPEC)*
 -   <a name="ata-23-50"></a> **23-50: Audio Integrating System**
     *Directory: `./GP-AM/AMPEL_0100/ATA23_Comms/23-50/`*
-    -   [`23-50-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-50/GP-AM-AMPEL-0100-53-023-50-00-000-SDD-A.md): Intercom/PA System - *(SDD)*
+    -   [`23-50-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-50/GP-AM-AMPEL-0100-23-50-00-000-SDD-A.md): Intercom/PA System - *(SDD)*
 -   <a name="ata-23-70"></a> **23-70: AI Communications Management**
     *Directory: `./GP-AM/AMPEL_0100/ATA23_Comms/23-70/`*
-    -   [`23-70-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-70/GP-AM-AMPEL-0100-53-023-70-00-000-SDD-A.md): AI Management Function - *(SDD)* (Ref GP-COM-AI)
-    -   [`23-70-10-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-70/GP-AM-AMPEL-0100-53-023-70-10-000-ALGO-A.md): AI Spectrum Optimization Algorithm - *(ALGO)*
+    -   [`23-70-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-70/GP-AM-AMPEL-0100-23-70-00-000-SDD-A.md): AI Management Function - *(SDD)* (Ref GP-COM-AI)
+    -   [`23-70-10-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-70/GP-AM-AMPEL-0100-23-70-10-000-ALGO-A.md): AI Spectrum Optimization Algorithm - *(ALGO)*
 -   <a name="ata-23-80"></a> **23-80: Quantum Key Distribution (QKD)**
     *Directory: `./GP-AM/AMPEL_0100/ATA23_Comms/23-80/`*
-    -   [`23-80-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-80/GP-AM-AMPEL-0100-53-023-80-00-000-SDD-A.md): QKD System Integration - *(SDD)* (Ref GP-COM-QAO)
-    -   [`23-80-10-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-80/GP-AM-AMPEL-0100-53-023-80-10-000-SPEC-A.md): Secure Protocol Specifications - *(SPEC)*
+    -   [`23-80-00-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-80/GP-AM-AMPEL-0100-23-80-00-000-SDD-A.md): QKD System Integration - *(SDD)* (Ref GP-COM-QAO)
+    -   [`23-80-10-000`](./GP-AM/AMPEL_0100/ATA23_Comms/23-80/GP-AM-AMPEL-0100-23-80-10-000-SPEC-A.md): Secure Protocol Specifications - *(SPEC)*
 </details>
 
 <details>
@@ -1233,25 +1241,25 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-24-00"></a> **24-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA24_Electrical/24-00/`*
-    -   [`24-00-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-00/GP-AM-AMPEL-0100-53-024-00-00-000-OV-A.md): Electrical System Overview - *(OV, SDD)*
-    -   [`24-00-00-001`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-00/GP-AM-AMPEL-0100-53-024-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`24-00-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-00/GP-AM-AMPEL-0100-24-00-00-000-OV-A.md): Electrical System Overview - *(OV, SDD)*
+    -   [`24-00-00-001`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-00/GP-AM-AMPEL-0100-24-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-24-20"></a> **24-20: AC Generation**
     *Directory: `./GP-AM/AMPEL_0100/ATA24_Electrical/24-20/`*
-    -   [`24-20-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-20/GP-AM-AMPEL-0100-53-024-20-00-000-SDD-A.md): AC Generation System Description (Mainly Inverters) - *(SDD)*
+    -   [`24-20-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-20/GP-AM-AMPEL-0100-24-20-00-000-SDD-A.md): AC Generation System Description (Mainly Inverters) - *(SDD)*
 -   <a name="ata-24-30"></a> **24-30: DC Generation**
     *Directory: `./GP-AM/AMPEL_0100/ATA24_Electrical/24-30/`*
-    -   [`24-30-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-30/GP-AM-AMPEL-0100-53-024-30-00-000-SDD-A.md): DC Generation System Description (S/G Rectifiers, Battery) - *(SDD)*
-    -   [`24-30-10-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-30/GP-AM-AMPEL-0100-53-024-30-10-000-SPEC-A.md): Battery System Specification - *(SPEC)*
+    -   [`24-30-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-30/GP-AM-AMPEL-0100-24-30-00-000-SDD-A.md): DC Generation System Description (S/G Rectifiers, Battery) - *(SDD)*
+    -   [`24-30-10-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-30/GP-AM-AMPEL-0100-24-30-10-000-SPEC-A.md): Battery System Specification - *(SPEC)*
 -   <a name="ata-24-40"></a> **24-40: External Power**
     *Directory: `./GP-AM/AMPEL_0100/ATA24_Electrical/24-40/`*
-    -   [`24-40-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-40/GP-AM-AMPEL-0100-53-024-40-00-000-ICD-A.md): Ground Power Interface - *(ICD, SPEC)*
+    -   [`24-40-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-40/GP-AM-AMPEL-0100-24-40-00-000-ICD-A.md): Ground Power Interface - *(ICD, SPEC)*
 -   <a name="ata-24-50"></a> **24-50: Distribution**
     *Directory: `./GP-AM/AMPEL_0100/ATA24_Electrical/24-50/`*
-    -   [`24-50-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-50/GP-AM-AMPEL-0100-53-024-50-00-000-SDD-A.md): Load Distribution Architecture (HVDC/LVDC) - *(SDD, DWG)*
-    -   [`24-50-10-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-50/GP-AM-AMPEL-0100-53-024-50-10-000-ALGO-A.md): AI Load Management Algorithm - *(ALGO, SDD)* (Ref GP-COM-AI)
+    -   [`24-50-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-50/GP-AM-AMPEL-0100-24-50-00-000-SDD-A.md): Load Distribution Architecture (HVDC/LVDC) - *(SDD, DWG)*
+    -   [`24-50-10-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-50/GP-AM-AMPEL-0100-24-50-10-000-ALGO-A.md): AI Load Management Algorithm - *(ALGO, SDD)* (Ref GP-COM-AI)
 -   <a name="ata-24-60"></a> **24-60: Integrated Power Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA24_Electrical/24-60/`*
-    -   [`24-60-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-60/GP-AM-AMPEL-0100-53-024-60-00-000-SDD-A.md): AEHCS System Description - *(SDD)*
+    -   [`24-60-00-000`](./GP-AM/AMPEL_0100/ATA24_Electrical/24-60/GP-AM-AMPEL-0100-24-60-00-000-SDD-A.md): AEHCS System Description - *(SDD)*
 </details>
 
 <details>
@@ -1262,27 +1270,27 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-25-00"></a> **25-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA25_Furnishings/25-00/`*
-    -   [`25-00-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-00/GP-AM-AMPEL-0100-53-025-00-00-000-OV-A.md): Equipment and Furnishings Overview - *(OV)*
-    -   [`25-00-00-001`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-00/GP-AM-AMPEL-0100-53-025-00-00-001-SPEC-A.md): Standards and Requirements - *(SPEC, REQ)*
+    -   [`25-00-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-00/GP-AM-AMPEL-0100-25-00-00-000-OV-A.md): Equipment and Furnishings Overview - *(OV)*
+    -   [`25-00-00-001`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-00/GP-AM-AMPEL-0100-25-00-00-001-SPEC-A.md): Standards and Requirements - *(SPEC, REQ)*
 -   <a name="ata-25-10"></a> **25-10: Flight Compartment**
     *Directory: `./GP-AM/AMPEL_0100/ATA25_Furnishings/25-10/`*
-    -   [`25-10-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-10/GP-AM-AMPEL-0100-53-025-10-00-000-SPEC-A.md): Crew Seat Specification - *(SPEC)*
+    -   [`25-10-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-10/GP-AM-AMPEL-0100-25-10-00-000-SPEC-A.md): Crew Seat Specification - *(SPEC)*
 -   <a name="ata-25-20"></a> **25-20: Passenger Compartment**
     *Directory: `./GP-AM/AMPEL_0100/ATA25_Furnishings/25-20/`*
-    -   [`25-20-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-20/GP-AM-AMPEL-0100-53-025-20-00-000-DD-A.md): Cabin Layout Design - *(DD, FIG)*
-    -   [`25-20-10-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-20/GP-AM-AMPEL-0100-53-025-20-10-000-SPEC-A.md): Passenger Seat Specification - *(SPEC)*
-    -   [`25-20-20-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-20/GP-AM-AMPEL-0100-53-025-20-20-000-SDD-A.md): VR Window System Description - *(SDD)* (Ref ATA 44, 56)
-    -   [`25-20-30-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-20/GP-AM-AMPEL-0100-53-025-20-30-000-LIST-A.md): Sustainable Interior Materials List - *(LIST, SPEC)*
+    -   [`25-20-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-20/GP-AM-AMPEL-0100-25-20-00-000-DD-A.md): Cabin Layout Design - *(DD, FIG)*
+    -   [`25-20-10-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-20/GP-AM-AMPEL-0100-25-20-10-000-SPEC-A.md): Passenger Seat Specification - *(SPEC)*
+    -   [`25-20-20-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-20/GP-AM-AMPEL-0100-25-20-20-000-SDD-A.md): VR Window System Description - *(SDD)* (Ref ATA 44, 56)
+    -   [`25-20-30-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-20/GP-AM-AMPEL-0100-25-20-30-000-LIST-A.md): Sustainable Interior Materials List - *(LIST, SPEC)*
 -   <a name="ata-25-40"></a> **25-40: Cargo Compartment**
     *Directory: `./GP-AM/AMPEL_0100/ATA25_Furnishings/25-40/`*
-    -   [`25-40-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-40/GP-AM-AMPEL-0100-53-025-40-00-000-SDD-A.md): Cargo Loading System Description - *(SDD)* (Ref ATA 50)
+    -   [`25-40-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-40/GP-AM-AMPEL-0100-25-40-00-000-SDD-A.md): Cargo Loading System Description - *(SDD)* (Ref ATA 50)
 -   <a name="ata-25-50"></a> **25-50: Galley**
     *Directory: `./GP-AM/AMPEL_0100/ATA25_Furnishings/25-50/`*
-    -   [`25-50-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-50/GP-AM-AMPEL-0100-53-025-50-00-000-LIST-A.md): Galley Equipment List - *(LIST, SPEC)*
+    -   [`25-50-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-50/GP-AM-AMPEL-0100-25-50-00-000-LIST-A.md): Galley Equipment List - *(LIST, SPEC)*
 -   <a name="ata-25-60"></a> **25-60: Emergency Equipment**
     *Directory: `./GP-AM/AMPEL_0100/ATA25_Furnishings/25-60/`*
-    -   [`25-60-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-60/GP-AM-AMPEL-0100-53-025-60-00-000-LIST-A.md): Emergency Equipment List - *(LIST)*
-    -   [`25-60-10-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-60/GP-AM-AMPEL-0100-53-025-60-10-000-DWG-A.md): Location Drawing - *(DWG)*
+    -   [`25-60-00-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-60/GP-AM-AMPEL-0100-25-60-00-000-LIST-A.md): Emergency Equipment List - *(LIST)*
+    -   [`25-60-10-000`](./GP-AM/AMPEL_0100/ATA25_Furnishings/25-60/GP-AM-AMPEL-0100-25-60-10-000-DWG-A.md): Location Drawing - *(DWG)*
 </details>
 
 <details>
@@ -1293,18 +1301,18 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-26-00"></a> **26-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA26_FireProtection/26-00/`*
-    -   [`26-00-00-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-00/GP-AM-AMPEL-0100-53-026-00-00-000-OV-A.md): Fire Protection Overview - *(OV, SDD)*
-    -   [`26-00-00-001`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-00/GP-AM-AMPEL-0100-53-026-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`26-00-00-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-00/GP-AM-AMPEL-0100-26-00-00-000-OV-A.md): Fire Protection Overview - *(OV, SDD)*
+    -   [`26-00-00-001`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-00/GP-AM-AMPEL-0100-26-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-26-10"></a> **26-10: Detection**
     *Directory: `./GP-AM/AMPEL_0100/ATA26_FireProtection/26-10/`*
-    -   [`26-10-00-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-10/GP-AM-AMPEL-0100-53-026-10-00-000-SPEC-A.md): Detector Specifications - *(SPEC)*
-    -   [`26-10-10-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-10/GP-AM-AMPEL-0100-53-026-10-10-000-DWG-A.md): Detector Locations - *(DWG)*
-    -   [`26-10-20-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-10/GP-AM-AMPEL-0100-53-026-10-20-000-ALGO-A.md): AI Detection Algorithms (H2/Battery) - *(ALGO, SDD)* (Ref GP-COM-AI)
+    -   [`26-10-00-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-10/GP-AM-AMPEL-0100-26-10-00-000-SPEC-A.md): Detector Specifications - *(SPEC)*
+    -   [`26-10-10-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-10/GP-AM-AMPEL-0100-26-10-10-000-DWG-A.md): Detector Locations - *(DWG)*
+    -   [`26-10-20-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-10/GP-AM-AMPEL-0100-26-10-20-000-ALGO-A.md): AI Detection Algorithms (H2/Battery) - *(ALGO, SDD)* (Ref GP-COM-AI)
 -   <a name="ata-26-20"></a> **26-20: Extinguishing**
     *Directory: `./GP-AM/AMPEL_0100/ATA26_FireProtection/26-20/`*
-    -   [`26-20-00-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-20/GP-AM-AMPEL-0100-53-026-20-00-000-SDD-A.md): Extinguisher System Description (Halon Alt.) - *(SDD)*
-    -   [`26-20-10-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-20/GP-AM-AMPEL-0100-53-026-20-10-000-SPEC-A.md): Agent Specifications - *(SPEC)*
-    -   [`26-20-20-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-20/GP-AM-AMPEL-0100-53-026-20-20-000-SDD-A.md): Zone-Specific Systems (Engine/APU/Cargo) - *(SDD)*
+    -   [`26-20-00-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-20/GP-AM-AMPEL-0100-26-20-00-000-SDD-A.md): Extinguisher System Description (Halon Alt.) - *(SDD)*
+    -   [`26-20-10-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-20/GP-AM-AMPEL-0100-26-20-10-000-SPEC-A.md): Agent Specifications - *(SPEC)*
+    -   [`26-20-20-000`](./GP-AM/AMPEL_0100/ATA26_FireProtection/26-20/GP-AM-AMPEL-0100-26-20-20-000-SDD-A.md): Zone-Specific Systems (Engine/APU/Cargo) - *(SDD)*
 </details>
 
 <details>
@@ -1315,40 +1323,40 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-27-00"></a> **27-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA27_FlightControls/27-00/`*
-    -   [`27-00-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-00/GP-AM-AMPEL-0100-53-027-00-00-000-OV-A.md): Flight Control System Overview - *(OV, SDD, FIG)*
-    -   [`27-00-00-001`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-00/GP-AM-AMPEL-0100-53-027-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`27-00-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-00/GP-AM-AMPEL-0100-27-00-00-000-OV-A.md): Flight Control System Overview - *(OV, SDD, FIG)*
+    -   [`27-00-00-001`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-00/GP-AM-AMPEL-0100-27-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-27-10"></a> **27-10: Aileron**
     *Directory: `./GP-AM/AMPEL_0100/ATA27_FlightControls/27-10/`*
-    -   [`27-10-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-10/GP-AM-AMPEL-0100-53-027-10-00-000-SDD-A.md): Aileron System Description - *(SDD)*
-    -   [`27-10-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-10/GP-AM-AMPEL-0100-53-027-10-10-000-SPEC-A.md): Actuation Specification - *(SPEC)* (Ref ATA 13/29)
+    -   [`27-10-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-10/GP-AM-AMPEL-0100-27-10-00-000-SDD-A.md): Aileron System Description - *(SDD)*
+    -   [`27-10-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-10/GP-AM-AMPEL-0100-27-10-10-000-SPEC-A.md): Actuation Specification - *(SPEC)* (Ref ATA 13/29)
 -   <a name="ata-27-20"></a> **27-20: Rudder**
     *Directory: `./GP-AM/AMPEL_0100/ATA27_FlightControls/27-20/`*
-    -   [`27-20-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-20/GP-AM-AMPEL-0100-53-027-20-00-000-SDD-A.md): Rudder System Description - *(SDD)* (Ref ATA 55)
-    -   [`27-20-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-20/GP-AM-AMPEL-0100-53-027-20-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
+    -   [`27-20-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-20/GP-AM-AMPEL-0100-27-20-00-000-SDD-A.md): Rudder System Description - *(SDD)* (Ref ATA 55)
+    -   [`27-20-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-20/GP-AM-AMPEL-0100-27-20-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
 -   <a name="ata-27-30"></a> **27-30: Elevator**
     *Directory: `./GP-AM/AMPEL_0100/ATA27_FlightControls/27-30/`*
-    -   [`27-30-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-30/GP-AM-AMPEL-0100-53-027-30-00-000-SDD-A.md): Elevator System Description - *(SDD)* (Ref ATA 55)
-    -   [`27-30-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-30/GP-AM-AMPEL-0100-53-027-30-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
+    -   [`27-30-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-30/GP-AM-AMPEL-0100-27-30-00-000-SDD-A.md): Elevator System Description - *(SDD)* (Ref ATA 55)
+    -   [`27-30-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-30/GP-AM-AMPEL-0100-27-30-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
 -   <a name="ata-27-40"></a> **27-40: Stabilizer Trim**
     *Directory: `./GP-AM/AMPEL_0100/ATA27_FlightControls/27-40/`*
-    -   [`27-40-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-40/GP-AM-AMPEL-0100-53-027-40-00-000-SDD-A.md): Stabilizer Trim System Description - *(SDD)* (Ref ATA 55)
+    -   [`27-40-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-40/GP-AM-AMPEL-0100-27-40-00-000-SDD-A.md): Stabilizer Trim System Description - *(SDD)* (Ref ATA 55)
 -   <a name="ata-27-50"></a> **27-50: Flaps**
     *Directory: `./GP-AM/AMPEL_0100/ATA27_FlightControls/27-50/`*
-    -   [`27-50-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-50/GP-AM-AMPEL-0100-53-027-50-00-000-SDD-A.md): Flap System Description - *(SDD)* (Ref ATA 57)
-    -   [`27-50-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-50/GP-AM-AMPEL-0100-53-027-50-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
+    -   [`27-50-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-50/GP-AM-AMPEL-0100-27-50-00-000-SDD-A.md): Flap System Description - *(SDD)* (Ref ATA 57)
+    -   [`27-50-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-50/GP-AM-AMPEL-0100-27-50-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
 -   <a name="ata-27-60"></a> **27-60: Spoilers**
     *Directory: `./GP-AM/AMPEL_0100/ATA27_FlightControls/27-60/`*
-    -   [`27-60-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-60/GP-AM-AMPEL-0100-53-027-60-00-000-SDD-A.md): Spoiler System Description - *(SDD)* (Ref ATA 57)
-    -   [`27-60-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-60/GP-AM-AMPEL-0100-53-027-60-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
+    -   [`27-60-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-60/GP-AM-AMPEL-0100-27-60-00-000-SDD-A.md): Spoiler System Description - *(SDD)* (Ref ATA 57)
+    -   [`27-60-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-60/GP-AM-AMPEL-0100-27-60-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
 -   <a name="ata-27-80"></a> **27-80: Slats**
     *Directory: `./GP-AM/AMPEL_0100/ATA27_FlightControls/27-80/`*
-    -   [`27-80-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-80/GP-AM-AMPEL-0100-53-027-80-00-000-SDD-A.md): Slat System Description - *(SDD)* (Ref ATA 57)
-    -   [`27-80-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-80/GP-AM-AMPEL-0100-53-027-80-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
+    -   [`27-80-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-80/GP-AM-AMPEL-0100-27-80-00-000-SDD-A.md): Slat System Description - *(SDD)* (Ref ATA 57)
+    -   [`27-80-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-80/GP-AM-AMPEL-0100-27-80-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
 -   <a name="ata-27-90"></a> **27-90: GPAM (GAIA Polymorphic Aero-Morphing)**
     *Directory: `./GP-AM/AMPEL_0100/ATA27_FlightControls/27-90/`*
-    -   [`27-90-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-90/GP-AM-AMPEL-0100-53-027-90-00-000-OV-A.md): GPAM System Overview - *(OV, SDD)* (Ref ATA 57)
-    -   [`27-90-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-90/GP-AM-AMPEL-0100-53-027-90-10-000-ALGO-A.md): Control Logic Algorithms - *(ALGO, SDD)* (Ref GP-COM-AI)
-    -   [`27-90-20-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-90/GP-AM-AMPEL-0100-53-027-90-20-000-ICD-A.md): GPAM Actuation Interface - *(ICD)* (Ref ATA 13/29)
+    -   [`27-90-00-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-90/GP-AM-AMPEL-0100-27-90-00-000-OV-A.md): GPAM System Overview - *(OV, SDD)* (Ref ATA 57)
+    -   [`27-90-10-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-90/GP-AM-AMPEL-0100-27-90-10-000-ALGO-A.md): Control Logic Algorithms - *(ALGO, SDD)* (Ref GP-COM-AI)
+    -   [`27-90-20-000`](./GP-AM/AMPEL_0100/ATA27_FlightControls/27-90/GP-AM-AMPEL-0100-27-90-20-000-ICD-A.md): GPAM Actuation Interface - *(ICD)* (Ref ATA 13/29)
 </details>
 
 <details>
@@ -1359,22 +1367,22 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-28-00"></a> **28-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA28_Fuel/28-00/`*
-    -   [`28-00-00-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-00/GP-AM-AMPEL-0100-53-028-00-00-000-OV-A.md): Fuel System Overview - *(OV, SDD, FIG)*
-    -   [`28-00-00-001`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-00/GP-AM-AMPEL-0100-53-028-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`28-00-00-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-00/GP-AM-AMPEL-0100-28-00-00-000-OV-A.md): Fuel System Overview - *(OV, SDD, FIG)*
+    -   [`28-00-00-001`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-00/GP-AM-AMPEL-0100-28-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-28-10"></a> **28-10: Storage**
     *Directory: `./GP-AM/AMPEL_0100/ATA28_Fuel/28-10/`*
-    -   [`28-10-00-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-10/GP-AM-AMPEL-0100-53-028-10-00-000-DD-A.md): Cryogenic Hydrogen Tank Design - *(DD, DWG)*
-    -   [`28-10-10-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-10/GP-AM-AMPEL-0100-53-028-10-10-000-SPEC-A.md): Cryogenic Hydrogen Tank Specification - *(SPEC)*
-    -   [`28-10-20-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-10/GP-AM-AMPEL-0100-53-028-10-20-000-DD-A.md): SAF Tank Design - *(DD)*
-    -   [`28-10-30-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-10/GP-AM-AMPEL-0100-53-028-10-30-000-SPEC-A.md): SAF Tank Specification - *(SPEC)*
+    -   [`28-10-00-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-10/GP-AM-AMPEL-0100-28-10-00-000-DD-A.md): Cryogenic Hydrogen Tank Design - *(DD, DWG)*
+    -   [`28-10-10-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-10/GP-AM-AMPEL-0100-28-10-10-000-SPEC-A.md): Cryogenic Hydrogen Tank Specification - *(SPEC)*
+    -   [`28-10-20-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-10/GP-AM-AMPEL-0100-28-10-20-000-DD-A.md): SAF Tank Design - *(DD)*
+    -   [`28-10-30-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-10/GP-AM-AMPEL-0100-28-10-30-000-SPEC-A.md): SAF Tank Specification - *(SPEC)*
 -   <a name="ata-28-20"></a> **28-20: Distribution**
     *Directory: `./GP-AM/AMPEL_0100/ATA28_Fuel/28-20/`*
-    -   [`28-20-00-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-20/GP-AM-AMPEL-0100-53-028-20-00-000-SDD-A.md): Fuel Distribution System Description (H2 & SAF) - *(SDD)*
-    -   [`28-20-10-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-20/GP-AM-AMPEL-0100-53-028-20-10-000-SPEC-A.md): Pump and Valve Specification - *(SPEC)*
-    -   [`28-20-20-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-20/GP-AM-AMPEL-0100-53-028-20-20-000-SPEC-A.md): Cryo-Line Insulation and Safety Specification - *(SPEC)*
+    -   [`28-20-00-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-20/GP-AM-AMPEL-0100-28-20-00-000-SDD-A.md): Fuel Distribution System Description (H2 & SAF) - *(SDD)*
+    -   [`28-20-10-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-20/GP-AM-AMPEL-0100-28-20-10-000-SPEC-A.md): Pump and Valve Specification - *(SPEC)*
+    -   [`28-20-20-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-20/GP-AM-AMPEL-0100-28-20-20-000-SPEC-A.md): Cryo-Line Insulation and Safety Specification - *(SPEC)*
 -   <a name="ata-28-40"></a> **28-40: Indicating**
     *Directory: `./GP-AM/AMPEL_0100/ATA28_Fuel/28-40/`*
-    -   [`28-40-00-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-40/GP-AM-AMPEL-0100-53-028-40-00-000-SPEC-A.md): Fuel Quantity Indicating System (FQIS) Specification - *(SPEC)*
+    -   [`28-40-00-000`](./GP-AM/AMPEL_0100/ATA28_Fuel/28-40/GP-AM-AMPEL-0100-28-40-00-000-SPEC-A.md): Fuel Quantity Indicating System (FQIS) Specification - *(SPEC)*
 </details>
 
 <details>
@@ -1385,20 +1393,20 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-29-00"></a> **29-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-00/`*
-    -   [`29-00-00-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-00/GP-AM-AMPEL-0100-53-029-00-00-000-OV-A.md): Hydraulic System Overview (Actuation Focus) - *(OV, SDD)*
-    -   [`29-00-00-001`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-00/GP-AM-AMPEL-0100-53-029-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`29-00-00-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-00/GP-AM-AMPEL-0100-29-00-00-000-OV-A.md): Hydraulic System Overview (Actuation Focus) - *(OV, SDD)*
+    -   [`29-00-00-001`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-00/GP-AM-AMPEL-0100-29-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-29-10"></a> **29-10: Electro-Hydrostatic Actuators (EHA)**
     *Directory: `./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-10/`*
-    -   [`29-10-00-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-10/GP-AM-AMPEL-0100-53-029-10-00-000-DD-A.md): EHA Unit Design - *(DD, DWG)*
-    -   [`29-10-10-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-10/GP-AM-AMPEL-0100-53-029-10-10-000-SPEC-A.md): EHA Performance Specification - *(SPEC)*
-    -   [`29-10-20-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-10/GP-AM-AMPEL-0100-53-029-10-20-000-MAN-A.md): EHA Maintenance Manual - *(MAN)*
+    -   [`29-10-00-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-10/GP-AM-AMPEL-0100-29-10-00-000-DD-A.md): EHA Unit Design - *(DD, DWG)*
+    -   [`29-10-10-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-10/GP-AM-AMPEL-0100-29-10-10-000-SPEC-A.md): EHA Performance Specification - *(SPEC)*
+    -   [`29-10-20-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-10/GP-AM-AMPEL-0100-29-10-20-000-MAN-A.md): EHA Maintenance Manual - *(MAN)*
 -   <a name="ata-29-20"></a> **29-20: Hydraulic Lines and Fittings**
     *Directory: `./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-20/`*
-    -   [`29-20-00-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-20/GP-AM-AMPEL-0100-53-029-20-00-000-DWG-A.md): Hydraulic Line Routing (Redundancy Only) - *(DWG)*
+    -   [`29-20-00-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-20/GP-AM-AMPEL-0100-29-20-00-000-DWG-A.md): Hydraulic Line Routing (Redundancy Only) - *(DWG)*
 -   <a name="ata-29-30"></a> **29-30: System Monitoring**
     *Directory: `./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-30/`*
-    -   [`29-30-00-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-30/GP-AM-AMPEL-0100-53-029-30-00-000-SDD-A.md): Monitoring System Description - *(SDD)*
-    -   [`29-30-10-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-30/GP-AM-AMPEL-0100-53-029-30-10-000-SPEC-A.md): Sensor Specifications - *(SPEC)*
+    -   [`29-30-00-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-30/GP-AM-AMPEL-0100-29-30-00-000-SDD-A.md): Monitoring System Description - *(SDD)*
+    -   [`29-30-10-000`](./GP-AM/AMPEL_0100/ATA29_HydraulicAct/29-30/GP-AM-AMPEL-0100-29-30-10-000-SPEC-A.md): Sensor Specifications - *(SPEC)*
 </details>
 
 ---
@@ -1414,25 +1422,25 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-30-00"></a> **30-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA30_IceRain/30-00/`*
-    -   [`30-00-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-00/GP-AM-AMPEL-0100-53-030-00-00-000-OV-A.md): Ice and Rain Protection Overview - *(OV)*
-    -   [`30-00-00-001`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-00/GP-AM-AMPEL-0100-53-030-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`30-00-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-00/GP-AM-AMPEL-0100-30-00-00-000-OV-A.md): Ice and Rain Protection Overview - *(OV)*
+    -   [`30-00-00-001`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-00/GP-AM-AMPEL-0100-30-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-30-10"></a> **30-10: Airfoil Protection**
     *Directory: `./GP-AM/AMPEL_0100/ATA30_IceRain/30-10/`*
-    -   [`30-10-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-10/GP-AM-AMPEL-0100-53-030-10-00-000-SDD-A.md): Wing Anti-Ice System (Electro-Thermal) - *(SDD)*
-    -   [`30-10-10-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-10/GP-AM-AMPEL-0100-53-030-10-10-000-SPEC-A.md): Wing Anti-Ice Specification - *(SPEC)*
-    -   [`30-10-20-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-10/GP-AM-AMPEL-0100-53-030-10-20-000-SDD-A.md): Wing De-Ice System (Electro-Impulse/Pneumatic) - *(SDD)*
+    -   [`30-10-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-10/GP-AM-AMPEL-0100-30-10-00-000-SDD-A.md): Wing Anti-Ice System (Electro-Thermal) - *(SDD)*
+    -   [`30-10-10-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-10/GP-AM-AMPEL-0100-30-10-10-000-SPEC-A.md): Wing Anti-Ice Specification - *(SPEC)*
+    -   [`30-10-20-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-10/GP-AM-AMPEL-0100-30-10-20-000-SDD-A.md): Wing De-Ice System (Electro-Impulse/Pneumatic) - *(SDD)*
 -   <a name="ata-30-30"></a> **30-30: Nacelle Protection**
     *Directory: `./GP-AM/AMPEL_0100/ATA30_IceRain/30-30/`*
-    -   [`30-30-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-30/GP-AM-AMPEL-0100-53-030-30-00-000-SDD-A.md): Nacelle Anti-Ice System - *(SDD)* (Ref ATA 71)
-    -   [`30-30-10-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-30/GP-AM-AMPEL-0100-53-030-30-10-000-SPEC-A.md): Nacelle Anti-Ice Specification - *(SPEC)*
+    -   [`30-30-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-30/GP-AM-AMPEL-0100-30-30-00-000-SDD-A.md): Nacelle Anti-Ice System - *(SDD)* (Ref ATA 71)
+    -   [`30-30-10-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-30/GP-AM-AMPEL-0100-30-30-10-000-SPEC-A.md): Nacelle Anti-Ice Specification - *(SPEC)*
 -   <a name="ata-30-40"></a> **30-40: Window and Door Protection**
     *Directory: `./GP-AM/AMPEL_0100/ATA30_IceRain/30-40/`*
-    -   [`30-40-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-40/GP-AM-AMPEL-0100-53-030-40-00-000-SDD-A.md): Windshield Heating & Wiper - *(SDD)* (Ref ATA 56)
-    -   [`30-40-10-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-40/GP-AM-AMPEL-0100-53-030-40-10-000-SPEC-A.md): Windshield Heating & Wiper Specification - *(SPEC)*
+    -   [`30-40-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-40/GP-AM-AMPEL-0100-30-40-00-000-SDD-A.md): Windshield Heating & Wiper - *(SDD)* (Ref ATA 56)
+    -   [`30-40-10-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-40/GP-AM-AMPEL-0100-30-40-10-000-SPEC-A.md): Windshield Heating & Wiper Specification - *(SPEC)*
 -   <a name="ata-30-80"></a> **30-80: Detection**
     *Directory: `./GP-AM/AMPEL_0100/ATA30_IceRain/30-80/`*
-    -   [`30-80-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-80/GP-AM-AMPEL-0100-53-030-80-00-000-SPEC-A.md): Ice Detection System Specification - *(SPEC)*
-    -   [`30-80-10-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-80/GP-AM-AMPEL-0100-53-030-80-10-000-SDD-A.md): AI Predictive Icing System - *(SDD)* (Ref GP-COM-AI)
+    -   [`30-80-00-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-80/GP-AM-AMPEL-0100-30-80-00-000-SPEC-A.md): Ice Detection System Specification - *(SPEC)*
+    -   [`30-80-10-000`](./GP-AM/AMPEL_0100/ATA30_IceRain/30-80/GP-AM-AMPEL-0100-30-80-10-000-SDD-A.md): AI Predictive Icing System - *(SDD)* (Ref GP-COM-AI)
 </details>
 
 <details>
@@ -1443,22 +1451,22 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-31-00"></a> **31-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA31_Indicating/31-00/`*
-    -   [`31-00-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-00/GP-AM-AMPEL-0100-53-031-00-00-000-OV-A.md): Indicating and Recording Overview - *(OV, SDD)*
-    -   [`31-00-00-001`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-00/GP-AM-AMPEL-0100-53-031-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`31-00-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-00/GP-AM-AMPEL-0100-31-00-00-000-OV-A.md): Indicating and Recording Overview - *(OV, SDD)*
+    -   [`31-00-00-001`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-00/GP-AM-AMPEL-0100-31-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-31-10"></a> **31-10: Instrument and Display Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA31_Indicating/31-10/`*
-    -   [`31-10-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-10/GP-AM-AMPEL-0100-53-031-10-00-000-SPEC-A.md): Cockpit Display Specification (PFD/ND/EICAS) - *(SPEC)*
-    -   [`31-10-10-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-10/GP-AM-AMPEL-0100-53-031-10-10-000-SDD-A.md): Cockpit XAI Interface - *(SDD)* (Ref GP-COM-AI)
+    -   [`31-10-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-10/GP-AM-AMPEL-0100-31-10-00-000-SPEC-A.md): Cockpit Display Specification (PFD/ND/EICAS) - *(SPEC)*
+    -   [`31-10-10-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-10/GP-AM-AMPEL-0100-31-10-10-000-SDD-A.md): Cockpit XAI Interface - *(SDD)* (Ref GP-COM-AI)
 -   <a name="ata-31-30"></a> **31-30: Recorders**
     *Directory: `./GP-AM/AMPEL_0100/ATA31_Indicating/31-30/`*
-    -   [`31-30-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-30/GP-AM-AMPEL-0100-53-031-30-00-000-SPEC-A.md): HPC-Based Flight Data Recorder Specification - *(SPEC)*
+    -   [`31-30-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-30/GP-AM-AMPEL-0100-31-30-00-000-SPEC-A.md): HPC-Based Flight Data Recorder Specification - *(SPEC)*
 -   <a name="ata-31-60"></a> **31-60: Central Display Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA31_Indicating/31-60/`*
-    -   [`31-60-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-60/GP-AM-AMPEL-0100-53-031-60-00-000-SDD-A.md): On-Board HPC System Description - *(SDD)* (Ref GP-COM-AI)
+    -   [`31-60-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-60/GP-AM-AMPEL-0100-31-60-00-000-SDD-A.md): On-Board HPC System Description - *(SDD)* (Ref GP-COM-AI)
 -   <a name="ata-31-70"></a> **31-70: Data Acquisition and Fusion**
     *Directory: `./GP-AM/AMPEL_0100/ATA31_Indicating/31-70/`*
-    -   [`31-70-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-70/GP-AM-AMPEL-0100-53-031-70-00-000-SDD-A.md): Sensor Data Acquisition and Fusion Architecture - *(SDD)* (Ref GP-COM-AI)
-    -   [`31-70-10-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-70/GP-AM-AMPEL-0100-53-031-70-10-000-ICD-A.md): i-Aher0 Sensor Fusion Interface - *(ICD)*
+    -   [`31-70-00-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-70/GP-AM-AMPEL-0100-31-70-00-000-SDD-A.md): Sensor Data Acquisition and Fusion Architecture - *(SDD)* (Ref GP-COM-AI)
+    -   [`31-70-10-000`](./GP-AM/AMPEL_0100/ATA31_Indicating/31-70/GP-AM-AMPEL-0100-31-70-10-000-ICD-A.md): i-Aher0 Sensor Fusion Interface - *(ICD)*
 </details>
 
 <details>
@@ -1469,35 +1477,35 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-32-00"></a> **32-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA32_LandingGear/32-00/`*
-    -   [`32-00-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-00/GP-AM-AMPEL-0100-53-032-00-00-000-OV-A.md): Landing Gear System Overview - *(OV, SDD)*
-    -   [`32-00-00-001`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-00/GP-AM-AMPEL-0100-53-032-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`32-00-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-00/GP-AM-AMPEL-0100-32-00-00-000-OV-A.md): Landing Gear System Overview - *(OV, SDD)*
+    -   [`32-00-00-001`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-00/GP-AM-AMPEL-0100-32-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-32-10"></a> **32-10: Main Gear**
     *Directory: `./GP-AM/AMPEL_0100/ATA32_LandingGear/32-10/`*
-    -   [`32-10-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-10/GP-AM-AMPEL-0100-53-032-10-00-000-SDD-A.md): Main Gear Strut and Assembly - *(SDD)*
-    -   [`32-10-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-10/GP-AM-AMPEL-0100-53-032-10-10-000-DWG-A.md): Main Gear Assembly Drawing - *(DWG)*
+    -   [`32-10-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-10/GP-AM-AMPEL-0100-32-10-00-000-SDD-A.md): Main Gear Strut and Assembly - *(SDD)*
+    -   [`32-10-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-10/GP-AM-AMPEL-0100-32-10-10-000-DWG-A.md): Main Gear Assembly Drawing - *(DWG)*
 -   <a name="ata-32-20"></a> **32-20: Nose Gear**
     *Directory: `./GP-AM/AMPEL_0100/ATA32_LandingGear/32-20/`*
-    -   [`32-20-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-20/GP-AM-AMPEL-0100-53-032-20-00-000-SDD-A.md): Nose Gear Strut and Assembly - *(SDD)*
-    -   [`32-20-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-20/GP-AM-AMPEL-0100-53-032-20-10-000-DWG-A.md): Nose Gear Assembly Drawing - *(DWG)*
+    -   [`32-20-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-20/GP-AM-AMPEL-0100-32-20-00-000-SDD-A.md): Nose Gear Strut and Assembly - *(SDD)*
+    -   [`32-20-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-20/GP-AM-AMPEL-0100-32-20-10-000-DWG-A.md): Nose Gear Assembly Drawing - *(DWG)*
 -   <a name="ata-32-30"></a> **32-30: Extension and Retraction**
     *Directory: `./GP-AM/AMPEL_0100/ATA32_LandingGear/32-30/`*
-    -   [`32-30-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-30/GP-AM-AMPEL-0100-53-032-30-00-000-SDD-A.md): Actuation System Description - *(SDD)* (Ref ATA 13/29)
-    -   [`32-30-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-30/GP-AM-AMPEL-0100-53-032-30-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
+    -   [`32-30-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-30/GP-AM-AMPEL-0100-32-30-00-000-SDD-A.md): Actuation System Description - *(SDD)* (Ref ATA 13/29)
+    -   [`32-30-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-30/GP-AM-AMPEL-0100-32-30-10-000-SPEC-A.md): Actuation Specification - *(SPEC)*
 -   <a name="ata-32-40"></a> **32-40: Wheels and Brakes**
     *Directory: `./GP-AM/AMPEL_0100/ATA32_LandingGear/32-40/`*
-    -   [`32-40-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-40/GP-AM-AMPEL-0100-53-032-40-00-000-SPEC-A.md): Wheel and Tire Specification - *(SPEC)*
-    -   [`32-40-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-40/GP-AM-AMPEL-0100-53-032-40-10-000-SDD-A.md): Braking System Description (Electric/Regenerative) - *(SDD)* (Ref ATA 24)
-    -   [`32-40-20-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-40/GP-AM-AMPEL-0100-53-032-40-20-000-SPEC-A.md): Braking System Specification - *(SPEC)*
+    -   [`32-40-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-40/GP-AM-AMPEL-0100-32-40-00-000-SPEC-A.md): Wheel and Tire Specification - *(SPEC)*
+    -   [`32-40-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-40/GP-AM-AMPEL-0100-32-40-10-000-SDD-A.md): Braking System Description (Electric/Regenerative) - *(SDD)* (Ref ATA 24)
+    -   [`32-40-20-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-40/GP-AM-AMPEL-0100-32-40-20-000-SPEC-A.md): Braking System Specification - *(SPEC)*
 -   <a name="ata-32-50"></a> **32-50: Steering**
     *Directory: `./GP-AM/AMPEL_0100/ATA32_LandingGear/32-50/`*
-    -   [`32-50-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-50/GP-AM-AMPEL-0100-53-032-50-00-000-SDD-A.md): Nose Wheel Steering System - *(SDD)*
-    -   [`32-50-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-50/GP-AM-AMPEL-0100-53-032-50-10-000-SPEC-A.md): Nose Wheel Steering Specification - *(SPEC)*
+    -   [`32-50-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-50/GP-AM-AMPEL-0100-32-50-00-000-SDD-A.md): Nose Wheel Steering System - *(SDD)*
+    -   [`32-50-10-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-50/GP-AM-AMPEL-0100-32-50-10-000-SPEC-A.md): Nose Wheel Steering Specification - *(SPEC)*
 -   <a name="ata-32-60"></a> **32-60: Position and Warning**
     *Directory: `./GP-AM/AMPEL_0100/ATA32_LandingGear/32-60/`*
-    -   [`32-60-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-60/GP-AM-AMPEL-0100-53-032-60-00-000-SDD-A.md): Gear Position Indicating System - *(SDD)*
+    -   [`32-60-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-60/GP-AM-AMPEL-0100-32-60-00-000-SDD-A.md): Gear Position Indicating System - *(SDD)*
 -   <a name="ata-32-70"></a> **32-70: AI Health Monitoring**
     *Directory: `./GP-AM/AMPEL_0100/ATA32_LandingGear/32-70/`*
-    -   [`32-70-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-70/GP-AM-AMPEL-0100-53-032-70-00-000-SDD-A.md): AI Landing Gear Health Monitoring System - *(SDD)* (Ref GP-COM-AI)
+    -   [`32-70-00-000`](./GP-AM/AMPEL_0100/ATA32_LandingGear/32-70/GP-AM-AMPEL-0100-32-70-00-000-SDD-A.md): AI Landing Gear Health Monitoring System - *(SDD)* (Ref GP-COM-AI)
 </details>
 
 <details>
@@ -1508,24 +1516,24 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-33-00"></a> **33-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA33_Lights/33-00/`*
-    -   [`33-00-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-00/GP-AM-AMPEL-0100-53-033-00-00-000-OV-A.md): Lighting System Overview - *(OV, SDD)*
-    -   [`33-00-00-001`](./GP-AM/AMPEL_0100/ATA33_Lights/33-00/GP-AM-AMPEL-0100-53-033-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`33-00-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-00/GP-AM-AMPEL-0100-33-00-00-000-OV-A.md): Lighting System Overview - *(OV, SDD)*
+    -   [`33-00-00-001`](./GP-AM/AMPEL_0100/ATA33_Lights/33-00/GP-AM-AMPEL-0100-33-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-33-10"></a> **33-10: Flight Compartment**
     *Directory: `./GP-AM/AMPEL_0100/ATA33_Lights/33-10/`*
-    -   [`33-10-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-10/GP-AM-AMPEL-0100-53-033-10-00-000-SPEC-A.md): Cockpit Lighting Specification - *(SPEC)*
+    -   [`33-10-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-10/GP-AM-AMPEL-0100-33-10-00-000-SPEC-A.md): Cockpit Lighting Specification - *(SPEC)*
 -   <a name="ata-33-20"></a> **33-20: Passenger Compartments**
     *Directory: `./GP-AM/AMPEL_0100/ATA33_Lights/33-20/`*
-    -   [`33-20-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-20/GP-AM-AMPEL-0100-53-033-20-00-000-SDD-A.md): Cabin Lighting System (Quantum-Luminescent) - *(SDD)*
-    -   [`33-20-10-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-20/GP-AM-AMPEL-0100-53-033-20-10-000-SPEC-A.md): Cabin Lighting Specification - *(SPEC)*
-    -   [`33-20-20-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-20/GP-AM-AMPEL-0100-53-033-20-20-000-SDD-A.md): AI-Adaptive Cabin Lighting - *(SDD)* (Ref GP-COM-AI)
+    -   [`33-20-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-20/GP-AM-AMPEL-0100-33-20-00-000-SDD-A.md): Cabin Lighting System (Quantum-Luminescent) - *(SDD)*
+    -   [`33-20-10-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-20/GP-AM-AMPEL-0100-33-20-10-000-SPEC-A.md): Cabin Lighting Specification - *(SPEC)*
+    -   [`33-20-20-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-20/GP-AM-AMPEL-0100-33-20-20-000-SDD-A.md): AI-Adaptive Cabin Lighting - *(SDD)* (Ref GP-COM-AI)
 -   <a name="ata-33-40"></a> **33-40: Exterior Lighting**
     *Directory: `./GP-AM/AMPEL_0100/ATA33_Lights/33-40/`*
-    -   [`33-40-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-40/GP-AM-AMPEL-0100-53-033-40-00-000-LIST-A.md): Exterior Lighting List - *(LIST, SPEC)*
-    -   [`33-40-10-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-40/GP-AM-AMPEL-0100-53-033-40-10-000-DWG-A.md): Exterior Lighting Location Drawing - *(DWG)*
+    -   [`33-40-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-40/GP-AM-AMPEL-0100-33-40-00-000-LIST-A.md): Exterior Lighting List - *(LIST, SPEC)*
+    -   [`33-40-10-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-40/GP-AM-AMPEL-0100-33-40-10-000-DWG-A.md): Exterior Lighting Location Drawing - *(DWG)*
 -   <a name="ata-33-50"></a> **33-50: Emergency Lighting**
     *Directory: `./GP-AM/AMPEL_0100/ATA33_Lights/33-50/`*
-    -   [`33-50-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-50/GP-AM-AMPEL-0100-53-033-50-00-000-SDD-A.md): Emergency Lighting System Description - *(SDD)*
-    -   [`33-50-10-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-50/GP-AM-AMPEL-0100-53-033-50-10-000-SPEC-A.md): Emergency Lighting Specification - *(SPEC)*
+    -   [`33-50-00-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-50/GP-AM-AMPEL-0100-33-50-00-000-SDD-A.md): Emergency Lighting System Description - *(SDD)*
+    -   [`33-50-10-000`](./GP-AM/AMPEL_0100/ATA33_Lights/33-50/GP-AM-AMPEL-0100-33-50-10-000-SPEC-A.md): Emergency Lighting Specification - *(SPEC)*
 </details>
 
 <details>
@@ -1536,32 +1544,32 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-34-00"></a> **34-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA34_Navigation/34-00/`*
-    -   [`34-00-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-00/GP-AM-AMPEL-0100-53-034-00-00-000-OV-A.md): Navigation System Overview - *(OV, SDD, FIG)*
-    -   [`34-00-00-001`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-00/GP-AM-AMPEL-0100-53-034-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`34-00-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-00/GP-AM-AMPEL-0100-34-00-00-000-OV-A.md): Navigation System Overview - *(OV, SDD, FIG)*
+    -   [`34-00-00-001`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-00/GP-AM-AMPEL-0100-34-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-34-10"></a> **34-10: Air Data**
     *Directory: `./GP-AM/AMPEL_0100/ATA34_Navigation/34-10/`*
-    -   [`34-10-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-10/GP-AM-AMPEL-0100-53-034-10-00-000-SDD-A.md): Air Data System Description - *(SDD)*
-    -   [`34-10-10-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-10/GP-AM-AMPEL-0100-53-034-10-10-000-SPEC-A.md): Air Data Sensor Specification - *(SPEC)*
+    -   [`34-10-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-10/GP-AM-AMPEL-0100-34-10-00-000-SDD-A.md): Air Data System Description - *(SDD)*
+    -   [`34-10-10-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-10/GP-AM-AMPEL-0100-34-10-10-000-SPEC-A.md): Air Data Sensor Specification - *(SPEC)*
 -   <a name="ata-34-20"></a> **34-20: Inertial Reference**
     *Directory: `./GP-AM/AMPEL_0100/ATA34_Navigation/34-20/`*
-    -   [`34-20-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-20/GP-AM-AMPEL-0100-53-034-20-00-000-SDD-A.md): Inertial Reference System (IRS/INS) Description - *(SDD)*
-    -   [`34-20-10-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-20/GP-AM-AMPEL-0100-53-034-20-10-000-SPEC-A.md): IRS Specification - *(SPEC)*
-    -   [`34-20-20-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-20/GP-AM-AMPEL-0100-53-034-20-20-000-SDD-A.md): Quantum Sensor Integration (INS Enhancement) - *(SDD)* (Ref GP-COM-QAO)
+    -   [`34-20-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-20/GP-AM-AMPEL-0100-34-20-00-000-SDD-A.md): Inertial Reference System (IRS/INS) Description - *(SDD)*
+    -   [`34-20-10-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-20/GP-AM-AMPEL-0100-34-20-10-000-SPEC-A.md): IRS Specification - *(SPEC)*
+    -   [`34-20-20-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-20/GP-AM-AMPEL-0100-34-20-20-000-SDD-A.md): Quantum Sensor Integration (INS Enhancement) - *(SDD)* (Ref GP-COM-QAO)
 -   <a name="ata-34-40"></a> **34-40: Landing Aids**
     *Directory: `./GP-AM/AMPEL_0100/ATA34_Navigation/34-40/`*
-    -   [`34-40-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-40/GP-AM-AMPEL-0100-53-034-40-00-000-SPEC-A.md): Landing Aid Receiver Specification (ILS/MLS/GLS) - *(SPEC)*
+    -   [`34-40-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-40/GP-AM-AMPEL-0100-34-40-00-000-SPEC-A.md): Landing Aid Receiver Specification (ILS/MLS/GLS) - *(SPEC)*
 -   <a name="ata-34-50"></a> **34-50: GNSS**
     *Directory: `./GP-AM/AMPEL_0100/ATA34_Navigation/34-50/`*
-    -   [`34-50-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-50/GP-AM-AMPEL-0100-53-034-50-00-000-SPEC-A.md): GNSS Receiver Specification - *(SPEC)*
+    -   [`34-50-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-50/GP-AM-AMPEL-0100-34-50-00-000-SPEC-A.md): GNSS Receiver Specification - *(SPEC)*
 -   <a name="ata-34-60"></a> **34-60: Independent Position Determining**
     *Directory: `./GP-AM/AMPEL_0100/ATA34_Navigation/34-60/`*
-    -   [`34-60-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-60/GP-AM-AMPEL-0100-53-034-60-00-000-SDD-A.md): Star Tracker System Description - *(SDD)*
-    -   [`34-60-10-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-60/GP-AM-AMPEL-0100-53-034-60-10-000-SPEC-A.md): Star Tracker Specification (Near-Space Ops) - *(SPEC)* (Ref GP-AS)
+    -   [`34-60-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-60/GP-AM-AMPEL-0100-34-60-00-000-SDD-A.md): Star Tracker System Description - *(SDD)*
+    -   [`34-60-10-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-60/GP-AM-AMPEL-0100-34-60-10-000-SPEC-A.md): Star Tracker Specification (Near-Space Ops) - *(SPEC)* (Ref GP-AS)
 -   <a name="ata-34-70"></a> **34-70: AI Route Optimization**
     *Directory: `./GP-AM/AMPEL_0100/ATA34_Navigation/34-70/`*
-    -   [`34-70-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-70/GP-AM-AMPEL-0100-53-034-70-00-000-ALGO-A.md): AI Route Optimization Algorithm - *(ALGO, SDD)* (Ref GP-COM-AI)
-    -   [`34-70-10-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-70/GP-AM-AMPEL-0100-53-034-70-10-000-CAL-A.md): Performance Analysis - *(CAL, RPT)*
-    -   [`34-70-20-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-70/GP-AM-AMPEL-0100-53-034-70-20-000-ICD-A.md): QAO Navigation Interface - *(ICD)* (Ref GP-COM-QAO)
+    -   [`34-70-00-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-70/GP-AM-AMPEL-0100-34-70-00-000-ALGO-A.md): AI Route Optimization Algorithm - *(ALGO, SDD)* (Ref GP-COM-AI)
+    -   [`34-70-10-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-70/GP-AM-AMPEL-0100-34-70-10-000-CAL-A.md): Performance Analysis - *(CAL, RPT)*
+    -   [`34-70-20-000`](./GP-AM/AMPEL_0100/ATA34_Navigation/34-70/GP-AM-AMPEL-0100-34-70-20-000-ICD-A.md): QAO Navigation Interface - *(ICD)* (Ref GP-COM-QAO)
 </details>
 
 <details>
@@ -1572,19 +1580,19 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-35-00"></a> **35-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA35_Oxygen/35-00/`*
-    -   [`35-00-00-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-00/GP-AM-AMPEL-0100-53-035-00-00-000-OV-A.md): Oxygen System Overview - *(OV, SDD)*
-    -   [`35-00-00-001`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-00/GP-AM-AMPEL-0100-53-035-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`35-00-00-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-00/GP-AM-AMPEL-0100-35-00-00-000-OV-A.md): Oxygen System Overview - *(OV, SDD)*
+    -   [`35-00-00-001`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-00/GP-AM-AMPEL-0100-35-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-35-10"></a> **35-10: Crew System**
     *Directory: `./GP-AM/AMPEL_0100/ATA35_Oxygen/35-10/`*
-    -   [`35-10-00-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-10/GP-AM-AMPEL-0100-53-035-10-00-000-SDD-A.md): Flight Crew System Description - *(SDD)*
-    -   [`35-10-10-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-10/GP-AM-AMPEL-0100-53-035-10-10-000-SPEC-A.md): Crew System Specification - *(SPEC)*
+    -   [`35-10-00-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-10/GP-AM-AMPEL-0100-35-10-00-000-SDD-A.md): Flight Crew System Description - *(SDD)*
+    -   [`35-10-10-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-10/GP-AM-AMPEL-0100-35-10-10-000-SPEC-A.md): Crew System Specification - *(SPEC)*
 -   <a name="ata-35-20"></a> **35-20: Passenger System**
     *Directory: `./GP-AM/AMPEL_0100/ATA35_Oxygen/35-20/`*
-    -   [`35-20-00-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-20/GP-AM-AMPEL-0100-53-035-20-00-000-SDD-A.md): Passenger System Description (Chemical/Gaseous) - *(SDD)*
-    -   [`35-20-10-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-20/GP-AM-AMPEL-0100-53-035-20-10-000-SPEC-A.md): Passenger System Specification - *(SPEC)*
+    -   [`35-20-00-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-20/GP-AM-AMPEL-0100-35-20-00-000-SDD-A.md): Passenger System Description (Chemical/Gaseous) - *(SDD)*
+    -   [`35-20-10-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-20/GP-AM-AMPEL-0100-35-20-10-000-SPEC-A.md): Passenger System Specification - *(SPEC)*
 -   <a name="ata-35-30"></a> **35-30: Portable Equipment**
     *Directory: `./GP-AM/AMPEL_0100/ATA35_Oxygen/35-30/`*
-    -   [`35-30-00-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-30/GP-AM-AMPEL-0100-53-035-30-00-000-LIST-A.md): Portable Equipment List - *(LIST, SPEC)*
+    -   [`35-30-00-000`](./GP-AM/AMPEL_0100/ATA35_Oxygen/35-30/GP-AM-AMPEL-0100-35-30-00-000-LIST-A.md): Portable Equipment List - *(LIST, SPEC)*
 </details>
 
 <details>
@@ -1595,15 +1603,15 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-36-00"></a> **36-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-00/`*
-    -   [`36-00-00-000`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-00/GP-AM-AMPEL-0100-53-036-00-00-000-OV-A.md): Pneumatic System Overview (Minimized Scope) - *(OV, SDD)*
-    -   [`36-00-00-001`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-00/GP-AM-AMPEL-0100-53-036-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`36-00-00-000`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-00/GP-AM-AMPEL-0100-36-00-00-000-OV-A.md): Pneumatic System Overview (Minimized Scope) - *(OV, SDD)*
+    -   [`36-00-00-001`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-00/GP-AM-AMPEL-0100-36-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-36-10"></a> **36-10: Bleed Air**
     *Directory: `./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-10/`*
-    -   [`36-10-00-000`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-10/GP-AM-AMPEL-0100-53-036-10-00-000-SDD-A.md): Bleed Air Description (If Used) - *(SDD)* (Ref ATA 75)
-    -   [`36-10-10-000`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-10/GP-AM-AMPEL-0100-53-036-10-10-000-DWG-A.md): Bleed Air Ducting Drawing (If Used) - *(DWG)*
+    -   [`36-10-00-000`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-10/GP-AM-AMPEL-0100-36-10-00-000-SDD-A.md): Bleed Air Description (If Used) - *(SDD)* (Ref ATA 75)
+    -   [`36-10-10-000`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-10/GP-AM-AMPEL-0100-36-10-10-000-DWG-A.md): Bleed Air Ducting Drawing (If Used) - *(DWG)*
 -   <a name="ata-36-20"></a> **36-20: Indication**
     *Directory: `./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-20/`*
-    -   [`36-20-00-000`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-20/GP-AM-AMPEL-0100-53-036-20-00-000-SDD-A.md): Pneumatic System Indication Description (If Applicable) - *(SDD)*
+    -   [`36-20-00-000`](./GP-AM/AMPEL_0100/ATA36_Pneumatic/36-20/GP-AM-AMPEL-0100-36-20-00-000-SDD-A.md): Pneumatic System Indication Description (If Applicable) - *(SDD)*
 </details>
 
 <details>
@@ -1614,15 +1622,15 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-37-00"></a> **37-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA37_Vacuum/37-00/`*
-    -   [`37-00-00-000`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-00/GP-AM-AMPEL-0100-53-037-00-00-000-OV-A.md): Vacuum System Overview (If Applicable) - *(OV, SDD)*
-    -   [`37-00-00-001`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-00/GP-AM-AMPEL-0100-53-037-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`37-00-00-000`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-00/GP-AM-AMPEL-0100-37-00-00-000-OV-A.md): Vacuum System Overview (If Applicable) - *(OV, SDD)*
+    -   [`37-00-00-001`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-00/GP-AM-AMPEL-0100-37-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-37-10"></a> **37-10: Lines and Components**
     *Directory: `./GP-AM/AMPEL_0100/ATA37_Vacuum/37-10/`*
-    -   [`37-10-00-000`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-10/GP-AM-AMPEL-0100-53-037-10-00-000-DWG-A.md): Vacuum Line Drawing - *(DWG)*
-    -   [`37-10-10-000`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-10/GP-AM-AMPEL-0100-53-037-10-10-000-SPEC-A.md): Component Specification - *(SPEC)*
+    -   [`37-10-00-000`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-10/GP-AM-AMPEL-0100-37-10-00-000-DWG-A.md): Vacuum Line Drawing - *(DWG)*
+    -   [`37-10-10-000`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-10/GP-AM-AMPEL-0100-37-10-10-000-SPEC-A.md): Component Specification - *(SPEC)*
 -   <a name="ata-37-20"></a> **37-20: Indication**
     *Directory: `./GP-AM/AMPEL_0100/ATA37_Vacuum/37-20/`*
-    -   [`37-20-00-000`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-20/GP-AM-AMPEL-0100-53-037-20-00-000-SDD-A.md): Vacuum System Indication Description - *(SDD)*
+    -   [`37-20-00-000`](./GP-AM/AMPEL_0100/ATA37_Vacuum/37-20/GP-AM-AMPEL-0100-37-20-00-000-SDD-A.md): Vacuum System Indication Description - *(SDD)*
 </details>
 
 <details>
@@ -1633,16 +1641,16 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-38-00"></a> **38-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-00/`*
-    -   [`38-00-00-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-00/GP-AM-AMPEL-0100-53-038-00-00-000-OV-A.md): Water and Waste System Overview - *(OV, SDD)*
-    -   [`38-00-00-001`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-00/GP-AM-AMPEL-0100-53-038-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`38-00-00-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-00/GP-AM-AMPEL-0100-38-00-00-000-OV-A.md): Water and Waste System Overview - *(OV, SDD)*
+    -   [`38-00-00-001`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-00/GP-AM-AMPEL-0100-38-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-38-10"></a> **38-10: Potable Water**
     *Directory: `./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-10/`*
-    -   [`38-10-00-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-10/GP-AM-AMPEL-0100-53-038-10-00-000-SDD-A.md): Potable Water System Description - *(SDD)*
-    -   [`38-10-10-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-10/GP-AM-AMPEL-0100-53-038-10-10-000-SPEC-A.md): Tank and Component Specification - *(SPEC)*
+    -   [`38-10-00-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-10/GP-AM-AMPEL-0100-38-10-00-000-SDD-A.md): Potable Water System Description - *(SDD)*
+    -   [`38-10-10-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-10/GP-AM-AMPEL-0100-38-10-10-000-SPEC-A.md): Tank and Component Specification - *(SPEC)*
 -   <a name="ata-38-30"></a> **38-30: Lavatory Waste**
     *Directory: `./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-30/`*
-    -   [`38-30-00-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-30/GP-AM-AMPEL-0100-53-038-30-00-000-SDD-A.md): Waste Disposal System Description - *(SDD)*
-    -   [`38-30-10-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-30/GP-AM-AMPEL-0100-53-038-30-10-000-SPEC-A.md): Tank and Component Specification - *(SPEC)*
+    -   [`38-30-00-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-30/GP-AM-AMPEL-0100-38-30-00-000-SDD-A.md): Waste Disposal System Description - *(SDD)*
+    -   [`38-30-10-000`](./GP-AM/AMPEL_0100/ATA38_WaterWaste/38-30/GP-AM-AMPEL-0100-38-30-10-000-SPEC-A.md): Tank and Component Specification - *(SPEC)*
 </details>
 
 <details>
@@ -1653,14 +1661,14 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-39-00"></a> **39-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA39_Panels/39-00/`*
-    -   [`39-00-00-000`](./GP-AM/AMPEL_0100/ATA39_Panels/39-00/GP-AM-AMPEL-0100-53-039-00-00-000-OV-A.md): Panels Overview - *(OV)*
+    -   [`39-00-00-000`](./GP-AM/AMPEL_0100/ATA39_Panels/39-00/GP-AM-AMPEL-0100-39-00-00-000-OV-A.md): Panels Overview - *(OV)*
 -   <a name="ata-39-10"></a> **39-10: Instrument Panels**
     *Directory: `./GP-AM/AMPEL_0100/ATA39_Panels/39-10/`*
-    -   [`39-10-00-000`](./GP-AM/AMPEL_0100/ATA39_Panels/39-10/GP-AM-AMPEL-0100-53-039-10-00-000-DWG-A.md): Flight Deck Instrument Panel Layout - *(DWG, FIG)* (Ref ATA 31)
+    -   [`39-10-00-000`](./GP-AM/AMPEL_0100/ATA39_Panels/39-10/GP-AM-AMPEL-0100-39-10-00-000-DWG-A.md): Flight Deck Instrument Panel Layout - *(DWG, FIG)* (Ref ATA 31)
 -   <a name="ata-39-20"></a> **39-20: Control Panels**
     *Directory: `./GP-AM/AMPEL_0100/ATA39_Panels/39-20/`*
-    -   [`39-20-00-000`](./GP-AM/AMPEL_0100/ATA39_Panels/39-20/GP-AM-AMPEL-0100-53-039-20-00-000-DWG-A.md): Overhead Panel Layout - *(DWG, FIG)*
-    -   [`39-20-10-000`](./GP-AM/AMPEL_0100/ATA39_Panels/39-20/GP-AM-AMPEL-0100-53-039-20-10-000-DWG-A.md): Center Console Panel Layout - *(DWG, FIG)*
+    -   [`39-20-00-000`](./GP-AM/AMPEL_0100/ATA39_Panels/39-20/GP-AM-AMPEL-0100-39-20-00-000-DWG-A.md): Overhead Panel Layout - *(DWG, FIG)*
+    -   [`39-20-10-000`](./GP-AM/AMPEL_0100/ATA39_Panels/39-20/GP-AM-AMPEL-0100-39-20-10-000-DWG-A.md): Center Console Panel Layout - *(DWG, FIG)*
 </details>
 
 ---
@@ -1676,15 +1684,15 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-41-00"></a> **41-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-00/`*
-    -   [`41-00-00-000`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-00/GP-AM-AMPEL-0100-53-041-00-00-000-OV-A.md): Water Ballast System Overview - *(OV, SDD)*
-    -   [`41-00-00-001`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-00/GP-AM-AMPEL-0100-53-041-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`41-00-00-000`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-00/GP-AM-AMPEL-0100-41-00-00-000-OV-A.md): Water Ballast System Overview - *(OV, SDD)*
+    -   [`41-00-00-001`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-00/GP-AM-AMPEL-0100-41-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-41-10"></a> **41-10: Tanks**
     *Directory: `./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-10/`*
-    -   [`41-10-00-000`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-10/GP-AM-AMPEL-0100-53-041-10-00-000-DD-A.md): Tank Design and Location - *(DD, DWG)*
+    -   [`41-10-00-000`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-10/GP-AM-AMPEL-0100-41-10-00-000-DD-A.md): Tank Design and Location - *(DD, DWG)*
 -   <a name="ata-41-20"></a> **41-20: Distribution**
     *Directory: `./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-20/`*
-    -   [`41-20-00-000`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-20/GP-AM-AMPEL-0100-53-041-20-00-000-SDD-A.md): Distribution System Description - *(SDD)*
-    -   [`41-20-10-000`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-20/GP-AM-AMPEL-0100-53-041-20-10-000-SPEC-A.md): Pump and Valve Specification - *(SPEC)*
+    -   [`41-20-00-000`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-20/GP-AM-AMPEL-0100-41-20-00-000-SDD-A.md): Distribution System Description - *(SDD)*
+    -   [`41-20-10-000`](./GP-AM/AMPEL_0100/ATA41_WaterBallast/41-20/GP-AM-AMPEL-0100-41-20-10-000-SPEC-A.md): Pump and Valve Specification - *(SPEC)*
 </details>
 
 <details>
@@ -1695,19 +1703,19 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-42-00"></a> **42-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA42_IMA/42-00/`*
-    -   [`42-00-00-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-00/GP-AM-AMPEL-0100-53-042-00-00-000-OV-A.md): IMA Overview - *(OV, SDD)*
-    -   [`42-00-00-001`](./GP-AM/AMPEL_0100/ATA42_IMA/42-00/GP-AM-AMPEL-0100-53-042-00-00-001-SPEC-A.md): IMA System Specification - *(SPEC)*
+    -   [`42-00-00-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-00/GP-AM-AMPEL-0100-42-00-00-000-OV-A.md): IMA Overview - *(OV, SDD)*
+    -   [`42-00-00-001`](./GP-AM/AMPEL_0100/ATA42_IMA/42-00/GP-AM-AMPEL-0100-42-00-00-001-SPEC-A.md): IMA System Specification - *(SPEC)*
 -   <a name="ata-42-10"></a> **42-10: Core Processing Modules (CPM)**
     *Directory: `./GP-AM/AMPEL_0100/ATA42_IMA/42-10/`*
-    -   [`42-10-00-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-10/GP-AM-AMPEL-0100-53-042-10-00-000-SPEC-A.md): CPM Specification - *(SPEC)*
-    -   [`42-10-10-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-10/GP-AM-AMPEL-0100-53-042-10-10-000-SDD-A.md): Resource Allocation and Partitioning - *(SDD)*
+    -   [`42-10-00-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-10/GP-AM-AMPEL-0100-42-10-00-000-SPEC-A.md): CPM Specification - *(SPEC)*
+    -   [`42-10-10-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-10/GP-AM-AMPEL-0100-42-10-10-000-SDD-A.md): Resource Allocation and Partitioning - *(SDD)*
 -   <a name="ata-42-20"></a> **42-20: Network**
     *Directory: `./GP-AM/AMPEL_0100/ATA42_IMA/42-20/`*
-    -   [`42-20-00-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-20/GP-AM-AMPEL-0100-53-042-20-00-000-SDD-A.md): IMA Network Architecture (AFDX) - *(SDD, FIG)*
-    -   [`42-20-10-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-20/GP-AM-AMPEL-0100-53-042-20-10-000-SPEC-A.md): Network Switch Specification - *(SPEC)*
+    -   [`42-20-00-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-20/GP-AM-AMPEL-0100-42-20-00-000-SDD-A.md): IMA Network Architecture (AFDX) - *(SDD, FIG)*
+    -   [`42-20-10-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-20/GP-AM-AMPEL-0100-42-20-10-000-SPEC-A.md): Network Switch Specification - *(SPEC)*
 -   <a name="ata-42-30"></a> **42-30: Time Distribution**
     *Directory: `./GP-AM/AMPEL_0100/ATA42_IMA/42-30/`*
-    -   [`42-30-00-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-30/GP-AM-AMPEL-0100-53-042-30-00-000-SPEC-A.md): Time Distribution Specification - *(SPEC)*
+    -   [`42-30-00-000`](./GP-AM/AMPEL_0100/ATA42_IMA/42-30/GP-AM-AMPEL-0100-42-30-00-000-SPEC-A.md): Time Distribution Specification - *(SPEC)*
 </details>
 
 <details>
@@ -1718,16 +1726,16 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-44-00"></a> **44-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-00/`*
-    -   [`44-00-00-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-00/GP-AM-AMPEL-0100-53-044-00-00-000-OV-A.md): Cabin Systems Overview - *(OV, SDD)*
-    -   [`44-00-00-001`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-00/GP-AM-AMPEL-0100-53-044-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`44-00-00-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-00/GP-AM-AMPEL-0100-44-00-00-000-OV-A.md): Cabin Systems Overview - *(OV, SDD)*
+    -   [`44-00-00-001`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-00/GP-AM-AMPEL-0100-44-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-44-10"></a> **44-10: In-Flight Entertainment (IFE)**
     *Directory: `./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-10/`*
-    -   [`44-10-00-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-10/GP-AM-AMPEL-0100-53-044-10-00-000-SDD-A.md): IFE System Architecture (VR/AR Integration) - *(SDD)*
-    -   [`44-10-10-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-10/GP-AM-AMPEL-0100-53-044-10-10-000-SPEC-A.md): IFE Component Specification - *(SPEC)*
+    -   [`44-10-00-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-10/GP-AM-AMPEL-0100-44-10-00-000-SDD-A.md): IFE System Architecture (VR/AR Integration) - *(SDD)*
+    -   [`44-10-10-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-10/GP-AM-AMPEL-0100-44-10-10-000-SPEC-A.md): IFE Component Specification - *(SPEC)*
 -   <a name="ata-44-20"></a> **44-20: Cabin Management System (CMS)**
     *Directory: `./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-20/`*
-    -   [`44-20-00-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-20/GP-AM-AMPEL-0100-53-044-20-00-000-SDD-A.md): CMS Description - *(SDD)*
-    -   [`44-20-10-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-20/GP-AM-AMPEL-0100-53-044-20-10-000-ICD-A.md): CMS Interface Control (ECS, Lights, etc.) - *(ICD)* (Ref ATA 21, 33)
+    -   [`44-20-00-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-20/GP-AM-AMPEL-0100-44-20-00-000-SDD-A.md): CMS Description - *(SDD)*
+    -   [`44-20-10-000`](./GP-AM/AMPEL_0100/ATA44_CabinSystems/44-20/GP-AM-AMPEL-0100-44-20-10-000-ICD-A.md): CMS Interface Control (ECS, Lights, etc.) - *(ICD)* (Ref ATA 21, 33)
 </details>
 
 <details>
@@ -1738,28 +1746,28 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-45-00"></a> **45-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA45_CMS/45-00/`*
-    -   [`45-00-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-00/GP-AM-AMPEL-0100-53-045-00-00-000-OV-A.md): CMS Overview - *(OV, SDD)*
-    -   [`45-00-00-001`](./GP-AM/AMPEL_0100/ATA45_CMS/45-00/GP-AM-AMPEL-0100-53-045-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`45-00-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-00/GP-AM-AMPEL-0100-45-00-00-000-OV-A.md): CMS Overview - *(OV, SDD)*
+    -   [`45-00-00-001`](./GP-AM/AMPEL_0100/ATA45_CMS/45-00/GP-AM-AMPEL-0100-45-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-45-10"></a> **45-10: Central Maintenance Computer (CMC)**
     *Directory: `./GP-AM/AMPEL_0100/ATA45_CMS/45-10/`*
-    -   [`45-10-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-10/GP-AM-AMPEL-0100-53-045-10-00-000-SPEC-A.md): CMC Hardware Specification - *(SPEC)*
-    -   [`45-10-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-10/GP-AM-AMPEL-0100-53-045-10-10-000-ICD-A.md): CMC System Interfaces - *(ICD)*
+    -   [`45-10-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-10/GP-AM-AMPEL-0100-45-10-00-000-SPEC-A.md): CMC Hardware Specification - *(SPEC)*
+    -   [`45-10-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-10/GP-AM-AMPEL-0100-45-10-10-000-ICD-A.md): CMC System Interfaces - *(ICD)*
 -   <a name="ata-45-20"></a> **45-20: Software**
     *Directory: `./GP-AM/AMPEL_0100/ATA45_CMS/45-20/`*
-    -   [`45-20-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-20/GP-AM-AMPEL-0100-53-045-20-00-000-SDD-A.md): CMS Software Description - *(SDD)*
-    -   [`45-20-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-20/GP-AM-AMPEL-0100-53-045-20-10-000-PROC-A.md): Software Update Procedure - *(PROC)*
+    -   [`45-20-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-20/GP-AM-AMPEL-0100-45-20-00-000-SDD-A.md): CMS Software Description - *(SDD)*
+    -   [`45-20-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-20/GP-AM-AMPEL-0100-45-20-10-000-PROC-A.md): Software Update Procedure - *(PROC)*
 -   <a name="ata-45-40"></a> **45-40: Health Reporting**
     *Directory: `./GP-AM/AMPEL_0100/ATA45_CMS/45-40/`*
-    -   [`45-40-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-40/GP-AM-AMPEL-0100-53-045-40-00-000-SPEC-A.md): Fault Reporting Format Specification - *(SPEC)*
-    -   [`45-40-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-40/GP-AM-AMPEL-0100-53-045-40-10-000-ICD-A.md): Data Offload Interface - *(ICD)*
+    -   [`45-40-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-40/GP-AM-AMPEL-0100-45-40-00-000-SPEC-A.md): Fault Reporting Format Specification - *(SPEC)*
+    -   [`45-40-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-40/GP-AM-AMPEL-0100-45-40-10-000-ICD-A.md): Data Offload Interface - *(ICD)*
 -   <a name="ata-45-50"></a> **45-50: AI Diagnostics**
     *Directory: `./GP-AM/AMPEL_0100/ATA45_CMS/45-50/`*
-    -   [`45-50-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-50/GP-AM-AMPEL-0100-53-045-50-00-000-SDD-A.md): AI Diagnostic Engine Description - *(SDD)* (Ref GP-COM-AI)
-    -   [`45-50-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-50/GP-AM-AMPEL-0100-53-045-50-10-000-ALGO-A.md): Diagnostic Algorithms - *(ALGO)*
+    -   [`45-50-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-50/GP-AM-AMPEL-0100-45-50-00-000-SDD-A.md): AI Diagnostic Engine Description - *(SDD)* (Ref GP-COM-AI)
+    -   [`45-50-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-50/GP-AM-AMPEL-0100-45-50-10-000-ALGO-A.md): Diagnostic Algorithms - *(ALGO)*
 -   <a name="ata-45-60"></a> **45-60: Digital Twin Orchestration (DTO)**
     *Directory: `./GP-AM/AMPEL_0100/ATA45_CMS/45-60/`*
-    -   [`45-60-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-60/GP-AM-AMPEL-0100-53-045-60-00-000-SDD-A.md): DTO Function Description - *(SDD)* (Ref GP-COM-DTO)
-    -   [`45-60-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-60/GP-AM-AMPEL-0100-53-045-60-10-000-ICD-A.md): DTO to CMS Interface - *(ICD)*
+    -   [`45-60-00-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-60/GP-AM-AMPEL-0100-45-60-00-000-SDD-A.md): DTO Function Description - *(SDD)* (Ref GP-COM-DTO)
+    -   [`45-60-10-000`](./GP-AM/AMPEL_0100/ATA45_CMS/45-60/GP-AM-AMPEL-0100-45-60-10-000-ICD-A.md): DTO to CMS Interface - *(ICD)*
 </details>
 
 <details>
@@ -1770,29 +1778,29 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-46-00"></a> **46-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA46_InfoSys/46-00/`*
-    -   [`46-00-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-00/GP-AM-AMPEL-0100-53-046-00-00-000-OV-A.md): Information Systems Overview - *(OV, SDD)*
-    -   [`46-00-00-001`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-00/GP-AM-AMPEL-0100-53-046-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`46-00-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-00/GP-AM-AMPEL-0100-46-00-00-000-OV-A.md): Information Systems Overview - *(OV, SDD)*
+    -   [`46-00-00-001`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-00/GP-AM-AMPEL-0100-46-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-46-10"></a> **46-10: GQP Interface**
     *Directory: `./GP-AM/AMPEL_0100/ATA46_InfoSys/46-10/`*
-    -   [`46-10-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-10/GP-AM-AMPEL-0100-53-046-10-00-000-ICD-A.md): Ground Quantum Platform Interface - *(ICD)* (Ref GP-GRO)
+    -   [`46-10-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-10/GP-AM-AMPEL-0100-46-10-00-000-ICD-A.md): Ground Quantum Platform Interface - *(ICD)* (Ref GP-GRO)
 -   <a name="ata-46-20"></a> **46-20: Electronic Flight Bag (EFB)**
     *Directory: `./GP-AM/AMPEL_0100/ATA46_InfoSys/46-20/`*
-    -   [`46-20-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-20/GP-AM-AMPEL-0100-53-046-20-00-000-SPEC-A.md): EFB Specification (Hardware/Software Class) - *(SPEC)*
-    -   [`46-20-10-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-20/GP-AM-AMPEL-0100-53-046-20-10-000-ICD-A.md): EFB Interface Control - *(ICD)*
+    -   [`46-20-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-20/GP-AM-AMPEL-0100-46-20-00-000-SPEC-A.md): EFB Specification (Hardware/Software Class) - *(SPEC)*
+    -   [`46-20-10-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-20/GP-AM-AMPEL-0100-46-20-10-000-ICD-A.md): EFB Interface Control - *(ICD)*
 -   <a name="ata-46-30"></a> **46-30: IFE Network**
     *Directory: `./GP-AM/AMPEL_0100/ATA46_InfoSys/46-30/`*
-    -   [`46-30-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-30/GP-AM-AMPEL-0100-53-046-30-00-000-SDD-A.md): IFE Network Architecture - *(SDD, FIG)* (Ref ATA 44)
+    -   [`46-30-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-30/GP-AM-AMPEL-0100-46-30-00-000-SDD-A.md): IFE Network Architecture - *(SDD, FIG)* (Ref ATA 44)
 -   <a name="ata-46-60"></a> **46-60: BITT Ledger Integration**
     *Directory: `./GP-AM/AMPEL_0100/ATA46_InfoSys/46-60/`*
-    -   [`46-60-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-60/GP-AM-AMPEL-0100-53-046-60-00-000-ICD-A.md): BITT Data Exchange Interface - *(ICD)* (Ref GP-COM-BITT)
-    -   [`46-60-10-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-60/GP-AM-AMPEL-0100-53-046-60-10-000-SDD-A.md): On-Board Ledger Node Description - *(SDD)*
+    -   [`46-60-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-60/GP-AM-AMPEL-0100-46-60-00-000-ICD-A.md): BITT Data Exchange Interface - *(ICD)* (Ref GP-COM-BITT)
+    -   [`46-60-10-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-60/GP-AM-AMPEL-0100-46-60-10-000-SDD-A.md): On-Board Ledger Node Description - *(SDD)*
 -   <a name="ata-46-63"></a> **46-63: QAO On-Board Interface**
     *Directory: `./GP-AM/AMPEL_0100/ATA46_InfoSys/46-63/`*
-    -   [`46-63-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-63/GP-AM-AMPEL-0100-53-046-63-00-000-ICD-A.md): Quantum AI Optimization Interface - *(ICD)* (Ref GP-COM-QAO)
+    -   [`46-63-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-63/GP-AM-AMPEL-0100-46-63-00-000-ICD-A.md): Quantum AI Optimization Interface - *(ICD)* (Ref GP-COM-QAO)
 -   <a name="ata-46-70"></a> **46-70: Cybersecurity Functions**
     *Directory: `./GP-AM/AMPEL_0100/ATA46_InfoSys/46-70/`*
-    -   [`46-70-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-70/GP-AM-AMPEL-0100-53-046-70-00-000-SDD-A.md): Cybersecurity Architecture Description - *(SDD)*
-    -   [`46-70-10-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-70/GP-AM-AMPEL-0100-53-046-70-10-000-SPEC-A.md): Security Control Specifications - *(SPEC)*
+    -   [`46-70-00-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-70/GP-AM-AMPEL-0100-46-70-00-000-SDD-A.md): Cybersecurity Architecture Description - *(SDD)*
+    -   [`46-70-10-000`](./GP-AM/AMPEL_0100/ATA46_InfoSys/46-70/GP-AM-AMPEL-0100-46-70-10-000-SPEC-A.md): Security Control Specifications - *(SPEC)*
 -   <a name="ata-46-dt"></a> **DT: Digital Twin Framework**
     *Directory: *(Likely separate, e.g., `GP-COM/DTO/`)*
     -   <a name="ata-46-dt-10"></a> **DT-10: Fundamental Concepts and Architecture**
@@ -1862,19 +1870,19 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-47-00"></a> **47-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA47_NGS/47-00/`*
-    -   [`47-00-00-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-00/GP-AM-AMPEL-0100-53-047-00-00-000-OV-A.md): NGS Overview - *(OV, SDD)*
-    -   [`47-00-00-001`](./GP-AM/AMPEL_0100/ATA47_NGS/47-00/GP-AM-AMPEL-0100-53-047-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
+    -   [`47-00-00-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-00/GP-AM-AMPEL-0100-47-00-00-000-OV-A.md): NGS Overview - *(OV, SDD)*
+    -   [`47-00-00-001`](./GP-AM/AMPEL_0100/ATA47_NGS/47-00/GP-AM-AMPEL-0100-47-00-00-001-SPEC-A.md): System Specifications - *(SPEC)*
 -   <a name="ata-47-10"></a> **47-10: Air Separation Module (ASM)**
     *Directory: `./GP-AM/AMPEL_0100/ATA47_NGS/47-10/`*
-    -   [`47-10-00-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-10/GP-AM-AMPEL-0100-53-047-10-00-000-SPEC-A.md): ASM Specification - *(SPEC)*
-    -   [`47-10-10-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-10/GP-AM-AMPEL-0100-53-047-10-10-000-MAN-A.md): ASM Maintenance - *(MAN)*
+    -   [`47-10-00-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-10/GP-AM-AMPEL-0100-47-10-00-000-SPEC-A.md): ASM Specification - *(SPEC)*
+    -   [`47-10-10-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-10/GP-AM-AMPEL-0100-47-10-10-000-MAN-A.md): ASM Maintenance - *(MAN)*
 -   <a name="ata-47-20"></a> **47-20: Distribution**
     *Directory: `./GP-AM/AMPEL_0100/ATA47_NGS/47-20/`*
-    -   [`47-20-00-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-20/GP-AM-AMPEL-0100-53-047-20-00-000-DWG-A.md): Nitrogen Distribution Line Drawing - *(DWG)*
+    -   [`47-20-00-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-20/GP-AM-AMPEL-0100-47-20-00-000-DWG-A.md): Nitrogen Distribution Line Drawing - *(DWG)*
 -   <a name="ata-47-30"></a> **47-30: Control and Monitoring**
     *Directory: `./GP-AM/AMPEL_0100/ATA47_NGS/47-30/`*
-    -   [`47-30-00-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-30/GP-AM-AMPEL-0100-53-047-30-00-000-SDD-A.md): Control System Description - *(SDD)*
-    -   [`47-30-10-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-30/GP-AM-AMPEL-0100-53-047-30-10-000-SPEC-A.md): Oxygen Sensor Specification - *(SPEC)*
+    -   [`47-30-00-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-30/GP-AM-AMPEL-0100-47-30-00-000-SDD-A.md): Control System Description - *(SDD)*
+    -   [`47-30-10-000`](./GP-AM/AMPEL_0100/ATA47_NGS/47-30/GP-AM-AMPEL-0100-47-30-10-000-SPEC-A.md): Oxygen Sensor Specification - *(SPEC)*
 </details>
 
 <details>
@@ -1885,7 +1893,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-48-00"></a> **48-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA48_Reserved/48-00/`*
-    -   [`48-00-00-000`](./GP-AM/AMPEL_0100/ATA48_Reserved/48-00/GP-AM-AMPEL-0100-53-048-00-00-000-NOTE-A.md): Chapter Reserved - *(NOTE)*
+    -   [`48-00-00-000`](./GP-AM/AMPEL_0100/ATA48_Reserved/48-00/GP-AM-AMPEL-0100-48-00-00-000-NOTE-A.md): Chapter Reserved - *(NOTE)*
 </details>
 
 <details>
@@ -1896,16 +1904,16 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-49-00"></a> **49-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA49_APU/49-00/`*
-    -   [`49-00-00-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-00/GP-AM-AMPEL-0100-53-049-00-00-000-OV-A.md): APU Overview - *(OV, SDD)*
-    -   [`49-00-00-001`](./GP-AM/AMPEL_0100/ATA49_APU/49-00/GP-AM-AMPEL-0100-53-049-00-00-001-SPEC-A.md): APU Specification - *(SPEC)*
+    -   [`49-00-00-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-00/GP-AM-AMPEL-0100-49-00-00-000-OV-A.md): APU Overview - *(OV, SDD)*
+    -   [`49-00-00-001`](./GP-AM/AMPEL_0100/ATA49_APU/49-00/GP-AM-AMPEL-0100-49-00-00-001-SPEC-A.md): APU Specification - *(SPEC)*
 -   <a name="ata-49-10"></a> **49-10: Power Plant**
     *Directory: `./GP-AM/AMPEL_0100/ATA49_APU/49-10/`*
-    -   [`49-10-00-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-10/GP-AM-AMPEL-0100-53-049-10-00-000-SDD-A.md): APU Engine Description - *(SDD)*
-    -   [`49-10-10-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-10/GP-AM-AMPEL-0100-53-049-10-10-000-MAN-A.md): APU Maintenance Manual - *(MAN)*
+    -   [`49-10-00-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-10/GP-AM-AMPEL-0100-49-10-00-000-SDD-A.md): APU Engine Description - *(SDD)*
+    -   [`49-10-10-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-10/GP-AM-AMPEL-0100-49-10-10-000-MAN-A.md): APU Maintenance Manual - *(MAN)*
 -   <a name="ata-49-70"></a> **49-70: Starting**
     *Directory: `./GP-AM/AMPEL_0100/ATA49_APU/49-70/`*
-    -   [`49-70-00-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-70/GP-AM-AMPEL-0100-53-049-70-00-000-SDD-A.md): APU Starting System Description - *(SDD)* (Ref ATA 24, ATA 80)
-    -   [`49-70-10-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-70/GP-AM-AMPEL-0100-53-049-70-10-000-PROC-A.md): APU Start Procedure - *(PROC)*
+    -   [`49-70-00-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-70/GP-AM-AMPEL-0100-49-70-00-000-SDD-A.md): APU Starting System Description - *(SDD)* (Ref ATA 24, ATA 80)
+    -   [`49-70-10-000`](./GP-AM/AMPEL_0100/ATA49_APU/49-70/GP-AM-AMPEL-0100-49-70-10-000-PROC-A.md): APU Start Procedure - *(PROC)*
 </details>
 
 ---
@@ -1921,15 +1929,15 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-50-00"></a> **50-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA50_Cargo/50-00/`*
-    -   [`50-00-00-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-00/GP-AM-AMPEL-0100-53-050-00-00-000-OV-A.md): Compartments Overview - *(OV)*
+    -   [`50-00-00-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-00/GP-AM-AMPEL-0100-50-00-00-000-OV-A.md): Compartments Overview - *(OV)*
 -   <a name="ata-50-10"></a> **50-10: Cargo Compartment**
     *Directory: `./GP-AM/AMPEL_0100/ATA50_Cargo/50-10/`*
-    -   [`50-10-00-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-10/GP-AM-AMPEL-0100-53-050-10-00-000-DD-A.md): Cargo Compartment Design - *(DD, DWG)*
-    -   [`50-10-10-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-10/GP-AM-AMPEL-0100-53-050-10-10-000-SDD-A.md): Cargo Loading System Description - *(SDD)*
-    -   [`50-10-20-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-10/GP-AM-AMPEL-0100-53-050-10-20-000-SPEC-A.md): Fire Protection Specification - *(SPEC)* (Ref ATA 26)
+    -   [`50-10-00-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-10/GP-AM-AMPEL-0100-50-10-00-000-DD-A.md): Cargo Compartment Design - *(DD, DWG)*
+    -   [`50-10-10-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-10/GP-AM-AMPEL-0100-50-10-10-000-SDD-A.md): Cargo Loading System Description - *(SDD)*
+    -   [`50-10-20-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-10/GP-AM-AMPEL-0100-50-10-20-000-SPEC-A.md): Fire Protection Specification - *(SPEC)* (Ref ATA 26)
 -   <a name="ata-50-20"></a> **50-20: Accessory Compartments**
     *Directory: `./GP-AM/AMPEL_0100/ATA50_Cargo/50-20/`*
-    -   [`50-20-00-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-20/GP-AM-AMPEL-0100-53-050-20-00-000-DWG-A.md): Equipment Bay Layouts - *(DWG, FIG)*
+    -   [`50-20-00-000`](./GP-AM/AMPEL_0100/ATA50_Cargo/50-20/GP-AM-AMPEL-0100-50-20-00-000-DWG-A.md): Equipment Bay Layouts - *(DWG, FIG)*
 </details>
 
 <details>
@@ -1940,19 +1948,19 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-51-00"></a> **51-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-00/`*
-    -   [`51-00-00-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-00/GP-AM-AMPEL-0100-53-051-00-00-000-OV-A.md): Structural Design Overview - *(OV)*
-    -   [`51-00-00-001`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-00/GP-AM-AMPEL-0100-53-051-00-00-001-SPEC-A.md): General Structural Specifications - *(SPEC, REQ)*
+    -   [`51-00-00-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-00/GP-AM-AMPEL-0100-51-00-00-000-OV-A.md): Structural Design Overview - *(OV)*
+    -   [`51-00-00-001`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-00/GP-AM-AMPEL-0100-51-00-00-001-SPEC-A.md): General Structural Specifications - *(SPEC, REQ)*
 -   <a name="ata-51-10"></a> **51-10: Materials and Processes**
     *Directory: `./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-10/`*
-    -   [`51-10-00-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-10/GP-AM-AMPEL-0100-53-051-10-00-000-SPEC-A.md): Material Specifications (BNNT, Composites, Alloys) - *(SPEC, LIST)*
-    -   [`51-10-10-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-10/GP-AM-AMPEL-0100-53-051-10-10-000-SPEC-A.md): Manufacturing Process Specifications - *(SPEC, PROC)* (Ref ATA 20)
+    -   [`51-10-00-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-10/GP-AM-AMPEL-0100-51-10-00-000-SPEC-A.md): Material Specifications (BNNT, Composites, Alloys) - *(SPEC, LIST)*
+    -   [`51-10-10-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-10/GP-AM-AMPEL-0100-51-10-10-000-SPEC-A.md): Manufacturing Process Specifications - *(SPEC, PROC)* (Ref ATA 20)
 -   <a name="ata-51-20"></a> **51-20: Analysis Methods**
     *Directory: `./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-20/`*
-    -   [`51-20-00-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-20/GP-AM-AMPEL-0100-53-051-20-00-000-CAL-A.md): Structural Analysis Methodology - *(CAL, RPT)*
-    -   [`51-20-10-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-20/GP-AM-AMPEL-0100-53-051-20-10-000-CAL-A.md): Fatigue and Damage Tolerance Analysis - *(CAL, RPT)*
+    -   [`51-20-00-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-20/GP-AM-AMPEL-0100-51-20-00-000-CAL-A.md): Structural Analysis Methodology - *(CAL, RPT)*
+    -   [`51-20-10-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-20/GP-AM-AMPEL-0100-51-20-10-000-CAL-A.md): Fatigue and Damage Tolerance Analysis - *(CAL, RPT)*
 -   <a name="ata-51-70"></a> **51-70: Structural Health Monitoring (SHM)**
     *Directory: `./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-70/`*
-    -   [`51-70-00-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-70/GP-AM-AMPEL-0100-53-051-70-00-000-OV-A.md): SHM System Overview - *(OV)*
+    -   [`51-70-00-000`](./GP-AM/AMPEL_0100/ATA51_StructuresGen/51-70/GP-AM-AMPEL-0100-51-70-00-000-OV-A.md): SHM System Overview - *(OV)*
 -   <a name="ata-51-shm"></a> **SHM: Structural Health Monitoring Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA51_StructuresGen/SHM/`*
     -   <a name="ata-51-shm-10"></a> **SHM-10: System Architecture and Integration**
@@ -2086,19 +2094,19 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-52-00"></a> **52-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA52_Doors/52-00/`*
-    -   [`52-00-00-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-00/GP-AM-AMPEL-0100-53-052-00-00-000-OV-A.md): Door Systems Overview - *(OV)*
-    -   [`52-00-00-001`](./GP-AM/AMPEL_0100/ATA52_Doors/52-00/GP-AM-AMPEL-0100-53-052-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
+    -   [`52-00-00-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-00/GP-AM-AMPEL-0100-52-00-00-000-OV-A.md): Door Systems Overview - *(OV)*
+    -   [`52-00-00-001`](./GP-AM/AMPEL_0100/ATA52_Doors/52-00/GP-AM-AMPEL-0100-52-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
 -   <a name="ata-52-10"></a> **52-10: Passenger Doors**
     *Directory: `./GP-AM/AMPEL_0100/ATA52_Doors/52-10/`*
-    -   [`52-10-00-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-10/GP-AM-AMPEL-0100-53-052-10-00-000-DD-A.md): Passenger Door Design - *(DD, DWG)*
-    -   [`52-10-10-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-10/GP-AM-AMPEL-0100-53-052-10-10-000-SPEC-A.md): Mechanism Specification - *(SPEC)*
+    -   [`52-10-00-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-10/GP-AM-AMPEL-0100-52-10-00-000-DD-A.md): Passenger Door Design - *(DD, DWG)*
+    -   [`52-10-10-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-10/GP-AM-AMPEL-0100-52-10-10-000-SPEC-A.md): Mechanism Specification - *(SPEC)*
 -   <a name="ata-52-30"></a> **52-30: Cargo Doors**
     *Directory: `./GP-AM/AMPEL_0100/ATA52_Doors/52-30/`*
-    -   [`52-30-00-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-30/GP-AM-AMPEL-0100-53-052-30-00-000-DD-A.md): Cargo Door Design - *(DD, DWG)*
-    -   [`52-30-10-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-30/GP-AM-AMPEL-0100-53-052-30-10-000-SPEC-A.md): Latching System Specification - *(SPEC)*
+    -   [`52-30-00-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-30/GP-AM-AMPEL-0100-52-30-00-000-DD-A.md): Cargo Door Design - *(DD, DWG)*
+    -   [`52-30-10-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-30/GP-AM-AMPEL-0100-52-30-10-000-SPEC-A.md): Latching System Specification - *(SPEC)*
 -   <a name="ata-52-70"></a> **52-70: Smart Door Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA52_Doors/52-70/`*
-    -   [`52-70-00-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-70/GP-AM-AMPEL-0100-53-052-70-00-000-SDD-A.md): Smart Door Features (SHM, Auto-Lock) - *(SDD)* (Ref ATA 51-SHM)
+    -   [`52-70-00-000`](./GP-AM/AMPEL_0100/ATA52_Doors/52-70/GP-AM-AMPEL-0100-52-70-00-000-SDD-A.md): Smart Door Features (SHM, Auto-Lock) - *(SDD)* (Ref ATA 51-SHM)
 </details>
 
 <details>
@@ -2109,34 +2117,34 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-53-00"></a> **53-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA53_Fuselage/53-00/`*
-    -   [`53-00-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-00/GP-AM-AMPEL-0100-53-053-00-00-000-OV-A.md): Fuselage Overview - *(OV)*
-    -   [`53-00-00-001`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-00/GP-AM-AMPEL-0100-53-053-00-00-001-SPEC-A.md): General Structural Specifications - *(SPEC)*
-    -   [`53-00-00-002`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-00/GP-AM-AMPEL-0100-53-053-00-00-002-DWG-A.md): Fuselage General Arrangement - *(DWG)*
+    -   [`53-00-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-00/GP-AM-AMPEL-0100-53-00-00-000-OV-A.md): Fuselage Overview - *(OV)*
+    -   [`53-00-00-001`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-00/GP-AM-AMPEL-0100-53-00-00-001-SPEC-A.md): General Structural Specifications - *(SPEC)*
+    -   [`53-00-00-002`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-00/GP-AM-AMPEL-0100-53-00-00-002-DWG-A.md): Fuselage General Arrangement - *(DWG)*
 -   <a name="ata-53-10"></a> **53-10: Nose Station**
     *Directory: `./GP-AM/AMPEL_0100/ATA53_Fuselage/53-10/`*
-    -   [`53-10-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-10/GP-AM-AMPEL-0100-53-053-10-00-000-DD-A.md): Nose Section Design - *(DD, DWG)*
-    -   [`53-10-10-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-10/GP-AM-AMPEL-0100-53-053-10-10-000-CAL-A.md): Nose Section Structural Analysis - *(CAL, RPT)*
+    -   [`53-10-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-10/GP-AM-AMPEL-0100-53-10-00-000-DD-A.md): Nose Section Design - *(DD, DWG)*
+    -   [`53-10-10-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-10/GP-AM-AMPEL-0100-53-10-10-000-CAL-A.md): Nose Section Structural Analysis - *(CAL, RPT)*
 -   <a name="ata-53-20"></a> **53-20: Forward Station**
     *Directory: `./GP-AM/AMPEL_0100/ATA53_Fuselage/53-20/`*
-    -   [`53-20-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-20/GP-AM-AMPEL-0100-53-053-20-00-000-DD-A.md): Forward Section Design - *(DD, DWG)*
+    -   [`53-20-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-20/GP-AM-AMPEL-0100-53-20-00-000-DD-A.md): Forward Section Design - *(DD, DWG)*
 -   <a name="ata-53-30"></a> **53-30: Center Station**
     *Directory: `./GP-AM/AMPEL_0100/ATA53_Fuselage/53-30/`*
-    -   [`53-30-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-30/GP-AM-AMPEL-0100-53-053-30-00-000-DD-A.md): Center Section Design (Wing Attach) - *(DD, DWG)*
+    -   [`53-30-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-30/GP-AM-AMPEL-0100-53-30-00-000-DD-A.md): Center Section Design (Wing Attach) - *(DD, DWG)*
 -   <a name="ata-53-40"></a> **53-40: Belly Station**
     *Directory: `./GP-AM/AMPEL_0100/ATA53_Fuselage/53-40/`*
-    -   [`53-40-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-40/GP-AM-AMPEL-0100-53-053-40-00-000-DD-A.md): Belly Section Design (Landing Gear Attach) - *(DD, DWG)*
+    -   [`53-40-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-40/GP-AM-AMPEL-0100-53-40-00-000-DD-A.md): Belly Section Design (Landing Gear Attach) - *(DD, DWG)*
 -   <a name="ata-53-50"></a> **53-50: Tail Cone Station**
     *Directory: `./GP-AM/AMPEL_0100/ATA53_Fuselage/53-50/`*
-    -   [`53-50-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-50/GP-AM-AMPEL-0100-53-053-50-00-000-DD-A.md): Tail Cone Design - *(DD, DWG)*
+    -   [`53-50-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-50/GP-AM-AMPEL-0100-53-50-00-000-DD-A.md): Tail Cone Design - *(DD, DWG)*
 -   <a name="ata-53-60"></a> **53-60: APU Compartment**
     *Directory: `./GP-AM/AMPEL_0100/ATA53_Fuselage/53-60/`*
-    -   [`53-60-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-60/GP-AM-AMPEL-0100-53-053-60-00-000-DD-A.md): APU Compartment Design - *(DD, DWG)* (Ref ATA 49)
+    -   [`53-60-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-60/GP-AM-AMPEL-0100-53-60-00-000-DD-A.md): APU Compartment Design - *(DD, DWG)* (Ref ATA 49)
 -   <a name="ata-53-70"></a> **53-70: Additional Stations (Reserved)**
     *Directory: `./GP-AM/AMPEL_0100/ATA53_Fuselage/53-70/`*
-    -   [`53-70-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-70/GP-AM-AMPEL-0100-53-053-70-00-000-NOTE-A.md): Station Reserved - *(NOTE)*
+    -   [`53-70-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-70/GP-AM-AMPEL-0100-53-70-00-000-NOTE-A.md): Station Reserved - *(NOTE)*
 -   <a name="ata-53-80"></a> **53-80: Auxiliary Stations (Reserved)**
     *Directory: `./GP-AM/AMPEL_0100/ATA53_Fuselage/53-80/`*
-    -   [`53-80-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-80/GP-AM-AMPEL-0100-53-053-80-00-000-NOTE-A.md): Station Reserved - *(NOTE)*
+    -   [`53-80-00-000`](./GP-AM/AMPEL_0100/ATA53_Fuselage/53-80/GP-AM-AMPEL-0100-53-80-00-000-NOTE-A.md): Station Reserved - *(NOTE)*
 </details>
 
 <details>
@@ -2147,16 +2155,16 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-54-00"></a> **54-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA54_Nacelles/54-00/`*
-    -   [`54-00-00-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-00/GP-AM-AMPEL-0100-53-054-00-00-000-OV-A.md): Nacelle/Pylon Overview - *(OV)*
-    -   [`54-00-00-001`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-00/GP-AM-AMPEL-0100-53-054-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
+    -   [`54-00-00-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-00/GP-AM-AMPEL-0100-54-00-00-000-OV-A.md): Nacelle/Pylon Overview - *(OV)*
+    -   [`54-00-00-001`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-00/GP-AM-AMPEL-0100-54-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
 -   <a name="ata-54-10"></a> **54-10: Nacelle Structure**
     *Directory: `./GP-AM/AMPEL_0100/ATA54_Nacelles/54-10/`*
-    -   [`54-10-00-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-10/GP-AM-AMPEL-0100-53-054-10-00-000-DD-A.md): Nacelle Design (Incl. Acoustic Liners) - *(DD, DWG)* (Ref ATA 18)
-    -   [`54-10-10-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-10/GP-AM-AMPEL-0100-53-054-10-10-000-CAL-A.md): Nacelle Structural Analysis - *(CAL, RPT)*
+    -   [`54-10-00-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-10/GP-AM-AMPEL-0100-54-10-00-000-DD-A.md): Nacelle Design (Incl. Acoustic Liners) - *(DD, DWG)* (Ref ATA 18)
+    -   [`54-10-10-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-10/GP-AM-AMPEL-0100-54-10-10-000-CAL-A.md): Nacelle Structural Analysis - *(CAL, RPT)*
 -   <a name="ata-54-50"></a> **54-50: Pylon Structure**
     *Directory: `./GP-AM/AMPEL_0100/ATA54_Nacelles/54-50/`*
-    -   [`54-50-00-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-50/GP-AM-AMPEL-0100-53-054-50-00-000-DD-A.md): Pylon Design - *(DD, DWG)*
-    -   [`54-50-10-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-50/GP-AM-AMPEL-0100-53-054-50-10-000-CAL-A.md): Pylon Structural Analysis - *(CAL, RPT)*
+    -   [`54-50-00-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-50/GP-AM-AMPEL-0100-54-50-00-000-DD-A.md): Pylon Design - *(DD, DWG)*
+    -   [`54-50-10-000`](./GP-AM/AMPEL_0100/ATA54_Nacelles/54-50/GP-AM-AMPEL-0100-54-50-10-000-CAL-A.md): Pylon Structural Analysis - *(CAL, RPT)*
 </details>
 
 <details>
@@ -2167,16 +2175,16 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-55-00"></a> **55-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-00/`*
-    -   [`55-00-00-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-00/GP-AM-AMPEL-0100-53-055-00-00-000-OV-A.md): Stabilizer Overview - *(OV)*
-    -   [`55-00-00-001`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-00/GP-AM-AMPEL-0100-53-055-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
+    -   [`55-00-00-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-00/GP-AM-AMPEL-0100-55-00-00-000-OV-A.md): Stabilizer Overview - *(OV)*
+    -   [`55-00-00-001`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-00/GP-AM-AMPEL-0100-55-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
 -   <a name="ata-55-10"></a> **55-10: Horizontal Stabilizer**
     *Directory: `./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-10/`*
-    -   [`55-10-00-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-10/GP-AM-AMPEL-0100-53-055-10-00-000-DD-A.md): Horizontal Stabilizer Design - *(DD, DWG)*
-    -   [`55-10-10-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-10/GP-AM-AMPEL-0100-53-055-10-10-000-CAL-A.md): Horizontal Stabilizer Structural Analysis - *(CAL, RPT)*
+    -   [`55-10-00-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-10/GP-AM-AMPEL-0100-55-10-00-000-DD-A.md): Horizontal Stabilizer Design - *(DD, DWG)*
+    -   [`55-10-10-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-10/GP-AM-AMPEL-0100-55-10-10-000-CAL-A.md): Horizontal Stabilizer Structural Analysis - *(CAL, RPT)*
 -   <a name="ata-55-30"></a> **55-30: Vertical Stabilizer**
     *Directory: `./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-30/`*
-    -   [`55-30-00-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-30/GP-AM-AMPEL-0100-53-055-30-00-000-DD-A.md): Vertical Stabilizer Design - *(DD, DWG)*
-    -   [`55-30-10-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-30/GP-AM-AMPEL-0100-53-055-30-10-000-CAL-A.md): Vertical Stabilizer Structural Analysis - *(CAL, RPT)*
+    -   [`55-30-00-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-30/GP-AM-AMPEL-0100-55-30-00-000-DD-A.md): Vertical Stabilizer Design - *(DD, DWG)*
+    -   [`55-30-10-000`](./GP-AM/AMPEL_0100/ATA55_Stabilizers/55-30/GP-AM-AMPEL-0100-55-30-10-000-CAL-A.md): Vertical Stabilizer Structural Analysis - *(CAL, RPT)*
 </details>
 
 <details>
@@ -2187,17 +2195,17 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-56-00"></a> **56-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA56_Windows/56-00/`*
-    -   [`56-00-00-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-00/GP-AM-AMPEL-0100-53-056-00-00-000-OV-A.md): Windows Overview - *(OV)*
-    -   [`56-00-00-001`](./GP-AM/AMPEL_0100/ATA56_Windows/56-00/GP-AM-AMPEL-0100-53-056-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
+    -   [`56-00-00-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-00/GP-AM-AMPEL-0100-56-00-00-000-OV-A.md): Windows Overview - *(OV)*
+    -   [`56-00-00-001`](./GP-AM/AMPEL_0100/ATA56_Windows/56-00/GP-AM-AMPEL-0100-56-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
 -   <a name="ata-56-10"></a> **56-10: Flight Compartment Windows**
     *Directory: `./GP-AM/AMPEL_0100/ATA56_Windows/56-10/`*
-    -   [`56-10-00-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-10/GP-AM-AMPEL-0100-53-056-10-00-000-DD-A.md): Windshield Design - *(DD, DWG)*
-    -   [`56-10-10-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-10/GP-AM-AMPEL-0100-53-056-10-10-000-SPEC-A.md): Windshield Specification (Incl. Heating) - *(SPEC)* (Ref ATA 30)
+    -   [`56-10-00-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-10/GP-AM-AMPEL-0100-56-10-00-000-DD-A.md): Windshield Design - *(DD, DWG)*
+    -   [`56-10-10-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-10/GP-AM-AMPEL-0100-56-10-10-000-SPEC-A.md): Windshield Specification (Incl. Heating) - *(SPEC)* (Ref ATA 30)
 -   <a name="ata-56-20"></a> **56-20: Passenger Compartment Windows**
     *Directory: `./GP-AM/AMPEL_0100/ATA56_Windows/56-20/`*
-    -   [`56-20-00-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-20/GP-AM-AMPEL-0100-53-056-20-00-000-DD-A.md): Cabin Window Design - *(DD, DWG)*
-    -   [`56-20-10-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-20/GP-AM-AMPEL-0100-53-056-20-10-000-SPEC-A.md): Cabin Window Specification - *(SPEC)*
-    -   [`56-20-20-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-20/GP-AM-AMPEL-0100-53-056-20-20-000-SDD-A.md): VR Window System Description - *(SDD)* (Ref ATA 44)
+    -   [`56-20-00-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-20/GP-AM-AMPEL-0100-56-20-00-000-DD-A.md): Cabin Window Design - *(DD, DWG)*
+    -   [`56-20-10-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-20/GP-AM-AMPEL-0100-56-20-10-000-SPEC-A.md): Cabin Window Specification - *(SPEC)*
+    -   [`56-20-20-000`](./GP-AM/AMPEL_0100/ATA56_Windows/56-20/GP-AM-AMPEL-0100-56-20-20-000-SDD-A.md): VR Window System Description - *(SDD)* (Ref ATA 44)
 </details>
 
 <details>
@@ -2206,26 +2214,28 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 *Directory: `./GP-AM/AMPEL_0100/ATA57_Wings/`*
 *Focus: Design, analysis, and maintenance of the wing structure and related systems.*
 
+---
+
 -   <a name="ata-57-00"></a> **57-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA57_Wings/57-00/`*
-    -   [`57-00-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-00/GP-AM-AMPEL-0100-53-057-00-00-000-OV-A.md): Wing Overview - *(OV)*
-    -   [`57-00-00-001`](./GP-AM/AMPEL_0100/ATA57_Wings/57-00/GP-AM-AMPEL-0100-53-057-00-00-001-SPEC-A.md): General Structural Specifications - *(SPEC)*
+    -   [`57-00-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-00/GP-AM-AMPEL-0100-57-00-00-000-OV-A.md): Wing Overview - *(OV)*
+    -   [`57-00-00-001`](./GP-AM/AMPEL_0100/ATA57_Wings/57-00/GP-AM-AMPEL-0100-57-00-00-001-SPEC-A.md): General Structural Specifications - *(SPEC)*
 -   <a name="ata-57-10"></a> **57-10: Wing Structure**
     *Directory: `./GP-AM/AMPEL_0100/ATA57_Wings/57-10/`*
-    -   [`57-10-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-10/GP-AM-AMPEL-0100-53-057-10-00-000-DD-A.md): Wing Design (Spars, Ribs, Skin) - *(DD, DWG)*
-    -   [`57-10-10-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-10/GP-AM-AMPEL-0100-53-057-10-10-000-CAL-A.md): Wing Structural Analysis - *(CAL, RPT)*
+    -   [`57-10-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-10/GP-AM-AMPEL-0100-57-10-00-000-DD-A.md): Wing Design (Spars, Ribs, Skin) - *(DD, DWG)*
+    -   [`57-10-10-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-10/GP-AM-AMPEL-0100-57-10-10-000-CAL-A.md): Wing Structural Analysis - *(CAL, RPT)*
 -   <a name="ata-57-40"></a> **57-40: Slat and Flap Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA57_Wings/57-40/`*
-    -   [`57-40-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-40/GP-AM-AMPEL-0100-53-057-40-00-000-SDD-A.md): High-Lift System Description - *(SDD)* (Ref ATA 27)
-    -   [`57-40-10-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-40/GP-AM-AMPEL-0100-53-057-40-10-000-DWG-A.md): Flap/Slat Mechanism Drawings - *(DWG)*
+    -   [`57-40-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-40/GP-AM-AMPEL-0100-57-40-00-000-SDD-A.md): High-Lift System Description - *(SDD)* (Ref ATA 27)
+    -   [`57-40-10-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-40/GP-AM-AMPEL-0100-57-40-10-000-DWG-A.md): Flap/Slat Mechanism Drawings - *(DWG)*
 -   <a name="ata-57-50"></a> **57-50: Wing Folding**
     *Directory: `./GP-AM/AMPEL_0100/ATA57_Wings/57-50/`*
-    -   [`57-50-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-50/GP-AM-AMPEL-0100-53-057-50-00-000-SDD-A.md): Wing Folding Mechanism Description - *(SDD)*
-    -   [`57-50-10-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-50/GP-AM-AMPEL-0100-53-057-50-10-000-SPEC-A.md): Wing Folding Mechanism Specification - *(SPEC)*
+    -   [`57-50-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-50/GP-AM-AMPEL-0100-57-50-00-000-SDD-A.md): Wing Folding Mechanism Description - *(SDD)*
+    -   [`57-50-10-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-50/GP-AM-AMPEL-0100-57-50-10-000-SPEC-A.md): Wing Folding Mechanism Specification - *(SPEC)*
 -   <a name="ata-57-70"></a> **57-70: GPAM (GAIA Polymorphic Aero-Morphing)**
     *Directory: `./GP-AM/AMPEL_0100/ATA57_Wings/57-70/`*
-    -   [`57-70-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-70/GP-AM-AMPEL-0100-53-057-70-00-000-OV-A.md): GPAM System Overview (Wing Application) - *(OV, SDD)* (Ref ATA 27)
-    -   [`57-70-10-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-70/GP-AM-AMPEL-0100-53-057-70-10-000-DD-A.md): Morphing Wing Structure Design - *(DD, DWG)*
+    -   [`57-70-00-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-70/GP-AM-AMPEL-0100-57-70-00-000-OV-A.md): GPAM System Overview (Wing Application) - *(OV, SDD)* (Ref ATA 27)
+    -   [`57-70-10-000`](./GP-AM/AMPEL_0100/ATA57_Wings/57-70/GP-AM-AMPEL-0100-57-70-10-000-DD-A.md): Morphing Wing Structure Design - *(DD, DWG)*
 -   <a name="ata-57-ms"></a> **MS: Morphing Structures**
     *Directory: `./GP-AM/AMPEL_0100/ATA57_Wings/MS/`*
     -   <a name="ata-57-ms-10"></a> **MS-10: Variable Geometry Systems**
@@ -2255,13 +2265,13 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-60-00"></a> **60-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA60_EngStdPractices/60-00/`*
-    -   [`60-00-00-000`](./GP-AM/AMPEL_0100/ATA60_EngStdPractices/60-00/GP-AM-AMPEL-0100-53-060-00-00-000-OV-A.md): Engine Standard Practices Overview - *(OV)*
+    -   [`60-00-00-000`](./GP-AM/AMPEL_0100/ATA60_EngStdPractices/60-00/GP-AM-AMPEL-0100-60-00-00-000-OV-A.md): Engine Standard Practices Overview - *(OV)*
 -   <a name="ata-60-10"></a> **60-10: Maintenance Procedures**
     *Directory: `./GP-AM/AMPEL_0100/ATA60_EngStdPractices/60-10/`*
-    -   [`60-10-00-000`](./GP-AM/AMPEL_0100/ATA60_EngStdPractices/60-10/GP-AM-AMPEL-0100-53-060-10-00-000-PROC-A.md): General Engine Maintenance Procedures - *(PROC)*
+    -   [`60-10-00-000`](./GP-AM/AMPEL_0100/ATA60_EngStdPractices/60-10/GP-AM-AMPEL-0100-60-10-00-000-PROC-A.md): General Engine Maintenance Procedures - *(PROC)*
 -   <a name="ata-60-20"></a> **60-20: Testing Procedures**
     *Directory: `./GP-AM/AMPEL_0100/ATA60_EngStdPractices/60-20/`*
-    -   [`60-20-00-000`](./GP-AM/AMPEL_0100/ATA60_EngStdPractices/60-20/GP-AM-AMPEL-0100-53-060-20-00-000-TEST-A.md): Engine Ground Test Procedures - *(TEST, PROC)*
+    -   [`60-20-00-000`](./GP-AM/AMPEL_0100/ATA60_EngStdPractices/60-20/GP-AM-AMPEL-0100-60-20-00-000-TEST-A.md): Engine Ground Test Procedures - *(TEST, PROC)*
 </details>
 
 <details>
@@ -2272,13 +2282,13 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-61-00"></a> **61-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA61_Propulsors/61-00/`*
-    -   [`61-00-00-000`](./GP-AM/AMPEL_0100/ATA61_Propulsors/61-00/GP-AM-AMPEL-0100-53-061-00-00-000-OV-A.md): Propulsor Overview - *(OV, SDD)*
+    -   [`61-00-00-000`](./GP-AM/AMPEL_0100/ATA61_Propulsors/61-00/GP-AM-AMPEL-0100-61-00-00-000-OV-A.md): Propulsor Overview - *(OV, SDD)*
 -   <a name="ata-61-10"></a> **61-10: Blades**
     *Directory: `./GP-AM/AMPEL_0100/ATA61_Propulsors/61-10/`*
-    -   [`61-10-00-000`](./GP-AM/AMPEL_0100/ATA61_Propulsors/61-10/GP-AM-AMPEL-0100-53-061-10-00-000-DD-A.md): Blade Design - *(DD, DWG)*
+    -   [`61-10-00-000`](./GP-AM/AMPEL_0100/ATA61_Propulsors/61-10/GP-AM-AMPEL-0100-61-10-00-000-DD-A.md): Blade Design - *(DD, DWG)*
 -   <a name="ata-61-20"></a> **61-20: Control Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA61_Propulsors/61-20/`*
-    -   [`61-20-00-000`](./GP-AM/AMPEL_0100/ATA61_Propulsors/61-20/GP-AM-AMPEL-0100-53-061-20-00-000-SDD-A.md): Propulsor Control System - *(SDD)*
+    -   [`61-20-00-000`](./GP-AM/AMPEL_0100/ATA61_Propulsors/61-20/GP-AM-AMPEL-0100-61-20-00-000-SDD-A.md): Propulsor Control System - *(SDD)*
 </details>
 
 <details>
@@ -2288,7 +2298,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 *Directory: `./GP-AM/AMPEL_0100/ATA62_MainRotor/`*
 
 -   <a name="ata-62-00"></a> **62-00: General**
-    -   [`62-00-00-000`](./GP-AM/AMPEL_0100/ATA62_MainRotor/62-00/GP-AM-AMPEL-0100-53-062-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
+    -   [`62-00-00-000`](./GP-AM/AMPEL_0100/ATA62_MainRotor/62-00/GP-AM-AMPEL-0100-62-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
 -   <a name="ata-62-10"></a> **62-10: Blades**
 -   <a name="ata-62-30"></a> **62-30: Rotor Head**
 </details>
@@ -2300,7 +2310,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 *Directory: `./GP-AM/AMPEL_0100/ATA63_MainRotorDrive/`*
 
 -   <a name="ata-63-00"></a> **63-00: General**
-    -   [`63-00-00-000`](./GP-AM/AMPEL_0100/ATA63_MainRotorDrive/63-00/GP-AM-AMPEL-0100-53-063-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
+    -   [`63-00-00-000`](./GP-AM/AMPEL_0100/ATA63_MainRotorDrive/63-00/GP-AM-AMPEL-0100-63-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
 -   <a name="ata-63-10"></a> **63-10: Drive Shaft**
 -   <a name="ata-63-20"></a> **63-20: Gearbox**
 </details>
@@ -2312,7 +2322,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 *Directory: `./GP-AM/AMPEL_0100/ATA64_TailRotor/`*
 
 -   <a name="ata-64-00"></a> **64-00: General**
-    -   [`64-00-00-000`](./GP-AM/AMPEL_0100/ATA64_TailRotor/64-00/GP-AM-AMPEL-0100-53-064-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
+    -   [`64-00-00-000`](./GP-AM/AMPEL_0100/ATA64_TailRotor/64-00/GP-AM-AMPEL-0100-64-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
 -   <a name="ata-64-10"></a> **64-10: Blades**
 </details>
 
@@ -2323,7 +2333,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 *Directory: `./GP-AM/AMPEL_0100/ATA65_TailRotorDrive/`*
 
 -   <a name="ata-65-00"></a> **65-00: General**
-    -   [`65-00-00-000`](./GP-AM/AMPEL_0100/ATA65_TailRotorDrive/65-00/GP-AM-AMPEL-0100-53-065-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
+    -   [`65-00-00-000`](./GP-AM/AMPEL_0100/ATA65_TailRotorDrive/65-00/GP-AM-AMPEL-0100-65-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
 -   <a name="ata-65-10"></a> **65-10: Drive Shaft**
 </details>
 
@@ -2334,7 +2344,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 *Directory: `./GP-AM/AMPEL_0100/ATA66_Folding/`*
 
 -   <a name="ata-66-00"></a> **66-00: General**
-    -   [`66-00-00-000`](./GP-AM/AMPEL_0100/ATA66_Folding/66-00/GP-AM-AMPEL-0100-53-066-00-00-000-NOTE-A.md): Refer to ATA 57-50 for Wing Folding - *(NOTE, REF)*
+    -   [`66-00-00-000`](./GP-AM/AMPEL_0100/ATA66_Folding/66-00/GP-AM-AMPEL-0100-66-00-00-000-NOTE-A.md): Refer to ATA 57-50 for Wing Folding - *(NOTE, REF)*
 -   <a name="ata-66-10"></a> **66-10: Blade Folding**
 -   <a name="ata-66-20"></a> **66-20: Pylon Folding**
 </details>
@@ -2346,7 +2356,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 *Directory: `./GP-AM/AMPEL_0100/ATA67_RotorCtrl/`*
 
 -   <a name="ata-67-00"></a> **67-00: General**
-    -   [`67-00-00-000`](./GP-AM/AMPEL_0100/ATA67_RotorCtrl/67-00/GP-AM-AMPEL-0100-53-067-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
+    -   [`67-00-00-000`](./GP-AM/AMPEL_0100/ATA67_RotorCtrl/67-00/GP-AM-AMPEL-0100-67-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
 -   <a name="ata-67-10"></a> **67-10: Main Rotor Control**
 -   <a name="ata-67-20"></a> **67-20: Stability Augmentation**
 </details>
@@ -2364,23 +2374,23 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-71-00"></a> **71-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-00/`*
-    -   [`71-00-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-00/GP-AM-AMPEL-0100-53-071-00-00-000-OV-A.md): Power Plant Overview - *(OV, SDD)*
-    -   [`71-00-00-001`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-00/GP-AM-AMPEL-0100-53-071-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
+    -   [`71-00-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-00/GP-AM-AMPEL-0100-71-00-00-000-OV-A.md): Power Plant Overview - *(OV, SDD)*
+    -   [`71-00-00-001`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-00/GP-AM-AMPEL-0100-71-00-00-001-SPEC-A.md): General Specifications - *(SPEC)*
 -   <a name="ata-71-10"></a> **71-10: Cowling**
     *Directory: `./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-10/`*
-    -   [`71-10-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-10/GP-AM-AMPEL-0100-53-071-10-00-000-DD-A.md): Cowling Design - *(DD, DWG)* (Ref ATA 54)
+    -   [`71-10-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-10/GP-AM-AMPEL-0100-71-10-00-000-DD-A.md): Cowling Design - *(DD, DWG)* (Ref ATA 54)
 -   <a name="ata-71-20"></a> **71-20: Mounts**
     *Directory: `./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-20/`*
-    -   [`71-20-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-20/GP-AM-AMPEL-0100-53-071-20-00-000-DD-A.md): Engine Mount Design - *(DD, DWG)*
+    -   [`71-20-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-20/GP-AM-AMPEL-0100-71-20-00-000-DD-A.md): Engine Mount Design - *(DD, DWG)*
 -   <a name="ata-71-50"></a> **71-50: Electric Propulsion Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-50/`*
-    -   [`71-50-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-50/GP-AM-AMPEL-0100-53-071-50-00-000-SDD-A.md): Electric Motor Description (If Primary) - *(SDD)*
+    -   [`71-50-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-50/GP-AM-AMPEL-0100-71-50-00-000-SDD-A.md): Electric Motor Description (If Primary) - *(SDD)*
 -   <a name="ata-71-60"></a> **71-60: Hybrid-Electric Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-60/`*
-    -   [`71-60-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-60/GP-AM-AMPEL-0100-53-071-60-00-000-SDD-A.md): Hybrid Propulsion Architecture - *(SDD, FIG)*
+    -   [`71-60-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-60/GP-AM-AMPEL-0100-71-60-00-000-SDD-A.md): Hybrid Propulsion Architecture - *(SDD, FIG)*
 -   <a name="ata-71-70"></a> **71-70: Hydrogen Propulsion Systems**
     *Directory: `./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-70/`*
-    -   [`71-70-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-70/GP-AM-AMPEL-0100-53-071-70-00-000-SDD-A.md): H2 Combustion System Description - *(SDD)* (Ref ATA 72)
+    -   [`71-70-00-000`](./GP-AM/AMPEL_0100/ATA71_PowerPlantGen/71-70/GP-AM-AMPEL-0100-71-70-00-000-SDD-A.md): H2 Combustion System Description - *(SDD)* (Ref ATA 72)
 </details>
 
 <details>
@@ -2391,21 +2401,21 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-72-00"></a> **72-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA72_Engine/72-00/`*
-    -   [`72-00-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-00/GP-AM-AMPEL-0100-53-072-00-00-000-OV-A.md): Engine Overview - *(OV)*
-    -   [`72-00-00-001`](./GP-AM/AMPEL_0100/ATA72_Engine/72-00/GP-AM-AMPEL-0100-53-072-00-00-001-SPEC-A.md): Engine Specification - *(SPEC)*
+    -   [`72-00-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-00/GP-AM-AMPEL-0100-72-00-00-000-OV-A.md): Engine Overview - *(OV)*
+    -   [`72-00-00-001`](./GP-AM/AMPEL_0100/ATA72_Engine/72-00/GP-AM-AMPEL-0100-72-00-00-001-SPEC-A.md): Engine Specification - *(SPEC)*
 -   <a name="ata-72-30"></a> **72-30: Compressor**
     *Directory: `./GP-AM/AMPEL_0100/ATA72_Engine/72-30/`*
-    -   [`72-30-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-30/GP-AM-AMPEL-0100-53-072-30-00-000-DD-A.md): Compressor Design - *(DD)*
+    -   [`72-30-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-30/GP-AM-AMPEL-0100-72-30-00-000-DD-A.md): Compressor Design - *(DD)*
 -   <a name="ata-72-40"></a> **72-40: Combustion Section**
     *Directory: `./GP-AM/AMPEL_0100/ATA72_Engine/72-40/`*
-    -   [`72-40-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-40/GP-AM-AMPEL-0100-53-072-40-00-000-DD-A.md): Combustion Section Design (H2/SAF) - *(DD)*
+    -   [`72-40-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-40/GP-AM-AMPEL-0100-72-40-00-000-DD-A.md): Combustion Section Design (H2/SAF) - *(DD)*
 -   <a name="ata-72-50"></a> **72-50: Turbine Section**
     *Directory: `./GP-AM/AMPEL_0100/ATA72_Engine/72-50/`*
-    -   [`72-50-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-50/GP-AM-AMPEL-0100-53-072-50-00-000-DD-A.md): Turbine Section Design - *(DD)*
+    -   [`72-50-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-50/GP-AM-AMPEL-0100-72-50-00-000-DD-A.md): Turbine Section Design - *(DD)*
 -   <a name="ata-72-q01"></a> **72-Q01: Quantum Propulsion Extension** *(Custom sub-chapter)*
     *Directory: `./GP-AM/AMPEL_0100/ATA72_Engine/72-Q01/`*
-    -   [`72-Q01-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-Q01/GP-AM-AMPEL-0100-53-072-Q01-00-000-SDD-A.md): Quantum Drive System Description - *(SDD)* (Ref GP-COM-QAO)
-    -   [`72-Q01-00-001`](./GP-AM/AMPEL_0100/ATA72_Engine/72-Q01/GP-AM-AMPEL-0100-53-072-Q01-00-001-SPEC-A.md): Performance Specification - *(SPEC)*
+    -   [`72-Q01-00-000`](./GP-AM/AMPEL_0100/ATA72_Engine/72-Q01/GP-AM-AMPEL-0100-72-Q01-00-000-SDD-A.md): Quantum Drive System Description - *(SDD)* (Ref GP-COM-QAO)
+    -   [`72-Q01-00-001`](./GP-AM/AMPEL_0100/ATA72_Engine/72-Q01/GP-AM-AMPEL-0100-72-Q01-00-001-SPEC-A.md): Performance Specification - *(SPEC)*
 </details>
 
 <details>
@@ -2416,14 +2426,14 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-73-00"></a> **73-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-00/`*
-    -   [`73-00-00-000`](./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-00/GP-AM-AMPEL-0100-53-073-00-00-000-OV-A.md): Engine Fuel & Control Overview - *(OV, SDD)*
+    -   [`73-00-00-000`](./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-00/GP-AM-AMPEL-0100-73-00-00-000-OV-A.md): Engine Fuel & Control Overview - *(OV, SDD)*
 -   <a name="ata-73-10"></a> **73-10: Fuel Delivery (Engine Side)**
     *Directory: `./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-10/`*
-    -   [`73-10-00-000`](./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-10/GP-AM-AMPEL-0100-53-073-10-00-000-SDD-A.md): Engine Fuel Manifold Description - *(SDD)* (Ref ATA 28)
+    -   [`73-10-00-000`](./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-10/GP-AM-AMPEL-0100-73-10-00-000-SDD-A.md): Engine Fuel Manifold Description - *(SDD)* (Ref ATA 28)
 -   <a name="ata-73-20"></a> **73-20: FADEC**
     *Directory: `./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-20/`*
-    -   [`73-20-00-000`](./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-20/GP-AM-AMPEL-0100-53-073-20-00-000-SDD-A.md): FADEC System Description - *(SDD)*
-    -   [`73-20-10-000`](./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-20/GP-AM-AMPEL-0100-53-073-20-10-000-SPEC-A.md): FADEC Software Specification - *(SPEC, REQ)*
+    -   [`73-20-00-000`](./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-20/GP-AM-AMPEL-0100-73-20-00-000-SDD-A.md): FADEC System Description - *(SDD)*
+    -   [`73-20-10-000`](./GP-AM/AMPEL_0100/ATA73_EngFuelCtrl/73-20/GP-AM-AMPEL-0100-73-20-10-000-SPEC-A.md): FADEC Software Specification - *(SPEC, REQ)*
 </details>
 
 <details>
@@ -2434,13 +2444,13 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-74-00"></a> **74-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA74_Ignition/74-00/`*
-    -   [`74-00-00-000`](./GP-AM/AMPEL_0100/ATA74_Ignition/74-00/GP-AM-AMPEL-0100-53-074-00-00-000-OV-A.md): Ignition System Overview - *(OV, SDD)*
+    -   [`74-00-00-000`](./GP-AM/AMPEL_0100/ATA74_Ignition/74-00/GP-AM-AMPEL-0100-74-00-00-000-OV-A.md): Ignition System Overview - *(OV, SDD)*
 -   <a name="ata-74-10"></a> **74-10: Exciter and Leads**
     *Directory: `./GP-AM/AMPEL_0100/ATA74_Ignition/74-10/`*
-    -   [`74-10-00-000`](./GP-AM/AMPEL_0100/ATA74_Ignition/74-10/GP-AM-AMPEL-0100-53-074-10-00-000-SPEC-A.md): Ignition Exciter Specification - *(SPEC)*
+    -   [`74-10-00-000`](./GP-AM/AMPEL_0100/ATA74_Ignition/74-10/GP-AM-AMPEL-0100-74-10-00-000-SPEC-A.md): Ignition Exciter Specification - *(SPEC)*
 -   <a name="ata-74-30"></a> **74-30: Igniter Plugs**
     *Directory: `./GP-AM/AMPEL_0100/ATA74_Ignition/74-30/`*
-    -   [`74-30-00-000`](./GP-AM/AMPEL_0100/ATA74_Ignition/74-30/GP-AM-AMPEL-0100-53-074-30-00-000-SPEC-A.md): Igniter Plug Specification - *(SPEC)*
+    -   [`74-30-00-000`](./GP-AM/AMPEL_0100/ATA74_Ignition/74-30/GP-AM-AMPEL-0100-74-30-00-000-SPEC-A.md): Igniter Plug Specification - *(SPEC)*
 </details>
 
 <details>
@@ -2451,13 +2461,13 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-75-00"></a> **75-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA75_EngineAir/75-00/`*
-    -   [`75-00-00-000`](./GP-AM/AMPEL_0100/ATA75_EngineAir/75-00/GP-AM-AMPEL-0100-53-075-00-00-000-OV-A.md): Engine Air System Overview - *(OV, SDD)*
+    -   [`75-00-00-000`](./GP-AM/AMPEL_0100/ATA75_EngineAir/75-00/GP-AM-AMPEL-0100-75-00-00-000-OV-A.md): Engine Air System Overview - *(OV, SDD)*
 -   <a name="ata-75-10"></a> **75-10: Anti-Ice**
     *Directory: `./GP-AM/AMPEL_0100/ATA75_EngineAir/75-10/`*
-    -   [`75-10-00-000`](./GP-AM/AMPEL_0100/ATA75_EngineAir/75-10/GP-AM-AMPEL-0100-53-075-10-00-000-SDD-A.md): Engine Anti-Ice System Description - *(SDD)* (Ref ATA 30)
+    -   [`75-10-00-000`](./GP-AM/AMPEL_0100/ATA75_EngineAir/75-10/GP-AM-AMPEL-0100-75-10-00-000-SDD-A.md): Engine Anti-Ice System Description - *(SDD)* (Ref ATA 30)
 -   <a name="ata-75-30"></a> **75-30: Ducting and Valves**
     *Directory: `./GP-AM/AMPEL_0100/ATA75_EngineAir/75-30/`*
-    -   [`75-30-00-000`](./GP-AM/AMPEL_0100/ATA75_EngineAir/75-30/GP-AM-AMPEL-0100-53-075-30-00-000-DWG-A.md): Bleed Air Ducting Drawing (If Applicable) - *(DWG)* (Ref ATA 36)
+    -   [`75-30-00-000`](./GP-AM/AMPEL_0100/ATA75_EngineAir/75-30/GP-AM-AMPEL-0100-75-30-00-000-DWG-A.md): Bleed Air Ducting Drawing (If Applicable) - *(DWG)* (Ref ATA 36)
 </details>
 
 <details>
@@ -2468,13 +2478,13 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-76-00"></a> **76-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA76_EngineCtrl/76-00/`*
-    -   [`76-00-00-000`](./GP-AM/AMPEL_0100/ATA76_EngineCtrl/76-00/GP-AM-AMPEL-0100-53-076-00-00-000-OV-A.md): Engine Controls Overview - *(OV, SDD)*
+    -   [`76-00-00-000`](./GP-AM/AMPEL_0100/ATA76_EngineCtrl/76-00/GP-AM-AMPEL-0100-76-00-00-000-OV-A.md): Engine Controls Overview - *(OV, SDD)*
 -   <a name="ata-76-10"></a> **76-10: Thrust/Power Lever**
     *Directory: `./GP-AM/AMPEL_0100/ATA76_EngineCtrl/76-10/`*
-    -   [`76-10-00-000`](./GP-AM/AMPEL_0100/ATA76_EngineCtrl/76-10/GP-AM-AMPEL-0100-53-076-10-00-000-SPEC-A.md): Thrust Lever Specification - *(SPEC)*
+    -   [`76-10-00-000`](./GP-AM/AMPEL_0100/ATA76_EngineCtrl/76-10/GP-AM-AMPEL-0100-76-10-00-000-SPEC-A.md): Thrust Lever Specification - *(SPEC)*
 -   <a name="ata-76-20"></a> **76-20: Emergency Shutdown**
     *Directory: `./GP-AM/AMPEL_0100/ATA76_EngineCtrl/76-20/`*
-    -   [`76-20-00-000`](./GP-AM/AMPEL_0100/ATA76_EngineCtrl/76-20/GP-AM-AMPEL-0100-53-076-20-00-000-SPEC-A.md): Emergency Shutdown Controls Specification - *(SPEC)*
+    -   [`76-20-00-000`](./GP-AM/AMPEL_0100/ATA76_EngineCtrl/76-20/GP-AM-AMPEL-0100-76-20-00-000-SPEC-A.md): Emergency Shutdown Controls Specification - *(SPEC)*
 </details>
 
 <details>
@@ -2485,19 +2495,19 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-77-00"></a> **77-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-00/`*
-    -   [`77-00-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-00/GP-AM-AMPEL-0100-53-077-00-00-000-OV-A.md): Engine Indication Overview - *(OV, SDD)*
+    -   [`77-00-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-00/GP-AM-AMPEL-0100-77-00-00-000-OV-A.md): Engine Indication Overview - *(OV, SDD)*
 -   <a name="ata-77-10"></a> **77-10: Thrust/Power Indication**
     *Directory: `./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-10/`*
-    -   [`77-10-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-10/GP-AM-AMPEL-0100-53-077-10-00-000-SDD-A.md): Thrust/Power Indication Display - *(SDD)* (Ref ATA 31)
+    -   [`77-10-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-10/GP-AM-AMPEL-0100-77-10-00-000-SDD-A.md): Thrust/Power Indication Display - *(SDD)* (Ref ATA 31)
 -   <a name="ata-77-20"></a> **77-20: Temperature Monitoring**
     *Directory: `./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-20/`*
-    -   [`77-20-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-20/GP-AM-AMPEL-0100-53-077-20-00-000-SPEC-A.md): Temperature Sensor Specification - *(SPEC)*
+    -   [`77-20-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-20/GP-AM-AMPEL-0100-77-20-00-000-SPEC-A.md): Temperature Sensor Specification - *(SPEC)*
 -   <a name="ata-77-30"></a> **77-30: Vibration Monitoring**
     *Directory: `./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-30/`*
-    -   [`77-30-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-30/GP-AM-AMPEL-0100-53-077-30-00-000-SDD-A.md): Engine Vibration Monitoring System - *(SDD)* (Ref ATA 18)
+    -   [`77-30-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-30/GP-AM-AMPEL-0100-77-30-00-000-SDD-A.md): Engine Vibration Monitoring System - *(SDD)* (Ref ATA 18)
 -   <a name="ata-77-40"></a> **77-40: AI Health Monitoring**
     *Directory: `./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-40/`*
-    -   [`77-40-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-40/GP-AM-AMPEL-0100-53-077-40-00-000-SDD-A.md): AI Engine Health Monitoring System - *(SDD)* (Ref GP-COM-AI)
+    -   [`77-40-00-000`](./GP-AM/AMPEL_0100/ATA77_EngineIndic/77-40/GP-AM-AMPEL-0100-77-40-00-000-SDD-A.md): AI Engine Health Monitoring System - *(SDD)* (Ref GP-COM-AI)
 </details>
 
 <details>
@@ -2508,14 +2518,14 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-78-00"></a> **78-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA78_Exhaust/78-00/`*
-    -   [`78-00-00-000`](./GP-AM/AMPEL_0100/ATA78_Exhaust/78-00/GP-AM-AMPEL-0100-53-078-00-00-000-OV-A.md): Exhaust System Overview - *(OV, SDD)*
+    -   [`78-00-00-000`](./GP-AM/AMPEL_0100/ATA78_Exhaust/78-00/GP-AM-AMPEL-0100-78-00-00-000-OV-A.md): Exhaust System Overview - *(OV, SDD)*
 -   <a name="ata-78-10"></a> **78-10: Collector/Nozzle**
     *Directory: `./GP-AM/AMPEL_0100/ATA78_Exhaust/78-10/`*
-    -   [`78-10-00-000`](./GP-AM/AMPEL_0100/ATA78_Exhaust/78-10/GP-AM-AMPEL-0100-53-078-10-00-000-DD-A.md): Exhaust Nozzle Design - *(DD, DWG)*
+    -   [`78-10-00-000`](./GP-AM/AMPEL_0100/ATA78_Exhaust/78-10/GP-AM-AMPEL-0100-78-10-00-000-DD-A.md): Exhaust Nozzle Design - *(DD, DWG)*
 -   <a name="ata-78-30"></a> **78-30: Thrust Reverser**
     *Directory: `./GP-AM/AMPEL_0100/ATA78_Exhaust/78-30/`*
-    -   [`78-30-00-000`](./GP-AM/AMPEL_0100/ATA78_Exhaust/78-30/GP-AM-AMPEL-0100-53-078-30-00-000-SDD-A.md): Thrust Reverser System Description - *(SDD)*
-    -   [`78-30-10-000`](./GP-AM/AMPEL_0100/ATA78_Exhaust/78-30/GP-AM-AMPEL-0100-53-078-30-10-000-SPEC-A.md): Thrust Reverser Actuation Specification - *(SPEC)*
+    -   [`78-30-00-000`](./GP-AM/AMPEL_0100/ATA78_Exhaust/78-30/GP-AM-AMPEL-0100-78-30-00-000-SDD-A.md): Thrust Reverser System Description - *(SDD)*
+    -   [`78-30-10-000`](./GP-AM/AMPEL_0100/ATA78_Exhaust/78-30/GP-AM-AMPEL-0100-78-30-10-000-SPEC-A.md): Thrust Reverser Actuation Specification - *(SPEC)*
 </details>
 
 <details>
@@ -2526,16 +2536,16 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-79-00"></a> **79-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA79_Oil/79-00/`*
-    -   [`79-00-00-000`](./GP-AM/AMPEL_0100/ATA79_Oil/79-00/GP-AM-AMPEL-0100-53-079-00-00-000-OV-A.md): Oil System Overview - *(OV, SDD)*
+    -   [`79-00-00-000`](./GP-AM/AMPEL_0100/ATA79_Oil/79-00/GP-AM-AMPEL-0100-79-00-00-000-OV-A.md): Oil System Overview - *(OV, SDD)*
 -   <a name="ata-79-10"></a> **79-10: Storage**
     *Directory: `./GP-AM/AMPEL_0100/ATA79_Oil/79-10/`*
-    -   [`79-10-00-000`](./GP-AM/AMPEL_0100/ATA79_Oil/79-10/GP-AM-AMPEL-0100-53-079-10-00-000-SPEC-A.md): Oil Tank Specification - *(SPEC)*
+    -   [`79-10-00-000`](./GP-AM/AMPEL_0100/ATA79_Oil/79-10/GP-AM-AMPEL-0100-79-10-00-000-SPEC-A.md): Oil Tank Specification - *(SPEC)*
 -   <a name="ata-79-20"></a> **79-20: Distribution**
     *Directory: `./GP-AM/AMPEL_0100/ATA79_Oil/79-20/`*
-    -   [`79-20-00-000`](./GP-AM/AMPEL_0100/ATA79_Oil/79-20/GP-AM-AMPEL-0100-53-079-20-00-000-SDD-A.md): Oil Distribution System Description - *(SDD)*
+    -   [`79-20-00-000`](./GP-AM/AMPEL_0100/ATA79_Oil/79-20/GP-AM-AMPEL-0100-79-20-00-000-SDD-A.md): Oil Distribution System Description - *(SDD)*
 -   <a name="ata-79-30"></a> **79-30: Indicating**
     *Directory: `./GP-AM/AMPEL_0100/ATA79_Oil/79-30/`*
-    -   [`79-30-00-000`](./GP-AM/AMPEL_0100/ATA79_Oil/79-30/GP-AM-AMPEL-0100-53-079-30-00-000-SPEC-A.md): Oil Indicating System Specification - *(SPEC)* (Ref ATA 77)
+    -   [`79-30-00-000`](./GP-AM/AMPEL_0100/ATA79_Oil/79-30/GP-AM-AMPEL-0100-79-30-00-000-SPEC-A.md): Oil Indicating System Specification - *(SPEC)* (Ref ATA 77)
 </details>
 
 <details>
@@ -2546,13 +2556,13 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-80-00"></a> **80-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA80_Starting/80-00/`*
-    -   [`80-00-00-000`](./GP-AM/AMPEL_0100/ATA80_Starting/80-00/GP-AM-AMPEL-0100-53-080-00-00-000-OV-A.md): Starting System Overview - *(OV, SDD)*
+    -   [`80-00-00-000`](./GP-AM/AMPEL_0100/ATA80_Starting/80-00/GP-AM-AMPEL-0100-80-00-00-000-OV-A.md): Starting System Overview - *(OV, SDD)*
 -   <a name="ata-80-10"></a> **80-10: Cranking**
     *Directory: `./GP-AM/AMPEL_0100/ATA80_Starting/80-10/`*
-    -   [`80-10-00-000`](./GP-AM/AMPEL_0100/ATA80_Starting/80-10/GP-AM-AMPEL-0100-53-080-10-00-000-SDD-A.md): Starter/Generator System Description - *(SDD)* (Ref ATA 24)
+    -   [`80-10-00-000`](./GP-AM/AMPEL_0100/ATA80_Starting/80-10/GP-AM-AMPEL-0100-80-10-00-000-SDD-A.md): Starter/Generator System Description - *(SDD)* (Ref ATA 24)
 -   <a name="ata-80-20"></a> **80-20: Ignition**
     *Directory: `./GP-AM/AMPEL_0100/ATA80_Starting/80-20/`*
-    -   [`80-20-00-000`](./GP-AM/AMPEL_0100/ATA80_Starting/80-20/GP-AM-AMPEL-0100-53-080-20-00-000-REF-A.md): Reference to ATA 74 - *(REF)*
+    -   [`80-20-00-000`](./GP-AM/AMPEL_0100/ATA80_Starting/80-20/GP-AM-AMPEL-0100-80-20-00-000-REF-A.md): Reference to ATA 74 - *(REF)*
 </details>
 
 <details>
@@ -2563,7 +2573,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-81-00"></a> **81-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA81_RecipTurbines/81-00/`*
-    -   [`81-00-00-000`](./GP-AM/AMPEL_0100/ATA81_RecipTurbines/81-00/GP-AM-AMPEL-0100-53-081-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
+    -   [`81-00-00-000`](./GP-AM/AMPEL_0100/ATA81_RecipTurbines/81-00/GP-AM-AMPEL-0100-81-00-00-000-NOTE-A.md): Chapter Not Applicable - *(NOTE)*
 </details>
 
 <details>
@@ -2574,7 +2584,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-82-00"></a> **82-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA82_WaterInjection/82-00/`*
-    -   [`82-00-00-000`](./GP-AM/AMPEL_0100/ATA82_WaterInjection/82-00/GP-AM-AMPEL-0100-53-082-00-00-000-NOTE-A.md): Chapter Not Applicable (TBC) - *(NOTE)*
+    -   [`82-00-00-000`](./GP-AM/AMPEL_0100/ATA82_WaterInjection/82-00/GP-AM-AMPEL-0100-82-00-00-000-NOTE-A.md): Chapter Not Applicable (TBC) - *(NOTE)*
 </details>
 
 <details>
@@ -2585,13 +2595,13 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-83-00"></a> **83-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA83_AccyGearbox/83-00/`*
-    -   [`83-00-00-000`](./GP-AM/AMPEL_0100/ATA83_AccyGearbox/83-00/GP-AM-AMPEL-0100-53-083-00-00-000-OV-A.md): Accessory Gearbox Overview - *(OV, SDD)*
+    -   [`83-00-00-000`](./GP-AM/AMPEL_0100/ATA83_AccyGearbox/83-00/GP-AM-AMPEL-0100-83-00-00-000-OV-A.md): Accessory Gearbox Overview - *(OV, SDD)*
 -   <a name="ata-83-10"></a> **83-10: Drive Shaft**
     *Directory: `./GP-AM/AMPEL_0100/ATA83_AccyGearbox/83-10/`*
-    -   [`83-10-00-000`](./GP-AM/AMPEL_0100/ATA83_AccyGearbox/83-10/GP-AM-AMPEL-0100-53-083-10-00-000-SPEC-A.md): Drive Shaft Specification - *(SPEC)*
+    -   [`83-10-00-000`](./GP-AM/AMPEL_0100/ATA83_AccyGearbox/83-10/GP-AM-AMPEL-0100-83-10-00-000-SPEC-A.md): Drive Shaft Specification - *(SPEC)*
 -   <a name="ata-83-20"></a> **83-20: Gearbox Assembly**
     *Directory: `./GP-AM/AMPEL_0100/ATA83_AccyGearbox/83-20/`*
-    -   [`83-20-00-000`](./GP-AM/AMPEL_0100/ATA83_AccyGearbox/83-20/GP-AM-AMPEL-0100-53-083-20-00-000-DD-A.md): Gearbox Design - *(DD, DWG)*
+    -   [`83-20-00-000`](./GP-AM/AMPEL_0100/ATA83_AccyGearbox/83-20/GP-AM-AMPEL-0100-83-20-00-000-DD-A.md): Gearbox Design - *(DD, DWG)*
 </details>
 
 <details>
@@ -2602,7 +2612,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-84-00"></a> **84-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA84_Reserved/84-00/`*
-    -   [`84-00-00-000`](./GP-AM/AMPEL_0100/ATA84_Reserved/84-00/GP-AM-AMPEL-0100-53-084-00-00-000-NOTE-A.md): Chapter Reserved - *(NOTE)*
+    -   [`84-00-00-000`](./GP-AM/AMPEL_0100/ATA84_Reserved/84-00/GP-AM-AMPEL-0100-84-00-00-000-NOTE-A.md): Chapter Reserved - *(NOTE)*
 </details>
 
 <details>
@@ -2613,17 +2623,17 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-85-00"></a> **85-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA85_FuelCell/85-00/`*
-    -   [`85-00-00-000`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-00/GP-AM-AMPEL-0100-53-085-00-00-000-OV-A.md): Fuel Cell System Overview - *(OV, SDD)*
-    -   [`85-00-00-001`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-00/GP-AM-AMPEL-0100-53-085-00-00-001-SPEC-A.md): System Specification - *(SPEC)*
+    -   [`85-00-00-000`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-00/GP-AM-AMPEL-0100-85-00-00-000-OV-A.md): Fuel Cell System Overview - *(OV, SDD)*
+    -   [`85-00-00-001`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-00/GP-AM-AMPEL-0100-85-00-00-001-SPEC-A.md): System Specification - *(SPEC)*
 -   <a name="ata-85-10"></a> **85-10: Fuel Cell Stack**
     *Directory: `./GP-AM/AMPEL_0100/ATA85_FuelCell/85-10/`*
-    -   [`85-10-00-000`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-10/GP-AM-AMPEL-0100-53-085-10-00-000-SPEC-A.md): Fuel Cell Stack Specification (PEM) - *(SPEC)*
+    -   [`85-10-00-000`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-10/GP-AM-AMPEL-0100-85-10-00-000-SPEC-A.md): Fuel Cell Stack Specification (PEM) - *(SPEC)*
 -   <a name="ata-85-20"></a> **85-20: Hydrogen Processor**
     *Directory: `./GP-AM/AMPEL_0100/ATA85_FuelCell/85-20/`*
-    -   [`85-20-00-000`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-20/GP-AM-AMPEL-0100-53-085-20-00-000-SDD-A.md): Hydrogen Handling System Description - *(SDD)* (Ref ATA 28)
+    -   [`85-20-00-000`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-20/GP-AM-AMPEL-0100-85-20-00-000-SDD-A.md): Hydrogen Handling System Description - *(SDD)* (Ref ATA 28)
 -   <a name="ata-85-30"></a> **85-30: Power Conditioning**
     *Directory: `./GP-AM/AMPEL_0100/ATA85_FuelCell/85-30/`*
-    -   [`85-30-00-000`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-30/GP-AM-AMPEL-0100-53-085-30-00-000-SPEC-A.md): Power Conditioning Unit Specification - *(SPEC)* (Ref ATA 24)
+    -   [`85-30-00-000`](./GP-AM/AMPEL_0100/ATA85_FuelCell/85-30/GP-AM-AMPEL-0100-85-30-00-000-SPEC-A.md): Power Conditioning Unit Specification - *(SPEC)* (Ref ATA 24)
 </details>
 
 ---
@@ -2639,7 +2649,7 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-91-00"></a> **91-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA91_Charts/91-00/`*
-    -   [`91-00-00-000`](./GP-AM/AMPEL_0100/ATA91_Charts/91-00/GP-AM-AMPEL-0100-53-091-00-00-000-OV-A.md): Chart Index - *(OV, IDX)*
+    -   [`91-00-00-000`](./GP-AM/AMPEL_0100/ATA91_Charts/91-00/GP-AM-AMPEL-0100-91-00-00-000-OV-A.md): Chart Index - *(OV, IDX)*
 </details>
 
 <details>
@@ -2650,8 +2660,8 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-92-00"></a> **92-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA92_ElecInstall/92-00/`*
-    -   [`92-00-00-000`](./GP-AM/AMPEL_0100/ATA92_ElecInstall/92-00/GP-AM-AMPEL-0100-53-092-00-00-000-PROC-A.md): Electrical Installation Procedures - *(PROC)* (Ref ATA 24)
-    -   [`92-00-00-001`](./GP-AM/AMPEL_0100/ATA92_ElecInstall/92-00/GP-AM-AMPEL-0100-53-092-00-00-001-SPEC-A.md): Bonding and Grounding Specifications - *(SPEC)*
+    -   [`92-00-00-000`](./GP-AM/AMPEL_0100/ATA92_ElecInstall/92-00/GP-AM-AMPEL-0100-92-00-00-000-PROC-A.md): Electrical Installation Procedures - *(PROC)* (Ref ATA 24)
+    -   [`92-00-00-001`](./GP-AM/AMPEL_0100/ATA92_ElecInstall/92-00/GP-AM-AMPEL-0100-92-00-00-001-SPEC-A.md): Bonding and Grounding Specifications - *(SPEC)*
 </details>
 
 <details>
@@ -2662,8 +2672,8 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-95-00"></a> **95-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA95_GSE/95-00/`*
-    -   [`95-00-00-000`](./GP-AM/AMPEL_0100/ATA95_GSE/95-00/GP-AM-AMPEL-0100-53-095-00-00-000-OV-A.md): GSE Overview - *(OV)*
-    -   [`95-00-00-001`](./GP-AM/AMPEL_0100/ATA95_GSE/95-00/GP-AM-AMPEL-0100-53-095-00-00-001-LIST-A.md): Required GSE List - *(LIST)*
+    -   [`95-00-00-000`](./GP-AM/AMPEL_0100/ATA95_GSE/95-00/GP-AM-AMPEL-0100-95-00-00-000-OV-A.md): GSE Overview - *(OV)*
+    -   [`95-00-00-001`](./GP-AM/AMPEL_0100/ATA95_GSE/95-00/GP-AM-AMPEL-0100-95-00-00-001-LIST-A.md): Required GSE List - *(LIST)*
 </details>
 
 <details>
@@ -2674,8 +2684,8 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-97-00"></a> **97-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA97_WiringReport/97-00/`*
-    -   [`97-00-00-000`](./GP-AM/AMPEL_0100/ATA97_WiringReport/97-00/GP-AM-AMPEL-0100-53-097-00-00-000-SPEC-A.md): Wiring Reporting Standard Specification - *(SPEC)*
-    -   [`97-00-00-001`](./GP-AM/AMPEL_0100/ATA97_WiringReport/97-00/GP-AM-AMPEL-0100-53-097-00-00-001-PROC-A.md): Wiring Maintenance Reporting Procedure - *(PROC)*
+    -   [`97-00-00-000`](./GP-AM/AMPEL_0100/ATA97_WiringReport/97-00/GP-AM-AMPEL-0100-97-00-00-000-SPEC-A.md): Wiring Reporting Standard Specification - *(SPEC)*
+    -   [`97-00-00-001`](./GP-AM/AMPEL_0100/ATA97_WiringReport/97-00/GP-AM-AMPEL-0100-97-00-00-001-PROC-A.md): Wiring Maintenance Reporting Procedure - *(PROC)*
 </details>
 
 <details>
@@ -2686,16 +2696,16 @@ This document provides a detailed, hyperlinked breakdown of the documentation st
 
 -   <a name="ata-99-00"></a> **99-00: General**
     *Directory: `./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-00/`*
-    -   [`99-00-00-000`](./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-00/GP-AM-AMPEL-0100-53-099-00-00-000-OV-A.md): Special Technologies Overview - *(OV)*
+    -   [`99-00-00-000`](./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-00/GP-AM-AMPEL-0100-99-00-00-000-OV-A.md): Special Technologies Overview - *(OV)*
 -   **99-Q01: Quantum Propulsion System** *(Example custom section)*
     *Directory: `./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-Q01/`*
-    -   [`99-Q01-00-000`](./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-Q01/GP-AM-AMPEL-0100-53-099-Q01-00-000-OV-A.md): Quantum Propulsion System Overview - *(OV)* (Ref ATA 72-Q01)
+    -   [`99-Q01-00-000`](./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-Q01/GP-AM-AMPEL-0100-99-Q01-00-000-OV-A.md): Quantum Propulsion System Overview - *(OV)* (Ref ATA 72-Q01)
 -   **99-AI0: i-Aher0 AI System** *(Example custom section)*
     *Directory: `./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-AI0/`*
-    -   [`99-AI0-00-000`](./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-AI0/GP-AM-AMPEL-0100-53-099-AI0-00-000-OV-A.md): i-Aher0 AI System Overview - *(OV)* (Ref GP-COM-AI)
+    -   [`99-AI0-00-000`](./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-AI0/GP-AM-AMPEL-0100-99-AI0-00-000-OV-A.md): i-Aher0 AI System Overview - *(OV)* (Ref GP-COM-AI)
 -   **99-BITT: BITT Ledger System** *(Example custom section)*
     *Directory: `./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-BITT/`*
-    -   [`99-BITT-00-000`](./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-BITT/GP-AM-AMPEL-0100-53-099-BITT-00-000-OV-A.md): BITT Ledger System Overview - *(OV)* (Ref GP-COM-BITT)
+    -   [`99-BITT-00-000`](./GP-AM/AMPEL_0100/ATA99_SpecialTech/99-BITT/GP-AM-AMPEL-0100-99-BITT-00-000-OV-A.md): BITT Ledger System Overview - *(OV)* (Ref GP-COM-BITT)
 </details>
 
 ---
